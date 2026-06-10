@@ -1,0 +1,262 @@
+# OMSHub Reviews: CS-6210 - Advanced Operating Systems
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2022
+Date: 5/4/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: To summarize,
+-This class has the best set of projects.
+-The chosen lecture content is not great for 30-40% of the times as they are too specific to old papers.
+-Exam weeks are stressful, the question papers are given ahead, yet they are unreasonably hard and is atleast 50% memory based and 50% logic based.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2022
+Date: 5/3/2022
+Workload: 24 hrs/week
+Difficulty: 5/5 Hard
+Overall: 5/5 Loved it
+Review: From Non-CS STEM major but took GIOS before AOS. For GIOS, I spent around 16-17 hours a week and got a solid A. For AOS, I spent about 24 hours a week. This is my 4th class. Projects: Project 0: concepts check and threads
+I'm not fond of this homework—just an unnecessary warmup. Project 1: Virtual Machine Scheduling in KVM(C, libvirtAPI) Design & implement an algorithm to allocate/deallocate CPU & memory between VMs. I have redesigned my algorithm several times and spent 50 hours. I like the project and learned from it. Project 2: Barrier Synchronization (C, openMP & openMPI) Based on the paper and course contents, you pick up barrier algorithms to implement and then write a report. I spent around 40 hours. I wasn't exposed to openMP and openMPI before. It's nice to know. I like this project, and it helps me understand barriers much better. Project 3: Distributed Service using GRPC (C++, gRPC) Implement async client and server. The GIOS project 4 prepared me. At least this time, I already knew gRPC. This project also has some subtle parts that require thinking. I spent around 15 hours on it and had fun. It is nice to have a non-heavy project in the mid of the semester.
+I appreciate it. Project 4: Implement MapReduce Framework (C++, proto3 ,gRPC) Implement a simple version of MapReduce based on the paper. Readme is well-written. It is a pretty cool project. I spent around 45 hours. The paper read time is not counted here. This is my favorite project so far in OMSCS. Note that I did all projects on my own. But you can also find a partner to work together from P2 to P4. Lectures, papers, office hours, TAs: The content is quite dense and requires time to think and understand. I learned a lot this semester. Besides two mandatory papers, I probably read through another five. There are also several other papers I only read the part I am interested in. I love the weekly meeting with Professor Kishore. He is nice and passionate about teaching. The office hour contents are well-designed with various quizzes. TAs are very helpful and active in the piazza. Tests Such a relief the questions are given ahead and allow us to discuss in the piazza! Some questions are pretty hard, and there are no alignment and clues on the correct answers after tons of thinking and discussion. The exam week is stressful.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2022
+Date: 4/24/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: 4th class in the program, previous: GOIS, Applied Crypto, RAIT. Overall, I thought this class was OK. Pros: Projects are doable. You're allowed to work with a partner for projects 2-4 if you want. I did not, but was still able to finish the projects. Project 4 took the longest (they tell you to start early on this one: LISTEN TO THEM), followed by project 1, then 2 and 3. None of the projects are particularly hard, they are just time-consuming. Professor is very invested in the class learning. He held office hours every week and was active on Piazza. 1% grade bump if enough of the class does the CIOS survey at the end of the semester Neutral: 0.5% grade bump if you attend 10 office hours, OR write summaries of 10 of them. I'm putting this in "Neutral" and not "Pros" because I felt this created more work for those who were unable to attend in person. I say this as someone who did attend in person so did not have to write any summaries. The office hours were held in the evening Atlanta time. Tests were released in advance and we were able to collaborate with other students on the answers, though we had to take the test solo (closed everything). Why is this not in the pros section? Because the tests are HARD. The first test highest grade was in the mid-90s, average in the 80s. We were allowed to discuss the answers before taking it because, per the professor, he "wants learning to occur". However, I found that I would more so try to memorize some of the answers vs understand them when taking the test. Cons: We used an older version of gcc and gRPC in the class, which some of us were not aware of until submitting code to GradeScope. Either telling us the versions of everything beforehand or updating gcc/gRPC would be helpful. The lectures tend to repeat themselves, as in the professor would explain a concept, then explain it again using slightly different words, then sometimes explain it a third time. I ended up watching the lectures at a faster speed because of this. There are a list of papers that you're supposed to read throughout the semester. I didn't do this, I read 3 of them: 2 that I had to summarize, and 1 that was needed for project 4. Students are required to provide their summaries to everyone, so you can probably get away with reading the summaries, though I didn't even read those unless they papers came up on the test or projects. Overall, this class was somewhat interesting. Due to the difficultly of the tests I placed "hard" on this review for the difficulty, if the tests were easier it'd drop the overall difficulty a lot. If you're interested in distributed systems & virtualization, I'd recommend taking the course.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2022
+Date: 4/24/2022
+Workload: 15 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This class is more of a "Systems Analysis" class than a raw OS class. There is a ton of lecture content, papers to read and fun projects. If you want an A in this class, expect to spend 20+ hrs a week simply due to all the papers and hangouts. The worst part about this class is the expectation of regurgitating very specific implementation details of obsolete or research systems on the exams, which are a good portion of the grade. That said, if you are interested in system design, studying and learning about design decisions of said obsolete and research systems can be very insightful. I enjoyed the projects. Projects 1 and 4 took the most time. 1 because of having to learn libvirt and 4 because of the scope of the project (simplified MapReduce framework). Project 2 was a pure algorithms assignment and project 3, which took me less than 5 hours felt more like a breather project. Some of the requirements on gradescope can be unspecified and people in piazza post frustrations, which are justified. If you don't stress out about getting an A, you can go in depth with just the papers you are interested in and watch lectures for the rest. All in all a satisfying class and is the kind I would expect when I do a Master's Degree.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2022
+Date: 3/12/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: In a lot of was I was extremely frustrated with this course. As I got further into the course I found myself a lot more interested in the content and some of my frustration started to dissipate. The earlier parts of the course focused on traditional operating system design and considerations, but the course quickly started to focus on parallel and distributed systems. So much so that this course might be better named as "Intro to Distributed Computing" instead of "Advanced Operating Systems". If you don't have proficiency with C/C++ or multi-threading, you may find this course extremely difficult. If that is the case I'd highly recommend taking GIOS first before you commit to taking AOS (especially because GIOS was designed to give the foundational knowledge required to succeed in AOS). Pros : Professor Kishore is extremely passionate about the subject and it's almost infectious The projects can be interesting The lectures pack a ton of background information that comes directly from assigned readings While attending office hours are part of your grade, they are absolutely worth attending. I found them more enjoyable than the pre-recorded lectures. Cons : The amount of information feels like drinking from a fire hose, and it's extremely difficult to keep up with readings, lectures, and assignments. Grading is not always straight forward and you may find yourself having to argue with TAs to regain lost points. Exams :
+The exams are close book and open ended questions only. The test questions are released 3-4 days before the exam is due and students are allowed to collaborate with each other to come up with the best answers ahead of time. Regardless, these exams are still relatively difficult and grading is based on specific key talking points. Not all answers are directly from the lectures/readings, so you will be forced to think critically based on the information you've learned up to that point. You will learn a ton simply through the process of answering the exam questions.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2020
+Date: 12/26/2021
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: One of those courses where you can see the professor really likes his subject. Having worked as a Data Engineer at Expedia, it was really cool to go in-depth on the theory behind MapReduce, parallel systems etc. I'll generally agree with the conclusions from Edson's YouTube video below - take it if you're really interested in Systems Engineering. (And if you're willing to spend extra time learning C/C++). I took this course in parallel with Human-Computer Interaction. In hindsight, probably not the best decision, workload-wise :D. That said, I managed to get an A after a lot of grinding - here are some tips and tricks , hopefully they'll help someone.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2021
+Date: 12/20/2021
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: I had a very good experience in the Advanced Operating Systems course. I have to say it's not an easy class and there are a lot of materials to cover. I publish a YouTube Video where I talk in more details about my experience in the class. If you are considering taking that class in the future, you should definitely watch the video so you can have a clear picture of what you are getting yourself into. The homework assignment are pretty challenging and I did not have enough time to read all of the assigned paper and fully prepared for exams. I have to say, I have learned a lot of new concept on that class that could help me in future classes ( Distributed Computing), hopefully, I don't get disappointed.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2021
+Date: 12/19/2021
+Workload: 20 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: AOS is not a bad course, but I do think it is heavily overrated on this site. Overall I learned a decent amount, but there is a significantly diminishing return in the amount of time invested vs the amount of learning. I think there is simply too much assigned material that is irrelevant, especially when the topics dive deep into the history of design decisions. It's interesting material for the most part, but it does detract from the high points of the topics. I have learned much more from other courses in the program while committing significantly less time. The projects were OK. Fun at some points, but overall not very relevant to the material and I didn't have any eureka moments like I did with GIOS projects. Also in contrast with GIOS, the course is significantly less organized. Project requirements were vague and often contained errors that would cause issues in development. It got to the point where I was unsure if issues were due to an error on my part or the TAs, and this is very frustrating to encounter. I did like that the professor was very engaged in the course and has a genuine interest in the topics. Thinning out the course topics to allow a deeper dive into the mechanics (not the history) of the remaining topics would go a long way to help this course. I think the biggest contributor to my disappointment was taking GIOS beforehand, mainly because GIOS is so streamlined. I would take this course if you just can't get enough of operating systems. If you have a lighter interest (like me), GIOS is sufficient.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2021
+Date: 12/16/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 5/5 Loved it
+Review: For the first time in my life, I felt out of my depth in this class. The material and projects were challenging, and my classmates all seemed to have years of low-level programming experience. In a small class with no credit given for Piazza participation, I quite often felt alone. But three aspects of the class came to balance this. First, the Slack discussion was active and collaborative. Second, you were allowed to partner on the last three projects. And third, the professor held mandatory hangouts every week. The professor obviously loves teaching this class, and his enthusiasm is infectious. Every 5 minutes of each hangout, he will poll the class on a particular concept. The questions were high-level, and yet often less than 70% of the polled answers were correct. Heck - I reasoned - if my classmates are consistently getting a third of these questions wrong, then maybe I do belong! The professor sets very ambitious learning objectives for this class. But he also wants to reduce the stress as much as possible. To that end, everybody gets a "One Time Forgiveness" to extend their project deadline by 1 week. It seemed like most of the class took advantage of this at some point. And most for the last big Map-Reduce project. To reach this high-learning / low-stress combination, the professor has been experimenting with the format of the exams. Until 2019, there was a big mid-term followed by a bigger-final. The final has been broken into two parts, so there are now three exams: a big first-mid-term (unchanged), a medium second-mid-term (half of the old final but longer), and a medium final. All exams are non-cumulative. The professor also implemented a new "open questions" exam policy. We get the exam questions on Friday-midnight, then can take the exam anytime through to Monday. And there is an "open collaboration" exam policy, so we all get together and spend two days hashing out all the answers on Google Docs. Unfortunately there is a price to be paid for these changes, and some of the exam questions have gone from "easy" to "omg". After seeing the exam questions and the discussion, the class exam average was still only 85. The exam questions themselves are not only fair and predictable, but also very insightful. Question 1 is on Topic 1. Question 2 is on Topic 2. And the questions always start out the same: "You'll recall that technology A is designed to do B. Why did the designers use X implementation?" I was often left wondering - yeah - that is a great question - why did they do it that way?! We get all of the old exams going back to 2010, and I personally learned the most going through these old exams. I'd strongly recommend finishing 5 of these before attempting the new exam questions. While these old exams are still only the "easy" questions, they give you a solid foundation for the "omg" questions. Because most of the technologies we studied died around 1995, there are few surviving sources describing the implementations of the "omg" questions (the assigned research papers didn't seem to help). In the end, you were forced to choose from the half-dozen theories proposed by your classmates.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2021
+Date: 12/15/2021
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: Where to start with this course... it has its good moments, but overall I'd say I was pretty disappointed with it. I took GIOS before taking this course, and the difference in quality and content is considerable. First of all, some of the content overlaps with GIOS, while the rest of it is mostly case-study style learning where you read papers about some semi-obscure technology to learn about its design and why its architects designed it that way. Overall I'd say that compared to GIOS, the knowledge I gained through this course was pretty minimal. That's not to say I didn't learn anything, but this course has GIOS to compare it to, and well, GIOS is just awesome, so it's tough to live up to it I guess. The projects start easy enough but they ramp up in difficulty fast. If you get a bad partner or decide to do the projects alone, good luck... I had an awesome partner and we could divide the work pretty much 50/50 without feeling like the other isn't contributing enough, and it was still a nightmare. They are not projects in the sense of "here's the input, this is the expected output, make it work". No, these projects are more like "this is a 5 page description of how your program should kinda look like, now figure something out. Oh and it has to pass a hidden autograder and we won't provide any tests". At least you can run the autograder an unlimited number of times...
+To be fair, the professor and the TAs are very active on Piazza and answer any questions promptly and in depth (most of the time), so it makes life a bit easier for the projects. But that basically means that the entirety of Piazza threads for the couple of weeks that the projects are open are pretty much required reading if you wanna do well on the projects. As for the professor... this guy doesn't really get the whole "O" aspect of "OMSCS". Mandatory live office hours that affect your grade? WTF? What about timezones? Well, there is the option to watch the recordings of office hours and write summaries, but like... that's double the work then.
+Also, it is true that the professor is very very involved in this course. And very interested in his students. Like, very very interested in his students. Like, he asked for our pictures on more than one occasion. I'm trying to attribute that to the fact that he's trying to get as close to an "in-person" learning experience, but still, like, that's weird. The lectures are fine, the professor explains everything clearly and sometimes explains the same concept in like 4 different ways, so there's a tendency to get repetitive, but I guess that's better than not explaining stuff well enough. Except... they're super loooong. Even on 2x speed they just go on and on and on... The thing is, a single "lecture" often spans at least 3 or 4 different topics, so when you think you're done with lecture 5, there's still lecture 5b, 5c, 5d, 5e and 5f to go through in the same week. And the "segments" are often about an hour or more each, so be prepared to spend more than just an evening on the lectures. In fact, for a person who only has evenings to allocate to this course, I found myself spending pretty much every evening either watching lectures, reading papers or doing the projects. Not to mention the days I had to take off work to finish the projects. The only really good thing about this course are the exams. There's 3 of them and the questions are released publicly when the exam period opens, and can be discussed publicly before you actually take the exam. That doesn't mean the exams are easy, though. They cover pretty much everything discussed in the lectures at least in some way, and even though you can discuss the questions beforehand, unless you're super good at memorizing 50 one-paragraph answers, you pretty much have to understand the topics to be able to write a convincing answer. I think this is an awesome way to conduct exams, since the format gives you no choice but to actually understand and conceptualize everything that's on the exam (which is pretty much everything discussed in the lectures). All in all, I did reasonably well in this class (got 100% on the projects and 95% and 85% on the first two exams, still waiting for the results on the last exam and last project), but it was hell on earth trying to keep up with all the load, the live office hours, etc... So I probably wouldn't take this course again if I had the choice. I think if the professor got rid of the live office hours, cut out some of the more pointless lecture topics, and provided some sort of public testing system for the projects, this course would be a decent choice. But as it is, it's a thumbs down from me.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2021
+Date: 12/13/2021
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: TLDR: DO NOT EXPECT TO LEARN MUCH PRACTICAL, MODERN STUFF OR YOU WILL BE DISAPPOINTED. Go in expecting a series of case studies related to software systems design, because that's all it is. Most well-made class I've taken so far, and I'm 7/10 done including this class. There's an explicit theme that systems design is 1% inspiration and 99% perspiration, and this class will make you sweat. There's not much breathing time. It's a constant fire-hose. There's so many assignments that nothing's worth more than 16%. 3/4 of the projects you can do in pairs, but they're pretty doable solo. The professor bleeds enthusiasm for the topic and for teaching. And I think the weekly office hours he holds are what he looks forward to the most at his job. It's hard not absorb some of that enthusiasm. You know those systems design questions you get asked in job
+interviews? This is THE class to take to get better at those. Though it makes no attempt to teach you the state of the art, just the chronology of ideas up through the recent past. I love the test format. The questions are posted publicly, then you have the weekend to collaborate with the class, memorize your answers, and type them into an Honorlock session. This means the test questions are hard. They really make you think about design choices, and all the factors involved in a design scenario. Keep in mind, the dark side of detail orientedness (as is required to do well on the exams) is that most of the details don't matter past answering the test question.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2021
+Date: 12/11/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: This is my first OMSCS course. It's not clear to me how it has such a high
+rating in OMS Central. Prof. Kishore has a likeable personality and seems
+to care about his students. I suspect that this is the key reason for the high
+rating. Also, I'm not sure if this course should be called "advanced operating systems". A more fitting name might be "miscellaneous systems topics". Content The course material itself is mediocre. Material appears to not have been
+updated since the course's inception. This pertains to both lecture videos and
+projects. The lecture videos are presented in a way which is neither precise nor
+concise. One sentence may be repeatedly stated in several different ways.
+This is an indication that the presenter is unsure how best to present an
+idea. The result is that the audience may lose his or her attention when
+the same idea is re-worded slightly and re-presented again and again. You
+essentially fall asleep watching the lecture videos because of this. The curriculum includes some serisouly questionable subjects, ones that
+are not appropriate to be part of an operating systems course. Examples
+include Java EJB and NuPRL. Projects The projects' starting states have all the same bugs described by past reviews.
+These bugs seem to get carried forward semester after semeter. It's not clear
+if it is the TA's or the professor's responsibility to fix these bugs - either
+way, these bugs aren't getting fixed for future semesters. The projects, even though poorly maintained,  are all fairly simple and doable. As you will see, none of the project really involves working on operating systems or some component of operating systems. Project 1 (C) Project 1 requires writing two C programs that make use of the libvirt API to
+manage VMs. Program one dynamically allocates CPU to a set of VMs in order to
+balance underlying physical CPU utilization. Program two dynamically allocates
+memory to a set of VMs. The libvirt API has a large API surface that you'll have to untangle. This project will likely take 10 to 20 hours, depending on how far you want to
+go on tweaking your algorithms. Project 2 (C) This one requires implementing a few synchronization barriers. Two for
+synchronizing threads which share the same address space, and two more for
+synchronizing processes that do not share the same address space. For the
+former, you are supposed to use the openMP framework. For the latter, you are
+supposed to the use the MPI framework. You will do performance testing of your barriers in the Georgia Tech PACE
+cluster, which uses the PSB batch job management system. You will likely
+encounter significant problems with how to specify the PSB job specification in
+a way that gets you the compute resources you need and the affinity that you
+need, unless the courses updates the project instruction. In the end, you write a summary to discuss performance. This project will likely take 10 to 20 hours. Project 3 (C++) This project requires you to write a gRPC server which uses a thread pool you
+implement to respond to client requests. Each response to a client request
+invovles first querying a number of backend gRPC services, getting their
+responses, and respond back to the client with the collective backend
+responses. You must use the gRPC c++ async server implementation so as to avoid
+using the gRPC c++ library's built-in thread pool. If you haven't worked with c++ before, you will find out that all the bad
+things you hear about c++ are true from doing this project. This project will likely take 5 hours. If you haven't worked with c++ before, add 10 more hours for the struggle you will encounter with c++. Project 4 (C++) This project requires you to implement MapReduce using gRPC, with some
+rudimentary fault tolerance implemented. This project will likely take 10 to 15 hours.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2021
+Date: 10/4/2021
+Workload: 35 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: TLDR; Hardest class I've ever taken. Had to withdraw due workload. Professor was great. Content was interesting. Looking forward to attempt again when I'm more prepared. Background: Graduated BS CS 5 years ago. This is my 2nd semester in OMSCS. Was rusty on C, working full-time as a full-stack web dev. No experience with systems programming. Took intro to OS as undergrad, but not GIOS. Took this class paired with ML4T. I have an A in ML4T and an A in this class so far (I think), but the workload is absolutely crazy... This class is like a second full-time job. After my second breakdown, I decided to withdraw and live to fight another day. Looking forward to taking it again after GIOS. Professor: Kishore is great. I love the energy he brings to the class. He is passionate about teaching. Really a great example of what an online class has the potential to be. Lectures: Very good content, very well explained, but the videos are dense. I liked the quizzes in there. Papers: Read the Xen paper for the summary assignment. Other than that, there's really no time to spend on the papers unfortunately. Weekly 1-hour Hangouts: Was fun to get to know the professor and see him live, as well as the rest of the class. Projects: Long, but liked working on them. Learned a lot, but it consumes any and all free time you have (and don't have) for weeks at a time. So they ended up being draining and stressful, as you start falling behind on lectures and exam preparation. Exams: Questions are given ahead of time, but somehow still hard because they are conceptual questions so you really need to know your stuff. Also I found it much harder to formulate answers and visualize concepts when there's no pictures in the questions; only a lot of new terminology, acronyms and concepts. Tips: Take this as your only class. Recommend taking GIOS first. If you're rusty or new to anything taught in this class, you're going to have a rough time.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2021
+Date: 5/11/2021
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: A great class that really is a survey of systems research over the past few decades.  There is a ton of material (too much to reasonably master for me certainly) but by the end of the course I had a great appreciation for the path through the research/papers that Kishore has set up and learned an incredible amount.  Projects are all interesting and rewarding.  Exam questions were released at the start of the exam window which reduced the stress of studying/preparing as you can focus on the material relevant to the questions (still challenging, but undoubtedly makes this class a bit "easier" - which is fine by me as I do not think it impacted the amount learned).  Kishore is a fantastic professor and is really dedicated to his online sections.  Overall a great course and highly recommended.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2021
+Date: 5/4/2021
+Workload: 22 hrs/week
+Difficulty: 5/5 Hard
+Overall: 5/5 Loved it
+Review: Only take this course if you have atleast 20hrs to devote to this course, else You will be the one who won't learn anything and end up frustrated/withdrawing in the end. This course is a lot of work, but it can be done with less workload. Such as by memorizing test answers as they are disclosed before the exam and students can openly discuss them. And making your project partner do most of the work in projects. But you won't learn much with this approach, so that's why I recommend having atleast 20 hrs to devote to this course for maximum benefits. Note: 20hrs is an estimate for an average CS grad. If your background is not from CS then you will probably require more time.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: SPRING 2021
+Date: 3/26/2021
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: Background This was my 5th course. I took GIOS last semester. If you can pass that class, you have the skill level for this one. I'm in the Spring 2021 semester, but figure I'd write a review as registrations open for the summer semester soon. Projects Project 1 (40-50hrs - 3 weeks) : Run some VMs, use the libvirt API to interface with them, adjust their vCPU and memory allocations dynamically. Going beyond VM theory and using a hypervisor API was interesting. I must've spent 20 hours tuning the memory algorithm alone though. I liked this in the beginning but hated it by the end. Project 2 (40-50hrs - 3 weeks) : Write 5 algorithms for synchronizing threads, processes and nodes. It was interesting learning the OMP and MPI mechanics and testing it on an actual cluster (PACE). We had to write 2 algorithms for threads and 2 for processes, so we could compare their performance. At the end of this, it was just too much work/time - I would've preferred writing 1 algorithm for each. Side note: Using PACE sucked. The provided shell scripts to run your code on PACE was only half working. Students were left to correct this and share their own scripts. I'm surprised this wasn't tested ahead of time. I spent a hours before going to the forums and found people saying multiple lines were incorrect and all the changes that were required. At this point, I just wanted to get this over with and hated PACE. Project 3 (10-15 hrs - 3 weeks) : A gRPC project. This is always good to learn. The project was similar to GIOS, so I didn't learn much from it but at least it didn't take 40+ hours. Project 4 (3 weeks) : Haven't done it yet. Lectures As others have noted, the professor is a model for those teaching online. He engages students, gets laughs, and is captivating. He takes polls which is how he gives you extra credit attendance points. However, I found there is a lot of overlap between the live and recorded lectures. If you feel it adds much value/time spent, knock yourself out. I felt the lectures were too theoretical and it made watch these very unmotivating. Exams Go through the video lectures a couple times and read/reply to posts on Piazza where people give their answers to the exam's questions that are released ahead of time. Clearly this isn't the objective but in all honesty, I just was never planning to read the papers. Other It feels like this course has been adjusted since the previous reviews. Sure, there are a ~40 recommended papers but I didn't read any (accept the 2 required for an assignment) - at least certainly not for the projects. But if you want to be an OS developer, knock yourself out and read the papers. Why don't they distribute a VM? You're literally asking 500 students to setup an environment for each project. Just make a VM and save people time and yourself lots of questions on Piazza. Although I had/have lots of frustrations with this course, the TAs were always very friendly and helpful. I could typically expect a Piazza response within 30 minutes and this would usually help solve my problem and ease my frustration. Also, the student community was very active and helpful. Summary If you're interested in OS, obviously this is a course you should take. If you're interested in general systems, maybe you should take it to reinforce some stuff. TBH, I regret taking it because of some of the major frustrations and time consumption with p1 and p2 and am just happy for it to be over (soon).
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2020
+Date: 12/28/2020
+Workload: 15 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: Tl;dr Really liked the course! The course gives a good overview of the various aspects of OS and the various solutions that have been used to tackle big problems in the space. The course expects a fair amount from you, but I think the TAs are super helpful and Kishore is a fantastic prof. The course was very reasonable esp. given covid. I come from a non-trad background with no C/C++ experience and this was my first course in the program. Got an A. Pros Learned a lot Great resources TAs are awesome Kishore was great Projects were interesting, taught me a lot about C/C++ Cons Probably the "mandatory" weekly hangouts. I missed some and still got an A so no big deal. Some HW assignments felt like busy work more than educational tools. Advice You could probably skip the papers, although that's where the bulk of the real learning/knowledge will come from. Maybe sample some of the papers that look interesting to you and read those (for your own personal enjoyment), otherwise the projects will take up most of your time. Start early on the projects, ideally the day they are released, no joke.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2020
+Date: 12/18/2020
+Workload: 15 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: Overall A very hard class if you're not already quite good at systems programming. Even more of a firehose than GIOS. I think I liked it but am mostly just glad to have escaped with a B. If you can't create your own threadpool library in C/C++ you are going to struggle mightily with 3 of the 4 projects. I was saved by doing four things: getting full marks on the second project (which was primarily graded on the writeup of an experiment, not the implementation) getting over 90% on both the miderm and the final (In our semester, we were provided with the actual test questions on the Friday that the test was released. If it weren't for that I would have definitely either dropped the class or gotten a C.) implementing project 4 without a threadpool getting at least 75% on everything else My Background This was my third course at GT. I got an A in GIOS and CN previously. I've been a software engineer for 4+ year with a background in Java and linux. The Course There's a seemingly endless amount of information in this course between the readings, lectures, and research necessary to complete the projects. There is also a lot of administrative stuff always happening in Piazza - signing up for things, going to hangouts, etc. It definitely didn't feel very asynchronous. The upside is that Prof. Kishore is incredibly engaged and interested in his students. That's very rare. The projects are cool if you are interested in the building blocks of modern web applications. However when implementing the projects it felt like I was somehow missing the forest for the trees the entire time. There isn't much of a curve in this class. In my semester it went: 88+ is an A 80+ is a B 70+ is a C 60+ is a D I think he said he rounded up, so maybe a 79.01 would have gotten a B - still not much of a curve. I guess overall it's cool to be able to now say that I've implemented a version of map-reduce, but it was a long, hard semester just for that.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2020
+Date: 12/17/2020
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This was one of my favorite classes so far (8/10). I think it was helpful having taken GIOS and HPCA before this mainly because those were my first classes using C/C++ heavily. The projects are really good and the material is great for the most part. There are some dated concepts and would have been better if the distributed systems section was a little more involved but I enjoyed it nonetheless. As many others have said, start all projects as soon as you can . They ended up being much more time consuming than I first anticipated by reading the project description. And there is very little starter code like in other classes. You'll be starting from scratch on most of the projects (except for number 4 but that also is the most time consuming by far). Prof Kishore is a great teacher and I love how much he's invested in students and trying to get them to succeed. It is clear that he has a passion for teaching and if I think the new Cloud Computing class he is teaching will be fantastic in large part because of him.
+
+---
+
+Course: CS-6210
+Course Name: Advanced Operating Systems
+Semester: FALL 2020
+Date: 12/17/2020
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: There were things I liked and disliked about this course. Liked: The projects were great and I had a blast working on all of them. The first and last ones are the most time consuming but also felt extremely rewarding. The professor is great and very involved in the course. The material itself was enjoyable. Disliked: I didn't feel like I learned much from the actual lecture content. And getting through the assigned papers within the semester while working full time just isn't possible (or at least very difficult). Overall, as an earlier review mentioned, this is very high level learning if you don't read most of the papers. The exams focus on rote memorization more than anything else. I personally hate those kinds of exams but at least the format this semester was different which made it a lot more tolerable. Overall, I enjoyed the class mainly thanks to the projects and the material being relevant to my interests. Be sure to have a solid background in C/C++ or else I would think the course could easily take 30+ hours/week rather than the ~18 it took me.

@@ -1,0 +1,230 @@
+# OMSHub Reviews: CS-6515 - Intro to Graduate Algorithms
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SUMMER 2024
+Date: 8/10/2024
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 2/5 Mixed
+Review: 
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2024
+Date: 7/26/2024
+Workload: 15 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Video version: https://youtu.be/Azi7fpis-Hc While this course isn't perfect, I really enjoyed it. Unfortunately, its shortcomings are amplified by administrative issues. If GA wasn't required for most specializations and wasn't so impacted, I think it would have much better reviews. As it stands, this is just about the worst class to have in your last semester because it's so exam heavy (read: stressful) and so different from other OMSCS classes; it's basically a math class. I thought the lectures were great, as well as the required textbook. The weekly quizzes were OK. There were some ambiguous questions, but overall they were fair. The homework was a good barometer for what to expect on exams, both in terms of format and difficulty. One bit of advice--don't worry too much about your homework grade. Look at it as exam prep, and if you get any points off just make sure you understand why. The exams are definitely stressful because they make up such a large portion of your grade and there are so few questions. With that being said, so long as you adequately prepare, they're not too bad. Coding projects were easy and didn't take very long. My advice:
+1. Successfully complete all recommended practice problems under exam conditions
+2. Watch all office hours (weekly and exam prep) and understand each explanation/solution
+3. Actively participate in a study group
+4. Don't stress Yes, the class isn't perfect. The exams are stressful and some TAs can be rude. Still, this was one of the most interesting and enjoyable courses I took in OMSCS. I just wish the administration could figure out how to make it available to students earlier in the program.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2024
+Date: 2/25/2024
+Workload: 40 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: TA's can say don't trust the reviews but reviews never lie and the reviews are brutal because its true. The only ones that agree with the TA's are the one's that get A's, yeah, nobody cares about your 10/10. For people new to the material and work full-time jobs, this course is tough. The grading being inconsistent among TA's are correct and grading to targeted to ensure most points are deducted. You have to write your words carefully in the HWs and exams as the TA's are prone to deduct points even if you mean differently and write the remaining sections correctly proving that what the TA understood while reading is not what the writer meant. You're also at the mercy of a mean TA to really penalize your paper and deduct 2 points on every step to severly jeapordize your graduation, career and future.
+Imagine working with such people on a daily basis, I'd rather do their interviews the same way, criticize every step they write their code and strong no-hire !
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SUMMER 2023
+Date: 8/14/2023
+Workload: 50 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: This is the only course in OMSCS that I didn't learn much, considering that this is one of the core modules you have to take, this is unacceptable. You are basically formatting your work to be as similar as possible to the expected answer, if not you'll be marked down multiple times, especially if you make the mistake at the start, plus a lot of other huge issues with the course itself. Graders are horribly inconsistent, some will give you full marks, some will give you a rolling deduction of 8/20 for a wording mistake. Office Hours are bad, they don't teach you how to solve the problems (they basically read out solutions) but instead how you should format it so you can have a chance of getting your assignment marked correctly. This course heavily relies on your study group and student feedback, which is basically just the blind leading the blind. I've had multiple times where some person in takes an entire group down the wrong rabbit hole and then everyone gets marked down for the wrong assumptions after the homeworks are returned. The TAs will encourage you to join a study group, but I joined 4 study groups, 2 of which did not even speak for the entire semester. Graders will also only reinstate some points based on student or TA feedback, if your post doesn't get any comments, tough luck, the grader won't give your points back and will insist they are correct. Good luck asking for a re-regrade, because they only reply you towards the end of the regrade week, which means there isn't even time to ask. I spent a lot more time arguing why I should get points back than learning algorithms, which is bewildering because this is Introduction to Graduate Algorithms, not Introduction to Gradescope Regrades. The exams are equally horrible, if you don't get an Eureka moment to solve the problem, you're basically fxcked and you will get 10/20 AT THE MOST even if you have the correct idea of what to do but the wrong implementation. If you can't solve both, then you're getting 20/40 at MOST , which you better pray you get full marks on the multiple-choice questions because 40/60 is only 66.666% and you need to get 70% for a B. The entire course is designed for you to retake to get an A, which is absurd.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 5/7/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: The course could be lot better. You will learn how to format the your algorithms in the specific way they want it.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: This was my 8th course in the OMSCS program and it was the hardest course so far with one other class a close second. My undergrad was not CS or CSE but I am a self taught programmer with 13+ years experience as a software developer. Thus, the coding projects were quite easy and essentially help your grade, the hard part is the exams. This course was quite difficult for me due to a few factors: the pace is fast unless you’ve already done an algorithms course before, the grading seems harsh — easy to lose almost all the points on a problem with a simple mistake hence some students repeat the course, it’s essentially like a math class, lastly not know how much to study (burnout). The HW and practice problems help you for the exams. Master them and Joves notes. My suggestions for success is understand the fundamentals, no, master the fundamentals of each topic: DP, Divide and Conquer, Graph algorithms, Linear programming and NP reductions. Also, don’t skip asking for a regrade on HW if something was incorrect in grading . It could cost you a letter grade if you’re not careful so don’t be too relaxed with a seemingly small grading issue. Also don’t just do it for spite as you can lose even more points. For exam prep do all homework problems and practice problems then do more. Understand the fundamentals of the topics for the essay questions as you will have to know the algorithms like the back of your hand or you will miss a lot of points. This is not a class where you can get by with a high level overview of the topic, you need to be thorough. For MCQ review the lectures and the book chapters. Exam Difficulty for me was Exam 2 > Exam 1 > Exam 3 You will see some students boasting that they got 100% on the exam and saying it was too easy while the exam average clearly is a C or lower on the exams. Ignore the A plus boasting students and just study hard don’t let their arrogance throw you off if you are struggling or make you feel inferior after all the work you put in, they likely already knew most of the material before the course or are fast learners. Don't compare yourself to them. Don’t sweat it. Lastly, the class IS hard but not crazy hard so don’t get siked out by some reviews as I did and make stupid mistakes on the exams due to anxiety. Just study smart and you will do fine, believe in your work effort and don’t quit once you see the harsh grading for exam 1. You can still do it.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I knew right after the first midterm that I should drop.  Normally I would have dropped and spent the rest of the semester preparing to repeat, but this was my last course and I didn't want miss graduation.  I had also heard that the first test was the hardest and that things could only get better.  I have always been an above average student, even in my previous graduate studies at this same school.  I knew I just had to try harder, so I went from 20 hours/week to 30. There was some improvement in my second midterm, though I still came below the mean.  I started questioning why in spite of my effort I'm still scoring poorly in every assignment.  Come the third test and I bombed the worst.  I asked myself, why do I feel like one of those kids who finishes high school unable to do algebra?  The answer to this is that this was my first algorithms course ever.  You see, the typical CS undergrad takes about 3 of these courses, and I walked into this not even knowing what a binary search was. My disappointment isn't with the course, nor with the instructor, it's that the program was supposed to prepare me for this but didn't.  I was hardly the only person in this class taking his first algorithms course and we all did poorly.  GT let people like myself into this program and knew that we'd hit this wall, yet they didn't offer a way to bridge the gap. How else could they improve this class?  The grading is dastardly and inconsistent.  Rubrics should be made known, test problems from past semesters should not be re-used, and TAs shouldn't be grading 200 papers each.  Was it all bad?  No, Joves notes were great, Rocko's office hours very helpful (I would say mandatory), and Dr Brito gets kudos for holding his own office hours (which hardly any professors do). Any advise for passing?  Yes, take a semester off if necessary and take Stanford's 4 course sequence with Tim Roughgarden on Edx.  Also, dispute every single point deduction.  I hate to do this to the TAs, but their grading is error prone (how could it not be when you're running a grading assembly line).  You don't want to end up getting a C on account of 0.1%, which is about as much as a point on a test.  Finally, don't wait until your last semester to take this class.  Take it after your two foundationals are out of the way.  Nothing in the curriculum will prepare you for this. In the end I passed with a 70.02%.  Did I learn much? Not as well as I should have.  Does the grade reflect my effort? Not by far.  What's next?  Well, I won't be applying at Google, or even bothering with LeetCode yet.  I will be taking my own advise and doing Roughgarden's courses.  After that, we'll see... I hear Google also needs TPMs.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: If you do not have a CS background or have taken an algorithms class prior this class can be quite challenging. Rather than leave my opinions or repeat things others have said about format, I will just leave a few tips. Study ahead of time. Look at the prerequisites and make sure you have some basic understanding of some of the topics. This will go a long way in relieving stress throughout the semester. If you have time, do some real simple Dynamic Programming, Divide and Conquer, and Graph problems before taking the course. If you find something particularly challenging study in advance and it might de-stress a week for you. Do a Big O notation crash course before you start. Do the practice problems. They really help reinforce the material and what is expected. Do the practice problems before exams if you didn't get to them during the week, or even if you did. Be careful about spending your time on problems that are not assigned. They can be really helpful for basic understanding but also could touch on stuff that will never make it on an exam. Don't stress during the exams. I messed up one of the exams because I was stressing over something silly. By doing so I missed a key point and did worse than I should have. I used online flash cards and they really helped for remembering things like algorithms, runtime, etc... Attend or watch the office hours. The TAs go over EVERYTHING in detail. Office hours also have exam prep sessions. The TAs want you to succeed. Avoid feeling demoralized by the folks in slack who seem to get everything immediately. Most of us didn't get immediately and had to work at it. Finally and very importantly, get in a study group with people you can talk with. It makes the hard weeks easier and the good weeks even better. My group met once a week over discord and discussed the problems (within the bound allowed by the class). Without that group I would not have made it through. This class stretched me further than most others but I feel like i have learned a ton and it has already benefited me in the way I solve problems.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: This course need significant re-structuring. Overall, if you don't give up, can keep your frustration in control......."B" doable, "A" might be little tough. Your grade do not reflects your understanding....it only reflects if you screwed up in a exam or not. Rocko, Jove & Professor were very helpful. Like the lectures, TA Office Hours, Projects, Quizzes, MCQ section of exam. HW & Written section was worst.....encourages memorizing, writing in a particular way to get good grades. Students get punished severely for outside the box thinking, writing style. Students who's first language is not English, puts them in dis-advantages. Here are my logic for removing/significantly changing the written section of HW & Exam. Due to writing style, it creates confusion what student writes & what grader interprets. Similarly, student can easily go off the track if they interpret the questions differently. No matter how well written the questions is, it's very easy to get confused in exam since no option to clarify what actually been asked. Had so many "Tomato" vs "Tomata" situations. Since, for a given problem can have different solution........it's easy to get punished if Grader don't buy your solution. Too much Human Factor. For the similar mistakes, different grader gives different deduction. Understand, it's honest judgement/mis-judgement by grader. It's very difficult to maintain the rubric for problem with open ended or too many different types of solutions. All those proves have little use in real world outside academia. The amount of time students spent on this, could be used for learning something useful. I was in a study group where noticed most smart student or student with conceptually better understanding.....do not get good points in those written HW/Exam questions. Student's who memorize the Jove's template do much better. Suggestions for improvement: 75% points on Exam is too harsh. Either totally remove / significantly reduce written HW & exam questions. Exam should be MCQ, fill in the blank questions OR questions with unique answers. It can easily be done, just need creative thinking & willingness to change. Quizzes & Coding Projects were very helpful. Forced to revisit lecture contents & understand to solve those. These should have more weights. May be add more quizzes and complex coding projects. In every assignment, HW, quizzes, exam questions........... Please justify, how this will be useful in real world.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/28/2022
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Some graders are there just to fail you. If you take this course, you will see what I mean.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/28/2022
+Workload: 15 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: This was my last class of the program, and also the first class I've had to repeat. In Fall 2021 I failed with a C, and in Spring 2022 I passed with a B. If you don't put in the time to understand the material, you will not do well. That part is on you. Now for the part that is on the instructional team, grading. You've seen it 100 times already, grading is inconsistent. The staff contend that they "calibrate" errors they're seeing in submissions to come up with a rubric and the corresponding penalties. There was also mention that while you're not told which TA graded your submission, they are assigned randomly instead of grading the same students the entire semester. Nonetheless, be ready for hefty penalties that are seemingly at the command of the grading TA's discretion. Clearly, a published rubric would solve this problem, but the staff refuses to provide one for any assignment. Also, the staff said very contradictory things such as: "this is NOT a math class", then, "this IS a math class!", then "we will not try to trick you on the exams", we had several tricky questions both semesters, clearly aimed at mass confusion. Don't expect points back if you're confused and select the wrong answer, you'll be the "dumb one". Be prepared to hear "you'll be sad" a lot. This class was designed to be difficult, and as such, prepare yourself for a stressful few months. The 75% exam weight will be your biggest enemy. The first time around, I took the final exam hoping to get my grade up to a B, but that was a bust. This time around, I didn't need to take the optional final because I had a B before the final exam window opened. If you've taken an algorithms class before, you may breeze this one, but, you must answer in the expected format or "you'll be sad". Tip: If you feel that you may be in a position to repeat the course, do not drop, and save EVERYTHING (if your GPA can take the hit). Save all the examples so you can study them and understand the details. Write down all exam questions, save office hours videos, save your homework answers, save your quiz answers, save your project code. Having this available to you the next time around will save you a lot of time, and allow you to practice more problems and understand the concepts.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/27/2022
+Workload: 19 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: This was my eighth course in the OMSCS program.  I took it during the Spring 2022 term.  I didn't have any real algorithms course during my undergraduate, and if I did, I probably forgot most of it in the 15+ years since getting my degree.  It is encouraged to form teams to work on homework concepts, and this is definitely crucial as you will need a support system.  The class has 7-9 polls (quizzes) projects, 3 exams, 10 homework assignments, and 3 coding projects.  There is an optional final exam.  This course is definitely a struggle and battle for the grade you will get.  Unless you work with algorithms in your profession or have taken the class (or similar class) before, be prepared to work and invest some serious time into catching up and keeping up. Coursework Homework (10%) : There are 8 homework assignments.  These are focused on the lecture and reading material for the current week.  Normally, there are some ungraded sample problems as well as 2 graded problems.  During the mid-week office hours, the answers for the ungraded questions are discussed and released, to give you an idea of how to find a solution as well as the expectation of the structure of your answers.  You have 1 week to complete the homework, and the solutions must be typed and submitted.... you are not allowed to turn in handwritten solutions.  This can be a challenge when trying to type out algorithms and graph information into Word or in Latex format.  You are not given a rubric or expected performance of your algorithms.  If you come up with a solution which takes O(n log n) and they expected better, no matter how correct your answer is, you will lose points for having a suboptimal algorithm. Polls/Quizzes (6%) : There are 7-9 quizzes (sometimes referred to as polls).  These normally consist of 1 question, and each poll/quiz is worth 1 point.  There is no time limit and open everything.  You can actually start the quiz, navigate away from it, and finish it later.  Also, you get 2 attempts at the quiz, unless it is a T/F quiz, in which case you only get 1 attempt.  Mostly easy points, if you understand the material.  An RSA quiz was added, consisting mostly of modular arithmetic.  It counted for 2 of the total points available for the polls/quizzes. Coding Projects (9%) : There are 3 coding projects. These are very simple and straightforward projects.  They involve implementing some algorithm discussed during one of the weeks.  The language of choice is Python.  You are normally given empty functions, and you just have to fill in the details pertinent to that function (with limited guidance and vague expectations I might add).  Project 1 was the Knapsack algorithm.  Project 2 used Divide and Conquer to find a given index within a sorted, infinite array in a given number of lookups or less.  Project 3 was using path compression and Kruskal's algorithm. Exams (75%) : There are 3 required exams worth 25% each.  These are not cumulative and cover material since the last exam.  They are closed everything.  You have 2 1/2 hours to answer 8 multiple-choice/true-false questions and 2 open end (free text) questions.  These questions are very similar to what was asked on the homework assignments.  You are allowed 5 sheets of paper.  The exams are proctored through Honorlock. Final Exam : The format of our final exam only consisted of 3 free-text responses with a 3 hour time limit.  The only difference is the final exam is cumulative.  If you have an A at the time of the final or taking the final won't bump you up to the next letter grade, you are not allowed to take the exam.  However, if you don't have an A, you can take the final, and it will replace the lowest of your other 3 exams (if you score higher on the final than one of the other exams). Take-Aways Miscellaneous Stuff : There is a curve in the class, which can get larger if need be.  Initially, A=100-85, B=85-70, C=70-50, D=50-40, F=40-0.  They do not round, so if you get an 84.9999, you get a B.  Again, the "cutoffs might be adjusted, but only in the downward direction (to make letter grades higher)."  The final letter grade cutoffs for Spring 2022 were: A=100-82, B=82-67, C=67-47, D=47-37, F=37-0. Homework : The homework can be a nightmare.  Be prepared to read a couple hundred comments in Ed for each homework problem and what is being asked.  Be sure to type out your answers and not not write and scan them into a document.  The tasks are normally: explain your algorithm, explain why it is correct, and analyze the runtime.  For some of the questions, you will have to decipher what the question is asking as some questions can be a nightmare due to the wording. Lectures : The lectures are from when the class was originally created.  They seek suggestions on making it better, but it is obvious they have no intentions on updating it any time soon.  Several of the lectures are nothing but proofs, but when you get to the homework, you are expected to know how to solve a problem after having only been exposed to proofs.  You may find yourself many times trying to learn the material on your own as the lectures may be close to useless. Textbook : There is a required textbook.  It is Algorithms by Sanjoy Dasgupta, Christos Papadimitriou, and Umesh Vairani, often referred to as DPV.  The ISBN is 9780070636613.  There is also a book some people will reference to help in understanding algorithms.  It isn't required, but can be helpful.  You may be able to find PDF versions of these books online, if someone doesn't post a link in Ed. Projects : The projects are interesting and relevant to the course.  They show how to take various algorithms and implement them.  Most of the coding can be done in a fairly short amount of time.  This is especially helpful because the week the project is due normally has a homework assignment due as well. Exams :  There are 3 exams, and they are killers.  Each exam counts for 25% of your grade.  If you are able to take the final (do not have an A average at the time of the final), the final will replace your lowest exam if it will bring your grade up.  The difficult part about the exams is they are similar to the homeworks.  If you don't understand the homework, it will show on the exam.  Also, it is stressful knowing that, while you may have spent 4 hours coming to the correct dynamic programming solution and typing it out in Word, you now have about an hour to do the same thing on the exam.  That is, the exam is 2.5 hours long with 8-10 MC/TF questions and 2 free text answers.  If you spend 0.5 hours on the tricky MC/TF questions, that leaves you 2 hours to solve 2 questions by finding their formula and typing out your response. Professor and TAs : The entire teaching staff was pretty decent.  Rocko definitely has a passion for the course, but he can be pretty blunt and short at times.  Joves is amazing.  He releases the notes he took when he was a student in the course.  They are vital and should be studied and understood in depth. Overall Grade : I put a considerable amount of time in this course (over 293 hours to be exact).  In the end, my grade was 68.46, which got me a B. Final Gripe : I know this OMSCS program is designed to be challenging and make you work for your grade.  I know this is a hard course.  But, from my perspective, you are doing something wrong when: The average for exams is barely the cutoff for a B (i.e. the average for Exam 1 was 71.9, Exam 2 was 75.7, and Exam 3 was 73.98) You use the original videos created for the course and do not update to fix identified problems Students have to go watch videos and read articles on how to accomplish tasks because explaining proofs doesn't really explain how an algorithm actually works Students have to read through 300+ comments to understand a homework spec because the provided spec is so vague, or students have to dig through the comments in 1 of the 3 Ed posts for a given homework just to find out the expected format of the answers because they were not outlined on the homework Lectures incorporate a "quiz" with no explanation on what is expected as an answer and the "answer" to the quiz is a screen with the answers and zero explanation on how to solve before or after the quiz You accept 0 reasons for not being able to take an exam A student is looking forward to having a medical procedure performed instead of dealing with the class You have to curve a class to where at least a 67 is a B TLDR Get ready to have little to no social life, put stress on you marriage (like myself), and spend time teaching yourself concepts just to grasp the material just enough to edge out with at least a B.  This class is completely theoretical.  Don't expect it to be a lot of coding or application of concepts.  Be prepared to think from a higher, more conceptual level.  If algorithms, Big-O notation, logarithm, graph theory, modular arithmetic, Dynamic Programming, Divide & Conquer, algorithmic proofs, Linear Programming, or NP-Completeness are new or rusty to you, brush up.  I cannot express this enough... review those concepts.  If you come up with a O(n log n) solution and the instructional staff expected O(n), you will lose points, even if you have a correct solution.  Listen to Joves.  Study, understand, and maybe even memorize his notes.  Give him thanks for all his help and work.  Be part of a good team, and communicate with them.  Do the ungraded sample problems.  Do some of the exercises at the end of the chapters.  Stay up-to-date or work ahead.  Be prepared to spend a considerable amount of time dedicated to this course.  Prepare for the stress and sometimes morale crusher.  Prepare to spend a lot of time studying for the unfairly weighted exams.  In the end, the course teaches you a lot of concepts and alternate ways of improving on performance and efficiency of algorithms.  Don't judge your competencies by your grade or the grade of others.  Some people get it pretty easy, and others will struggle.  Just push through, learn, curse, kick, and scream along the way.  Just keep going.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/27/2022
+Workload: 7 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Honestly, the class is not nearly as hard as some of the other reviews have made it out to be. This semester I worked full-time, was enrolled in another class, and was traveling a good number of weekends to interview at various graduate programs - I devoted ~7 hours a week (about an hour a day) on average to this course, including watching the lectures. It was certainly a difficult class but totally manageable as long as you study the provided material. My background is not in CS but I have about 5 years of SWE industry experience so YMMV. For the exams I reviewed Joves' notes and skimmed the homework for the unit. I didn't do a single practice problem for an exam and ended up earning a strong A (not endorsing this approach by any means, just pointing out that targeted studying is all that's needed for exams). I also didn't read any of the assigned chapters in DPV and was fine. Exam grading was fair, expectations for answer format for the long-form questions was clearly stated (contrary to what some other reviewers are saying...) I found the lectures engaging and they piqued my interest in algorithms in general. In particular the FFT module was eye-opening for me (is there anything that algorithm can't be used for?). The content on NP completeness was also of great quality. This was my last course in my OMSCS degree and I can confidently say it was the best of the 10 classes I took. The only minor gripe I have with the course is the TAs. HW grading, as mentioned in many other reviews, is really all over the place. For example, on two separate HWs I was docked 6 points and 2 points for making the same mistake: analyzing the runtime wrong. Didn't affect my overall grade, but annoying when each hw problem is out of 20. The head TA has a bit of a superiority complex that shows up in responses on Ed Discussions (many of my classmates made the mistake of asking stupid questions).
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/26/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This was definitely a difficult course, but I enjoyed every bit of the material. This is the type of quality course that I expected from a graduate degree.The grading is definitely tough & requires a keen attention to detail. Keys to success: watch the lectures multiple times. YouTube some of the concepts as they are presented better there in many cases. FFT, in particular, is presented really well in some YT videos. Also, Abdul Bari has a great series of videos on a lot of the algorithms from the course. attend/watch the OH with the TAs & Dr Brito. do not let yourself fall behind in the material. practice, practice & practice the problems thoroughly until you get it. Don't let the negative Nancys & Nicks in the reviews scare you. This is a good course & you will learn a bunch!
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/26/2022
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: In order to ace this course one needs to deeply understand the topics. The exams test one's ability to generalize, and apply the concepts. Anything that is shallow will get exposed by the exam and cause sadness. Dr. Brito keeps the exams fair, and focuses on fundamentals. If you cover the fundamentals(not the fancy stuff) really well, and manage exam related anxiety/stress then you've got this! There is a lot of misinformation about this course in the other reviews related to grading, unfair nit-picking, study group is a must etc. TA/IA team is rock solid, just pay attention in OH, practice a lot, and have faith that everything is designed in order to help you succeed. I had a complete mental breakdown on the first exam(my fault), and still ended up with a grade I wanted without needing to take the final exam. Please do not panic, you've really got this! Just have fun with the course, and a delightful team of instructors, optimize on learning (grades will follow). #igotout
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/25/2022
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I put difficulty as very hard but it's not from the lecture materials. The contents they cover during the course is not even challenging. The "very hard" part is the way they evaluate students. It's my "strongly disliked" part as well. The exam grading is extremely harsh on purpose and random. They will force you to write the answers in a specific format and if you miss any, they will simply take off points. When each exam weights 25 percents of your final grade. The point reduction from formatting mistake hurts. I understand there are thousands of pages they need to grade, so a certain formatting is set for their convenience. But, I am just curious why they don't make the exam having all multiple choice questions with various level of difficulty. That way, there is no confusion and fury on highly randomized and subjective grading. They will probably defend their current system with numerous pretty-sounding reasons like how they do when it comes to regrade request. Simply a worst learning experience during the OMSCS.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/25/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: As my 5th course in the program, I can say I learned a lot from this class, while it's also my least favorite. What's good: Lecture videos and textbook; Rocko's Office Hours; Joves' Notes; and some comments left by TA in my HW and exam grading. What's bad: In general, the instructing team gave me an impression that they hold students as their opponents. They habitually talk down to students. For example, "A reminder that the exam is considered confidential - information regarding the exam content may not be shared in any public forum (#slack, WeChat, etc)." This is a blatant violation of 1st amendment right. I do not believe the TAs have the legal power to stipulate what students can and cannot say. "You are prohibited from discussing the content of the exam in any public forum such as #slack.   Please restrict your discussions to this forum": Same as above. "Regrade requests of the form "I only need x points for [ an A | to graduate | etc ], can you please look again?"  will not be tolerated. ": Wouldn't it be better to use "honored" instead of "tolerated"? Is this a higher education institution, or a prison? Also, TAs' grading is wildly unpredictable. I guess they feel free to say whatever they wanted to say, because they don't have to reveal their identity. This anonymity might seem a safe harbor for TAs, but eventually it hurts their performance and their reputation, badly. They can sometimes even get verbally violent if you challenge them about your grading. I feel working as TAs for this class is tedious work. They have to deal with hundreds of students, and not all students are smart. A lot of them ask dumb questions. I get it. I would lose patience too. This might probably the reason why TAs are so easily irritated in their interaction with students.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/25/2022
+Workload: 40 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Many sentiments reflected in the reviews are very accurate. Grading: haphazard
+There is no consistency in grading. Even if your answer is correct, but they are expecting a specific word, you'll lose a lot of points. e.g. if more than one solution is correct, "Any solution obtained ..." is docked 4 points off. Expected word is "Pick one of the solution ..." Exams: It all boils down to whether you can come up with relevant transformations or not and whether you can remember and follow exact steps expected by Grading team.
+Even if your answer is correct - but does not match Rocko's solution, you'll be docked points heavily. While Rocko states that we will consider the solution, you'll have to present your solution to peer feedback. Once assessed, there is very little chance that you may get a upward grade movement, but there will be a downward movement. The TAs will say anything to defend their comments. That said, some TAs provide proper feedback. Practice homework assignments in "notepad" - single font, no size difference -- no formatting.
+The graders may not read through the entire solution or make an effort to understand it. They have 100s of assignments to validate within a few days. It is your responsibility to make sure you present what you want them to see. In exam,  table in canvas for demonstrating the working of algorithm logic,  exported to gradescope messed up completely. The grader knocked off points severly and commented   "I do not understand this, hence this must be wrong". Did not even make an attempt to read through the content. It always helps to get full points in Projects and Polls as they are not subjective. Make sure to pray you get a good grader. If you perform bad on the first exam, there is always chance to recover, but if your assignments and exams 1 have been class median or less, it is recommended to register for the upcoming terms. The attitude of TAs and Graders are bad if you ask clarifying questions or want to understand more. From earlier statistics, about 10% of students drop after exam 1 and about 5% get grade C or less. In a class of 900, 15% that is about 135 students !! This class leaves a very bad taste at the end of OMSCS. Anyhow, Good luck with your course.
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/25/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: Honestly, this class was both terrible and good at the same time, but my main takeaway was that it was much easier than I expected (based on the reviews here). I was stressed out the entire semester because I was dead set on getting an A (getting an A is not easy), but you can very easily get a B with minimal effort.
+All you need to do: Keep up with the lecture schedule and homework. Make sure you have a high level understanding of the lectures when you watch them. You don't need to understand the math in detail, a high level understanding is enough. Cram Jove's notes during the weeks of the exams. This is really all you need for this course. You should at least get a B or higher with only 3 weeks of intense studying. I put in 30 hrs a week (homework, lectures, studying) leading up to the first exam, 10 hrs a week before the second exam; I was burnt out by then, so I only studied a day before the third exam. I still got an A in the class. And I'm not good at Algorithms. I'm not stupid, but I've bombed every technical interview I've ever had. In fact, I've never gotten a job offer from an algorithm-based interview. Also, I did not study CS undergrad, so I had never taken an Algorithms course before this one. This was actually my least favorite class in undergrad or graduate school, but most of my issues with the class are really GT's fault, rather than the class's fault. My main complaint about the class itself would be that the grading was too subjective and random. Otherwise, this course is ok overall. I did enjoy the material. The TAs that you see (posting and OH) are active and generally helpful. Students in this class are generally more helpful than they are in other OMSCS classes. Pros: Easy to get a B or higher Helpful and active TAs on Ed/Slack (especially Joves) Cons: Grading is too unpredictable Having most of your grade depend on having 3-4 good days, rather than consistent effort over the semester (a lot of other OMSCS classes are project based, and I've come to appreciate that)
+
+---
+
+Course: CS-6515
+Course Name: Intro to Graduate Algorithms
+Semester: SPRING 2022
+Date: 4/25/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: I spent my entire degree worrying about this class and it turns out it is actually OK. Not too easy and not too hard. I got an A in it with a moderate amount of work put in. But whether you find this class difficult and stressful will depend on a couple of things: Are you familiar with DP and Graph algorithms already?
+This class goes over these topics quite quickly. DP was only 2 weeks of the entire semester, yet you are expected to be an adept at it by the time you take the exam. Luckily I already knew quite a bit of DP and Graphs before coming to this class so I did not find this very challenging. Can you clearly explain your algorithm in english?
+3/4s of the class is about writing essays where you explain your algorithm in words instead of pseudocode. If you are not a native english speaker you may struggle with this. Even if you know the answer to the question, you need to be able to properly explain it in words clearly and organized so that the TA grading you can understand your logic. TAs are not magical beings who can read your mind, you need to explain your algorithm as well and simply as you can. Below I give a couple of tips to succeed on this class Watch the lectures a semester ahead before taking the class. Part of the reason people struggle is because there is so much material covered in the class, and they go over it quite quickly. There are like 10 topics and the go over each in a week or two. Watching the lectures ahead of time (and taking notes so that you can review them when class starts) will allow you to focus your time on doing practice problems and preparing for the exam instead of watching lectures. Study DP and Graphs before starting this class. You do not have to be an expert, but having a good overall understanding of these topics before the class even starts will make things less stressful and give you more time to practice as well. Practice as much as you can. Algorithms is a topic that only comes with practice. Do not waste your time on leetcode. I personally think leetcoding is useless for all topics covered in this class except DP. Read Joves notes very carefully. He goes over every nook and cranny of all topics covered in class. Pay attention at how he writes the algorithm solutions and pseudocode, you will want to mimick it on the exam. Study very hard for Exam 1. If you do well on Exam 1, you will not be too stressed for Exam 2 and Exam 3, allowing you to be less nervous and perform better. Your experience and stress in this class will probably heavily depend on your score for exam 1. However, do not be disappointed if you perform poorly on it either. I saw many people do bad on it and still pass the class no problem. Join a study group. Everyone is on the same boat as you, and their encouragement can help you keep going in times of stress. Overall I enjoyed the class. I thought it would be much harder than it actually was. In fact, i think it was a pretty easy class, but I think a medium score is more representative due the wide range of student backgrounds and due to the stressful nature of an exam-based class. It is easy but stressful, if that makes sense.

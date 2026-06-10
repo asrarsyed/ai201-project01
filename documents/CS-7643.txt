@@ -1,0 +1,229 @@
+# OMSHub Reviews: CS-7643 - Deep Learning
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SUMMER 2024
+Date: 5/9/2026
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: If you have a good supportive easy textbook, that helps a lot. I highly recommend Deep learning: From Curiosity To Mastery - volumes 1 and 2 (I think it is on amazon) You can preview Volume 1 at: https://balloontip.com/preview.html
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: FALL 2024
+Date: 12/17/2024
+Workload: 25 hrs/week
+Difficulty: 5/5 Hard
+Overall: 5/5 Loved it
+Review: I want to say this is one of the best OMSCS course. I have thoroughly enjoyed this course and my knowledge in the topic increased many folds. Other OMSCS courses should be like this. Pros: The assignments were superb. Every assignment included coding, analysis and a paper review. It was very comprehensive to know all about the topic TAs held regular OH and open to any discussions on the topic. This made the session very interactive The material is most up to date and covered state of the art, which was amazing Cons: The Meta OH were of not much use to me, as many of the guest lecturers came unprepared and did not have a fixed agenda. The discussions were all around and mostly shallow. Some of the lectures were on a high level. More detailed lectures would have been nice to have. I referred to other lecture videos and materials which were shared on ed posts by other students
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: FALL 2023
+Date: 1/29/2024
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: I took the class in Fall of 2023 as my 6th class in OMSCS. Overall I really enjoyed the class and got an A but just barely. The class consisted of 4 assignments and 1 group project project, and 5 "quizzes". Prerequisites : Python proficiency, especially comfort with numpy python package since pytorch uses a similar syntax. Familiarity with machine learning. If you don't have this, I highly recommend taking the time to do Andrew Ng's machine learning or deep learning specialization on Coursera. Assignments I had to work on the assignments almost every day. They were very hard but if you were consistently working on it, checking EDstem, and office hours you could definitely get through them and learn a lot. Assignment 1 + 2: Deep learning basics and Convolutional Neural Networks from Scratch. I think the most useful thing I learned was how to do back propogation by hand and getting comfortable with using Tensors in pytorch. Assignment 3: Shortest assignment. Style transfer and visual explanation of deeep neural networks., Assignment 4: NLP basics, RNN, LSTM, and Transformer Architecture. This IMO was the most interesting assignment. Language models like ChatGPT is built on transformer architecture so understanding them is very important. Quizes: IMO these were more like exams and the most stressful part of the class. You absolutely need to study for them. I did about average on these but I feel like quizes don't always reflect the assignments or the lectures very well. Projects: Your group has to do a deep learning project. My team did a kaggle competition where we looked at an image classification task for very large images (file sizes of >1GB). Kaggle is great because they provide free GPU resources (up to a certain amount per week). The class also gives you some GPU credits on Google Cloud but it is a very limited amount. We also had to submit a 6-page paper written in Latex document which is useful for those interested in publishing their results. The grading on this was very minimal. We had to submit the assignment within a few days of the end of the class so the TAs did not grade the report that harshly.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2023
+Date: 7/31/2023
+Workload: 30 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: I took CS7643 and would like to share my thoughts on the class. While the professor was friendly, I must admit that the course did not meet my expectations, and I would consider it the worst courses I've taken in OMSCS, i.e. 1 out of 7. Please not it is not one of the worst. DP is a challenging subject to teach, given the abundance of quality lectures available. After completing the course, I felt that it was only sufficient for earning credits purpose. For those genuinely seeking in-depth learning, I believe resources like Andrew Ng's courses might be a better fit, based on my limited experience. Unfortunately, I found the TAs to be lacking in their support, and many questions remained unresolved. As a result, I eventually gave up on seeking assistance. The responses received often felt inadequate, with explanations like "this is a graduate-level course." I found the lecture setup to be quite unusual and tedious. Unlike other OMSCS courses, the lectures were continuous 20-minute sessions without breaks or quiz questions to facilitate understanding. Additionally, the lecture slides were challenging to comprehend, and much of the content appeared to be copied from other sources, leaving me wishing I could have done the same. Despite taking other OMSCS courses and acquiring knowledge from them, I feel that CS7643 did not contribute significantly to my learning. Some OMSCS central reviews suggest that earning an A might be achievable with just 60% credit from the quiz, which seems to indicate that success in the quiz is just a coin tossing game. This resonates with my own experience. I found the quiz and grade release process to be immediate. I do appreciate the quick release of grade. Though quiz quick release could potentially facilitate cheating. The professor's kind gesture in this regard might have made the quiz less meaningful as a genuine assessment. The setup could potentially allow students to coordinate and secure an 80% credit by pooling their efforts, rendering the quiz less rigorous. In an attempt to remain positive, I must acknowledge that the professor is a nice person. However, I can't help but express my disappointment with CS7643. Normally, I participate in CIOS surveys only when I find a course to be truly helpful. The absence of my survey submission would typically indicate an average experience. However, with CS7643, my disappointment is significant enough to share my thoughts for the benefit of future students.
+In conclusion, while the professor's kindness is noteworthy, I believe the course has significant room for improvement. As an OMSCS student, it is essential to consider personal preferences and learning styles when choosing courses, and I hope my feedback can contribute to a more informed decision-making process for others.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2021
+Date: 8/29/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: I took it in Sp 2021, this is actually my least favorite course. I have some DL experience coming into the course, and this course disappoints me. Well, to be fair, I'm very down during the time taking this class so YMMV. pros: you get a chance to learn most of the aspects DL with the latest development in the field. I believe you will learn a lot, especially for ppl with minimal DL experience. cons: I hate group projects. Pick your teammates wisely. quizzes and paper reviews are way too much, and felt like a waste of time While I appreciate professor's tremendous work having this course running, I would say neither the material nor the teaching staff's knowledge is top-notch. For a moment, I thought the voice in the video is generated by some DL models, it's just dull, not passionate and even "uncertain". Consider Stanford class recording. Like I said, I was in very bad state during the class at that moment which gives me the only B so far. I might be biased, but this class does not meet the expectation for ppl with a decent amount of DL knowledge. The only way to practice beyond what you already know is to ace the group projects, so remember to pick a good topic and either find a good team or make a team of your own selection.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: FALL 2021
+Date: 8/21/2022
+Workload: 35 hrs/week
+Difficulty: 5/5 Hard
+Overall: 5/5 Loved it
+Review: Great class really tough math for me but a very useful one that teaches you a lot.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 5/8/2022
+Workload: 25 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: My background: Handful of years experience programming in C. My previous classes were: Computer Vision, Intro to OS, Advanced OS, Intro to High Performance Computing, Human-Computer Interaction, Graduate Algorithms, and Machine Learning. This is the single most practical course I’ve taken in terms of new skills I didn't have before, that I expect to use at work regularly especially for my side hustles. A close 2nd place is Intro to High Performance Computing. If you want to learn the mathematical nuts bolts of ML models (implement from scratch with numpy) AND gain a working proficiency with Pytorch, this is the class for you. It’s a slog with a lot of things to submit, but 70% of the class gets an A historically. The final group project had a median score of 58/60 (points, not percent). They graded 200-400 of them in 3 days and were not picky at all. Just touch on all parts of the rubric in some depth. My average quiz score was 55%, but I got a 97% overall thanks to doing the extra credit assignment and spending a lot of time on the report/theoretical portions of the assignments.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 5/8/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: First of all, my comment is from a beginner’s view , please ignore if you have good amount of background in DL. About my self: This is my 7th course in OMSCS. I have taken ML4T but have no background in DL. I am not from CS or engineering major, but I work with big data and am comfortable with basic algebra or calculus. My final grade in DL is A. I definitely recommend anyone who works with data to learn DL, but this course is not the best way to start your journey. Although the topics sounds interesting and super useful, course quality is mediocre at best compare to others in OMSCS. Please lower your expectation and prepare for a lot self-learning. Overall, I would like to rate 5/5 for the topics, 4/5 for assignment 1 and 2, 2/5 for assignment 3 and 4, 2/5 for lectures and organization. The first half is challenging and fun, but then things start to fall apart drastically. I need to remind myself several times a week that the class is almost over, in order to not melt down in the last two months. Please consider the following things before signing up. If you meet 2 or more of the descriptions below, this course will likely to be a rough ride for you. You have never learned any DL courses or topics. (General ML courses only have limited help so they don’t count); You do not know and do not like to learn linear algebra, multivariable functions, derivatives, etc; You have never used pytorch or numpy; You have other thing going on in life that constantly requires > 30h/week. Other reviews already mention most comments I would write. The biggest issue to me is this course tries to cover everything in one semester, but the lectures never spend enough time to explain concepts. DL is such an interesting topic, it is unbelievable how boring these lectures are. I ended up completely rely on Stanford CS231n which is a really great course, highly recommend. Another issue is they put a lot on the to-do list to fill up your time, so you might burnout and lose motivation quickly. I do appreciate there are a lot of office hours. Many thanks to TAs Alex Shum (assignment 1 & 2), Farrukh Rahman (assignment 1 & 2) and Sangeet Dandona (assignment 4). Do remember you need to attend OH to get hints and fulfill hidden requirements of assignments.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 5/7/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This is my 4th OMSCS course but I took the first 3 (including ML) back in 2015. In the month prior to the course starting I took Andrew NG's deep learning course which i felt was very good preparation for the course. In short, I felt I really learned a lot and my understanding is much deeper than what i could've gotten from the Andrew NG course alone. The quizzes involve a fair amount of preparation (taking detailed notes on lecture videos and spending a few hours or so studying the notes on quiz day). I think the questions were very fair on the first 3. The last 2 had a few nitpicky questions and while I didn't do as well on those, it didn't really impact my overall grade too negatively. Overall I felt that the quizzes in terms of prep time required were fair for a graduate level course. The projects were really great, but of course must start early and give yourself plenty of time. I didn't really bother doing any of the reading, and I agree the DL book is only useful if you already know the subject matter very well (so is therefore not useful for learning in a first course). My only real complaint, as stated by other students, is I really disliked the Facebook lectures. They don't explain things in decent lecture style detail and it feels as though the presenters are just cursorily describing algorithms and techniques. After watching all those, I watched the Andrew NG lectures and read some things on towarddatascience which gave me a an understanding that the lecture videos just did not. Professor Kira's lectures are pretty good, but I do feel it helps to watch Andrew NG's lectures to supplement and gain intuition.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 4/27/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: This is my 7th class in the program and I took AI and ML right before DL. First half of the class (lectures + A1 & A2) were well organized and benefited my understanding a lot. Second half (starting with Meta lectures) and A3 & A4 were not that well organized. A very good aspect of this class is that the teaching staff have been the most enthusiastic that I have ever witnessed (they offered office hours more than all my other classes combined). Another highlight is that you get to have exposure to the most cutting-edge deep-learning technologies the industry and academia are using. The downside is the lack of coherence of the material that is being taught.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 4/11/2022
+Workload: 25 hrs/week
+Difficulty: 5/5 Hard
+Overall: 3/5 Liked it
+Review: I have mixed feelings on this class. Overall, there's a ton of content and things to learn. Out of necessity, you will have to ramp up really quickly or it's easy to fall behind and play catchup the entire time. I won't reiterate everything but I agree with most of the sentiment from reviewers particularly those taking the course in Spring 2022: quizzes are unnecessarily hard with frequent curveballs, at times you feel like you're on an island for assignments which were pretty taxing at times, with some challenges not really benefitting your learning at all. All that being said, there's current content in this class so it does a good job trying to keep up, as this field is constantly evolving. Just prepare to spend a LOT of time on this class to get the most out of it. Coding assignments were my favorite, lectures were not very engaging as others stated, especially the meta guest lectures. There were times where I felt like I'd never get through an assignment but so far (4/4), I have been able to get things finished (right up to the deadline). Looking at the current pain matrix I'd say an estimate of < 20 hours is pretty generous unless you already have DL experience of some kind.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 4/11/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: Don't take this class unless you feel you must, its not worth it, either learn on your own or take a course elsewhere it will be a better experience. I want to preface this in that I have 5 years experience as data scientist focusing on deep learning, I have published research on deep learning prior to taking this class. I am on track to get an A. Quizes: I feel like these are designed to produce a grade distribution and serve no other function.
+The TAs may feel like providing examples of what is on the quizzes, but studying will likely be largely pointless for anything beyond reviewing lectures and hoping that you can do the math they expect. Class experience: TAs can flat out delete posts that have any potential useful discussion just because they have extremely restrictive information sharing rules.
+This stifles any useful discussion basically. Projects: A1, and A2 were wonderful experience of doing backprop from scratch, I really liked these. I really like the theory questions. A3 and A4 were exercises in coding to the autograder, I feel like this was a waste of time and money. The test they provide for the homework's are brittle and incomplete, and some of the grade scope test are rather pointless be we are graded on them regardless. There was an optional A5 that was rough around the edges but I really enjoyed the challenge here. Graded Discussion: This are a waste of time, you read a paper, write answers to a few questions, and then respond to a few other students. Nothing here drives a genuine discussion, and despite how well you write your responses, the TAs find ways to doc you points without feedback on how to improve. Final Project: This works well in theory if you have good team mates, but if you have team mates that are unresponsive and don't do their share of the work its awful. Really this is why you should not take this class, it makes what could be an enjoyable solo project and makes it a crap experience. Seriously don't both with this class because of this.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 3/23/2022
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 2/5 Mixed
+Review: Lectures are very dry and soporific. Quizzes are extremely difficult, testing random facts from lectures and readings. A lot of effort is needed to get high marks on them, and each individual quiz is worth little of the grade. Assignments are decent and are where the core learning happens, but the culture of the class discourages helping others and therefore hinders some of the learning. One TA straight up cancelled students' posts. The course overall just has poor organization, and the core learnings from the class can be done individually. Expert competency with numpy is assumed.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 3/14/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Pros:
+Great assignment content, interesting to see the results of the implementations. They are very hard though.
+Project seems like a good opportunity to explore areas of interest in DL
+Pytorch is nice to finally learn Cons:
+Very dry lecturer. I'm sure the prof is a nice guy but he manages to make the lectures extremely boring on such an interesting subject. Very little passion in delivery, dry, monotonic.
+Quizzes. Why are these even a thing. It's an unbelievable stress inducer, they test extremely random factoids from the lectures and you pretty much have to know perfectly word for word what is presented on the slides. They are only worth around 4% each but add up.
+TA policing. As another review mentioned, the TAs are extremely annoying when it comes to policing the class forum and not only taking down things that could be considered "too revealing of the assignment", but also threatening to impose penalties! Why in the world do I have incentive to help on ed if I am at risk of getting a penalty just for simply suggesting to use one function over another? It's absolutely ridiculous.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 3/14/2022
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I really don't know what happened to this course this semester, but it's definitely been one to remember. We're halfway through this semester, but I wanted to go ahead and put a review up to warn others before they sign up for this course. First of all, this class has the worst group of TAs I've seen yet (and yes, that includes ML). They completely ignore questions, office hours are terrible, and the only thing they seem to be interested in is policing the project threads (if anything could even remotely be considered a hint, they remove it). The grading feedback is comical. You'll get something like "we weren't expecting this," so you ask for additional feedback... they respond with "this value wasn't what we were expecting." And be careful requesting a regrade, they will lower your grade in a heartbeat. The class organization is freaking ridiculous. Assignment dates are constantly changing. You never know whether to believe canvas, grade scope, or the syllabus because they all three have different times. Then they randomly start changing due dates while the assignments are on going. They once changed the due date for a quiz to be 12 hours earlier so a lot of folks rushed to take it, then said it was a mistake and the folks that missed it got three additional days to take it. Also had a problem where they didn't make the calculator in one of the quizzes obvious, so some folks were able to get some math questions thrown out but not for everyone. The assignments page and grades page on canvas are still screwed up halfway through the semester and they don't seem to really care. So 20% of the grade comes from five quizzes, and these things are BRUTAL. You can't just watch the lectures and feel confident enough to take the quizzes, you need to understand the material in every aspect, read the additional materials, and do some independent research, and hope to score at least a 50. Previous semesters only had math on 2 quizzes, but that's changed. There's at least 20-30% of the quiz that is heavy math and that's on all of the quizzes. The projects are rip-offs from Stanford's version of this class. You know what that means? Right, the TAs don't have a clue what's going on with them. We've started project 4 and the libraries they are using don't even run on newer graphics cards (30 series). Their response? "Just run it on Google colab and see if it works." Projects 1 and 2 weren't horrible. Project 3 required you to read 6 papers and attempt to decipher the algorithms (we had to beg for an extra week because they said this project was too easy and took a week away from us). Oh, and make sure you read the class forums, they'll hide hidden requirements about the projects in there. Unlike previous semesters, they are nit picking the write ups for the projects (without explanation of course). Make sure you do a PhD thesis for each of the questions. The grading is all over the place. You may be 0 points for your explanation but someone else got full credit with the same explanation. They've also increased the difficulty of the reports this semester and added math questions to them. Grading is SLOW. I mean months slow. They even completely forgot to grade an assignment until someone asked about it, then they pretty much gave everyone full credit if you turned something in (was only worth 0.5%). The only improvement I have found this semester is they no longer test on the Facebook lectures. Thank goodness because those lectures are a joke. I'll complete this review when the semester ends, but if you're thinking about signing up for this class, you might want to think twice. This is my 8th class and I wish I wouldn't have taken it. It's been extremely frustrated dealing with this TA group and has made a hard class unbearable.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: SPRING 2022
+Date: 2/13/2022
+Workload: 20 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: My background: As an OMSA student, I am taking Deep Learning as the last one in my program. I do not have a CS background and enrolled in OMSA for a career change to data science. Prior to this course, I took Andrew Ng's Deep Learning specialization on Coursera to get a high-level understanding of deep learning concepts. Course itself: Although I am less than halfway through the course, this is already my favorite course in the OMSA program. Although I have attempted to study deep learning through MOOCs and hackathons before, this course gave me a deep dive into deep learning I needed to make all the concepts really stick. The course is well-designed. TAs are very responsive and their office hours are good for getting unstuck. Their office hours include occasional tutorials dedicated to trickier parts of the assignment. The readings are interesting and easy enough for someone like me (no STEM background prior to OMSA) to follow. Difficulty: The most difficult parts of the course are the coding portions of the assignments but all assignments of the course have been doable. The theory portions of the assignments are easy. Although doing well on the quiz requires watching the lecture videos/doing the readings more closely, there have been no trick questions on the two quizzes I have taken so far. Workload: Varies. I have been putting in 20-30 hours/week to finish coding portions of the assignments (there are four assignments total) well ahead of the deadline. On weeks where I am just watching the lectures or finishing up my assignment, the workload is around 5-10 hours. Rating: I strongly recommend this course. I am glad I set my alarm early in the morning to register for the course back in December.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: FALL 2021
+Date: 1/23/2022
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: I agree with the other students that this is the most "contemporary" course in the OMSCS journey. Most other courses only have the relevant research papers dated 5 to 10 years ago, but the amount of research papers on Deep Learning (DL) are really overwhelming in these few years (since the revival of neural network at approx 10 years ago). Meanwhile, this course is being actively updated on each semester, and it will guide you through even the newest/hottest topic like GPT-3. The course is easier than I thought (though still hard) since the core algorithm is nothing but gradient descent. Of course there are many different networks and optimisers and schedulers, but it seems most of them do not involve complex math equations. As professor
+Zsolt Kira said (and probably a sad fact), most neural network (NN) models are empirically found, rather than deduced from a math model. When your DL or NN models do not work well, it is this empirical nature of NN models that makes them hard to tuned or optimised. Often it is very hard (if not impossible) to mathematically prove a NN model is correct; the model still works somehow, but at sub-optimal quality. Life is even harder when DL needs massive computation power before a single empirical test can converge (i.e. a week on MacBook, days on Google Colab, hours on latest GPU), which makes the software development cycle extra long. Regarding GPU, the course organiser is very kind to invite Google and Amazon to offer few cloud computing credits to the students. However, Google Cloud Platform (GCP) only gives each student "USD50" while any public user can already receive "USD300"... on the other hand, Amazon came in very late when most students have already started the projects, so switching from Google Colab or GCP to Amazon Cloud might not worth the trouble. Also I am not satisfied about Google, since GCP charges me a much higher price (though subscription will only charge after USD300 is used up) with a 8-year old GPU Nvidia K80 offer after complex application, while Colab Pro can already give me a 5-year old P100 at a much cheaper price; though on the other hand Colab terminates my program execution every 24 hours even if I paid for the most expensive Colab Premium (with background execution). Not mentioning that Colab UI has issues (bugs?) that hide the "background execution" option from time to time, and allocates & shows the CPU / GPU memory incorrectly so that my program crashes on a memory-full error without any early warning... Tests and challenges in the course are homework assignments, quizzes, and a project. The homeworks are fine, which progressively guide students through the DL concepts, and teach you how to use PyTorch (though it is best to run PyTorch in Colab to avoid rare local CPU errors). The project is not very difficult except on project management and choice of project objective. I was very lucky to have good teammates, one of whom was so heroic to consolidate all our writings into a big & elegant research paper. The project instructions mandate each students in the project team to work equal share on all tasks, though I still think it would be better for the project if each of us can assume a different role, e.g. programmer, writer, project manager, etc. Nevertheless, beware of those "quizzes"! As many students said, quizzes in this course are never quizzes; they are full-blown exams!! And very difficult!! They are closed books and some concepts are very confusing, so I think most students lost most marks on the quizzes, rather than failing an assignments or project. Regarding the video lectures, I think most videos offered by professor Kira are great, but those offered by Facebook are usually (50% chance) poor... The problem is that some FB speakers speak strange English with difficult accent (which is hard to interpret when without subtitles), when they present diagrams or equations they do not explain or prove at all... Some materials are more like sales presentations than concept overview or worked examples. Sorry Facebook, I really cannot appreciate your video lectures (though I thank you for PyTorch). Overall, this is really a great course. Enjoy!!
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: FALL 2021
+Date: 1/15/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Excellent course as an intro to DL. Expect to spend a lot of time trying to figure out why your code does not work since TAs do not offer much help beyond "there is something wrong with your code." Pros: Projects. This is where you truly learn the material. Yes, you will struggle with the code. Yes, the last assignment has incomplete unit tests and you will be re-writing the code for the sections you just finished and passed local tests. Having said that, this struggle is good in a sense that once you finish this class, you will have the confidence to teach yourself pretty much anything since there is no help offered. Sangeet Dandona and Farrukh Rahman are two amazing TAs who actually know and understand the subject they are teaching. They explain the material clearly and, more importantly, they explain the intuition and not regurgitate how to code an equation. The rest of the TAs are not so great. Prof. Kira's lectures are amazing. I wish he did all lectures and not outsourced to FB/Meta researchers. Graded discussions. At first I did not like it since it feels like you are forced to write a specific amount of words. Reading articles is crucial to keeping up with the developments in the field. At first you read because you have to, later - because you want to. Writing responses to comments of others forces you to think deeper about the subject you just read. Overall, I think this is a good pedagogical tool. Cons: FB/meta lectures. These are simply pedagogical disasters. Do not expect to learn anything from them. Read comments of other reviewers about this subject, they are pretty accurate. Quizzes. I am not sure what is the point of them outside of being a grade differentiation. The quizzes cover a spectrum of topics and ask fairly detailed questions. People who claim to do great on quizzes are the ones who work in the DL domain as their regular job or have some exposure to this domain. It is not that the quizzes are hard, but given the amount of time you spend on projects, you will have less, if any, time to prepare for these if you have a career and a family. The class is front-loaded. I put on average of 20 hours per week but the distribution is not even. There were weeks I spent up to 60 hours for some projects, then there are weeks you do not do anything at all towards the end of the semester. Group projects. You will have a free-rider problem.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: FALL 2021
+Date: 12/29/2021
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: Overview For context, this was my seventh course, having taken AI4R, RL, AI, ML, BD4H, and ML4T beforehand, in that order. Deep Learning is a course which I have very mixed feelings on. The material is very interesting and well worth learning, but the course itself is highly variable in quality and feels like it has artificial difficulty. Deep Learning covers over the course of the semester the following material, All the material is quite fascinating and can feel like drinking from a firehose, which is great! Feedforward Networks CNN (convolution and pooling) Visualization of networks RNN, LSTM, & Embeddings Transformers, Deep Reinforcement Learning Unsupervised/Semi-supervised DL & GANs Lectures The lectures are a bit of a mixed bag. They mostly stay pretty high level, and you cover the material quickly over the semester. But... they don't go very deep and then later on you are expected to know that lower-level detail on the assignments/quizzes. The book is only okay at supplementing at this so you need to search out other material, like other school's lectures, to really understand the material. And then the Facebook (Meta now...) lectures are basically useless and too high level to be of use. Assignments Assignment 1: Building a NN from scratch, very good assignment to learn the basics. Assignment 2: Building a CNN from scratch and then using PyTorch, pretty good overall. Assignment 3: Visualizing CNNs, which is kind of fun, however, Gradescope doesn't have near enough tests to get full coverage and you have to compare your images to images in the PDF, which can seem close to your human eye but apparently aren't close enough and you'll get ducked points. In theory this is a great assignment, but they need to give you better tools to self-assess. It's removed in summers and almost worth taking in the summer just to skip it. Assignment 4: Making an RNN, LSTM, and transformer for NLP. I rather enjoyed it, but you really want a GPU to test this out and get your losses low enough. Graded Discussion On the one hand you do review fairly interesting papers, on the other hand, the discussions don't add much and I'm pretty sure they just have an automated word counter for whether or not you finish this section. Group Project The group project is great in theory; however I feel you're not given enough time to do it justice. In BD4H you had over a month to focus on the project, whereas in DL, you have two weeks after the last assignment and quiz to focus just on the project. With assignments and quizzes you're kept constantly busy. On the plus side, the grading is very generous, perhaps too much so. Quizzes The quizzes will make or break your grade. And honestly they feel kind of like bs. There are questions on the quizzes which feel like they come out of nowhere from the lectures and even the papers and unless you have a perfect knowledge of what was in all of those you will miss plenty of points. Earlier on they gave some good examples of computational questions on the quizzes, but later they don't at all. The TAs/Professor should do a better job given examples of what to expect and I feel they let the class down in this regard. Ed Discussion On the plus side, the TAs/Professor are very active on Ed, and quickly answer questions. It is possible to get extra credit on Ed by getting "endorsed" posts, which generally are best done via finding papers about SOTA techniques and/or making detailed notes to help other classmates. Tips for Success: I highly recommend watching the CS231n ( https://cs231n.stanford.edu/2017/syllabus.html ) and EECS598 ( https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html ) lectures from Stanford and UMichigan to supplement the course lectures (frankly I think they're better). Both EECS 598 and 7643 were based on CS231n originally, and 598 is taught by a former Stanford CS231n TA. Take copious notes of lectures, review the papers mentioned in lecture, post the notes to Ed, and make some quizlets to test yourself. Quiz materials can come from the lectures, the papers, or frankly related sources. Brush up on your calculus, especially with regards to partial differential equations and linear algebra. The first six chapters of Goodfellow's Deep Learning book are good to review and understand intimately. If you can, get a good GPU or get used to working in Colab, they make the assignments and project far easier, especially A4.
+
+---
+
+Course: CS-7643
+Course Name: Deep Learning
+Semester: FALL 2021
+Date: 12/28/2021
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This is the third course that I take, with AI4R and ML4T as the first two. I completed a M.S in CS already and have good understanding of ML and with some prior knowledge of DL (Completed part of DL Specialization by Andrew Ng.) Overview Overall, according to my experience, this is a fairly organized course, which covers a broad range of topics in DL such as Gradient Decent, CNN, Language Model, Semi-supervised learning, Deep RL and the advanced topics such as GAN. The lecture itself is very informative and you will get to know all these up-to-date topic and DL techniques. Quizzes Quizzes are demanding and require effort and study time to devote and really understand the concept, and first two quizzes includes more computational questions that requires you the calculate the Gradient Decent and input the number for it for example, the later quizzes are more on the conceptual questions but still entails computational questions. You need to study the detail concept covered in the lecture. For the first two quizzes, they provided TA tutorial and some samples questions and solutions which help you to get prepared a lot. The third and the fourth ones are quite difficult. And the rest three, usually, some students put a lot of relevant study materials and that help. In general, going through lecture slides and understand the concepts are necessary for combating quizzes. Assignments The second assignment is the most challenging one as it requires you to implement backprop from scratch but still provided code template for doing that. The first one is easy as long as you understand the gradient decent. The first half of the course is more math heavy with gradient decent. The third assignment is a bit easier and very interesting to visualize the learning algorithm of CNN and implement style learning and transfer learning. The last one (4th) is challenging as well, but worth the time you put in as you will learn a lot about the transformers and machine translation. Overall, the assignments are well designed to cover broad range of topics too. Final Project Final project is a group project, and it depends on various factors such as finding good team members and choose the project that is feasible in  short period of time. Don't be too ambitious, but the rubric said they focus on you gain and learn DL techniques but not exactly care about if you succeed or fail to accomplish your project. Thus, it's okay to show not good experiment results or discuss your failure experiments as part of your project, but make sure to showcases your understanding through quantitative and qualitative analysis of your experiments. Graded discussion This is an outstanding feature of this course and you will learn a number of recent research papers and discuss it in summary and comments with your classmates and learn from one another. I find it quite interesting and a lot learning from it. OA & Tutorial The Prof. K was very dedicated and organized a lot of OA time with prof himself or tutorials with TA to explain difficult concepts, or overviews for the assignments. I would recommend to go through the overviews of the assignments OA as it will give you directions and save you a lot of time understand it. Other than this, FB Office hours or OA with AWS are accessible as AWS provides some free computing powers (GPU) to your final projects too. Summary In summary, I personally had a good learning experience this semester and think I learn a lot from this course, and highly recommend this course if you want to learn DL. Meanwhile, I found the quizzes, assignments are challenging but worth the time you devoted to. I personally learnt a lot from them. The entire semester is busy, some weeks with quiz due only is a bit easier. But after the semester, I feel very accomplished personally.  Time spending on each week various,  weeks with assignment or final project due demanded more time, but weeks with quiz due are a bit easy but still needs the effort. Hope this help to others who are considering this course.

@@ -1,0 +1,236 @@
+# OMSHub Reviews: CS-6250 - Computer Networks
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: FALL 2025
+Date: 12/12/2025
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: CS-6250 (Computer Networks) has some real strengths, especially the support system around it. The TAs are genuinely helpful and responsive—big shout-out to Erik, who is the reason I am commenting here—and that support makes a huge difference when you’re working through the tougher parts of the course. I also enjoyed the assignments overall; they’re interesting and give you hands-on exposure to key networking concepts in a way that feels practical.
+That said, the content delivery wasn’t great in my experience. A lot of the learning ends up falling on you to piece together from notes/videos/slides, and it can feel like you’re being tested on recall more than understanding—so if you’re not strong at memorization (or you don’t build your own study system), the course can be frustrating. It's rated as an easy course, but if you do it fairly and squarely, I don't think it's easy at all. Multiple people in my class couldn't get A, and some got Cs.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SUMMER 2023
+Date: 6/5/2024
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: Video version: https://youtu.be/htQPeOnEbO4 This class is ok, and a fine introduction to computer networks if you’ve never taken a class on the subject. You learn about the OSI model, common internet protocols, domain routing and router architecture, software defined networks, content delivery networks, BGP and a bit about security. The content of the lectures are good, but the actual videos are extremely dry and boring. Definitely the worst lecture videos of any class I took in OMSCS. The saving grace is that there are written note versions of the lectures. After watching a couple videos, I ended up just reading the notes for the rest of the semester. The weekly quizzes do a good job of preparing you for the two exams, although the exams were a little bit too trivia heavy for my liking. When I took the course there were 40 questions on the first exam and 50 on the second, all multiple choice. There were 4 projects. In the first two, we implemented algorithms from the lectures: Spanning Tree Protocol and Distance Vector. These were fun and not very hard. The second two, SDN Firewall and BGP data analysis, were more tedious with less programming and more sifting through data. If you haven’t taken a networking class and want an easy summer class or double up course, I could recommend this class. Otherwise, you’re fine skipping it. There are plenty of good networking resources online.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: FALL 2023
+Date: 5/4/2024
+Workload: 5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: I have made a separate blog post for a review of this course. Check it out here. https://the11d.wordpress.com/2024/05/04/my-thoughts-on-cn-omscs-review-3/ TLDR: I enjoyed this course and learned some networking concepts but the lectures can be improved with the text-based format. Projects require Python knowledge and some readings/research required for SDN and BGP.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SUMMER 2023
+Date: 7/30/2023
+Workload: 6.5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This was my third class in OMSCS and I really didn’t mind it. As mentioned before, since we did summer, we didn’t do the BGP Hijacking lab, so I can't speak to that one. Lectures Honestly, the only bad thing about this class was the amount of reading. There are very few lecture videos, and the reading can get quite lengthy, especially with the optional readings and all the recommended articles and papers that they want you to read. I read a couple that interested me, but skipped them for the most part. In general, I spent about 1-3 hours a week just reading and doing the weekly quizzes. Projects Python is very helpful to know in advance to do the projects. I have a decent amount of experience using Python, and so that saved a lot of time. In general, you should be able to get 100% on all the projects. The first 2 projects are very basic (Spanning Tree Protocol and Distance Vector Routing). I think I spent 2-4 hours on each of them.
+SDN Firewall (4-6 hours total)- most of this was reading and understanding what they want you to do. The actual implementation wasn’t very difficult. The student test cases were awesome, and definitely saved a bunch of time with manual testing.
+BGP Measurements (6-7 hours)- Again, mostly spend time reading and understanding the project requirements and API documentation. The implementation was slightly more difficult, but not unreasonable or hard. I ran into a couple of roadblocks when trying to follow the documentation, but the Ed Discussion helped a ton for those, so I quickly found the answers I needed and moved on. Exams Exam 1- I spent 2-3 hours studying for this one, mainly using the course and weekly quizzes. I ended up getting an 88%.
+Exam 2- I spent 1 hour studying for this one, just basically skimming the quizzes (I only needed a 50% for an A). I ended up getting a 76%.
+Overall, the exams were challenging, with the hardest thing being the pages and pages of notes that you need to comb over to study. However, they weren’t unfair or anything like that. And, if you do well on the projects then you can skip a lot of that study time and just do a quick refresh to get an easy 70% or so on them. Conclusion Overall, I thought that the class was good but not great. I didn’t know a ton about computer networking coming into the class, and so it was a really good class that went over the basics and I learned a lot.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SUMMER 2023
+Date: 7/30/2023
+Workload: 10.9 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: Introduction Background As of course start, I had around 2.5 years of experience working as a professional software engineer, specifically doing web applications (full-stack .NET + JavaScript). My previous degree was in Engineering (non-CE/non-EE) from early 2010s. This was my third course in OMSCS, within the computing systems specialization. I previously completed GIOS (CS 6200, Fall 2021) and IIS (CS 6035, Fall 2022), and also attempted HPCA (CS 6290, Spring 2023) in the semester immediately preceding taking this course (CN), but had to drop HPCA due to an unexpected/abrupt layoff and consequent get-a-new-job-ASAP scramble (which fortunately I did manage to do, around 2 months prior to starting CN). Caveats For full transparency's sake, a couple of caveats/disclosures: I begrudgingly took this course over the summer to make up for dropping HPCA (CS 6290) in preceding Spring (2023), and do not plan to do any more summer semesters during my remaining residence in OMSCS after this one; despite the course being on the lighter side, it reinforced my disdain for summer school nevertheless I prefer having a longer break in between Spring and Fall to recoup and recharge, rather than just being "free" for only 3-4 weeks at a time, and this was especially true here with summer-semester CN coinciding with starting a new job that required a lot of ramp-up due to the job being in a new industry from previously, which also compounded my stress/aggravation from the course, as well as derailing other previously anticipated summer plans prior to the layoff and at that point anticipating a "fully clear" summer. I did not have much formal networking experience going into the course Conversely, among those who did, they seemed to demonstrate more overall engagement with the material, as evidenced by their Ed posts/comments, prompt/in-one-sitting completion of projects, etc. As a big pet peeve (for me personally, but presumably others as well), in the summer semester, three of the four projects were due over U.S. holiday weekends (Memorial Day, Juneteenth, and July 4th, with the projects themselves all due on the respective US-based time zones Monday mornings of these holiday weekends), which was an additionally contributing factor to my aforementioned disdain for the course (and summer school more generally). While not strictly the course's fault per se (i.e., based on how a compressed summer schedule aligned with these holidays), it was nevertheless still very much so " not a plus," to put it mildly (i.e., all three of those projects/deadlines ended up being rather stressful in terms of managing against other family obligations, etc.). With those caveats out of the way, I attempted to stay reasonably objective with this review (and correspondingly attempting to stick more to "facts" than "opinions"), but it still seemed appropriate to disclose being somewhat "negatively biased" going into the course/review nevertheless, in order for readers (i.e., future CN prospects) to exercise appropriate discretion/discernment while reading this review. High-Level Review Overall, I did not find this course to be that remarkable, and probably the relatively worst one I have taken to date (certainly within the scope of the aforementioned fully- and partially-completed-to-date OMSCS coursework). The lecture content feels mostly like a patchwork of Wikipedia articles on scatterbrained topics, with only a few emergent high-level themes/takeaways at best (and otherwise forgettable post-review/post-cram). Content-wise/topics-wise, I do think the course would have been much better-served by simply following along more directly with Kurose & Ross or an equivalent textbook on networking, in order to facilitate a more coherent topical structure/organization. Course Logistics and Time Expenditures The course is not curved, and follows a strict 10-point scale (i.e., 90.000-100.000% overall for an A, 80-89.999% overall for a B, etc.). The relative weighting of the deliverables is as follows: 60% projects (10% + 15% + 15% + 20% across the 4 projects, further discussed below in the next section) 15% midterm exam 15% final exam (non-cumulative, covering only post-midterm lessons) 10% open-notes/open-resources lesson quizzes (12 total) (optional) 3% extra credit project N.B. In the summer, one of the projects is dropped due to time constraints (BGP Hijacking), so I cannot comment authoritatively on it in this review. Furthermore, there is an optional (ungraded) introduction/orientation to mininet (Simulating Networks), as well as an optional extra credit project (Internet-Wide Events) worth up to an additional 3% overall (which is relatively generous, enough to cover a borderline grade on a partially flubbed project or exam, or otherwise equivalent to roughly 2.5 lesson quizzes). I did not attempt the extra credit project, as I was sitting pretty solidly at an A (~95% overall) in the course going into the final exam (by that point, I had achieved 100% on all projects, mid 80s% on the midterm, and around 90% overall on quizzes going into the final exam), and basically it was "my A to lose" (my critical score to keep an A overall in the course [i.e., >= 90.000%] was around low 50s% on the final exam, which I subsequently exceeded with low 80% upon completing the final exam, thereby securing the A in the course). I did not keep strict tabs on time expenditures across deliverables, but my best in-hindsight back-estimates are as follows: 1.5 hours per lesson (reading the text followed by completing the 30-min-limit quiz) * 12 lessons total = 18 hours 18 hours per project (mid-range average across the four projects) * 4 projects = 72 hours 15 hours of prep per exam (lessons review and study guides completion) * 2 exams = 30 hours Given an 11-week summer semester, this averages out to 10.9 hours/week [= (18 + 72 + 30) / 11]. The cadence was typically 1-2 lessons/quizzes per week, aside from the midterm & final exam weeks (during which neither lessons/quizzes nor projects were assigned/due). The busiest points in the course were around the projects' due dates, along with the exam weeks (i.e., cramming a ton of very oddly-specific information from the preceding 5-6 weeks' worth of lessons). Otherwise, the "in-between" weeks (i.e., during which only a lesson quiz was due, and a released project was in-progress but not-yet-due) by comparison were not as intense, possibly with little-to-no required time allocation for that particular week (i.e., if completed project and quiz ahead of schedule by that point). Course Deliverables Quizzes In general, quizzes were released weekly, so it was not possible to work ahead on those (i.e., as one quiz was due, the next week's lesson quiz would be released and was subsequently due by the following week deadline, etc.), though the all of the lessons' text/content themselves were generally open for all lessons as soon as the syllabus quiz was completed at the start of the course and henceforth from that point. There are 12 total text-based lessons (with corresponding videos for some of the slides/pages, with the videos mostly just rehashing the text information, and consequently I largely ignored the videos in favor of simply reading the text), with each lesson having a corresponding open-notes quiz in Canvas. The quizzes can mostly be completed by referencing the lessons' text, though sometimes the quizzes questions' wording was a bit ambiguous/tricky. The quizzes are also time-limited to 30 minutes . Projects Similarly to the quizzes, the projects were not released in advance, but rather on a fixed-interval basis (i.e., as on project was due/submitted, the next project was then released). Regarding the projects work, while this course is generally regarded as being on the "easier" side (which, compared to the likes of GIOS and HPCA, I did personally find this to be true, too), an advanced-beginner/early-intermediate level of proficiency in Python will be useful (if not outright necessary) to get through the projects, which difficulty-wise are on par with LeetCode harder-easy to easier-medium tier. The "happy path" is generally straightforward, but there are edge cases which require more refined techniques (e.g., using the debugger and/or print statements) to pin down and solve. I did not keep tabs on total time expenditures on a per-project basis, but across the board, I can back-estimate an average of around 15-20 hours per project spread over the correspondingly allotted 2-3 week completion periods, which typically translated to a few evening sessions (including the occasional weekend in the mix, as necessary), working through a given project part/task at a time (i.e., per attempted-project-work session). The four projects in the summer were as follows (in order of appearance): Spanning Tree Protocol Distance Vector Routing SDN Firewall BGP Measurements A VM was provided for the course, though only strictly required for SDN Firewall. Otherwise, the first two projects could be done on your local machine (the staff provided a conda environment to configure the Python version, but otherwise used standard library features exclusively), and the fourth (in principle) could also be done locally, but that required unsupported setup of third-party dependencies to do this (I did not bother with this, and in all cases where VM was required, I simply set that up and ssh d into it from my host machine and used remoted-in VS Code on the host to do the projects work). The projects were mostly a slog/uninspiring overall (i.e., if stripping away the ostensibly relevant "networking" subject matter, it was otherwise effectively just implementing algorithms in Python), but generally "doable" once you figured out the intended instructions (the first two projects included video tutorials which were helpful for determining the general "gist" of the respective projects and how to formulate the "happy-path" solutions), at which point it was just a matter of covering edge cases beyond that. I thought the SDN Firewall project in particular was incredibly tedious (no offense intended here towards the head TA for that project), as the project description had a lot of extra/superfluous information that felt like a distraction overall, making it feel like more of an exercise in interpretation of instructions rather than actually getting the project work itself done. The Wireshark content seemed like it was shoehorned into the project for its own sake, but in reality, I think a lot of that could have been leaned out by simply doubling-down on the more recent test-harness-based setup at this point, in my opinion. If they want to keep the Wireshark exposure in the course for "general relevance" to networking, I think they should just move it into (yet another) appendix for the project, or just move it over to the Simulating Networks intro/tutorial (optional) project altogether instead. All projects generally provided local testing suites , which were particularly useful for SDN Firewall, since that one was not graded via Gradescope, but rather only submitted as a .zip directly to Canvas for subsequent manual grading. Otherwise, for the remaining projects (for which Gradescope was available), Gradescope submissions were generally unlimited up to the deadline (i.e., generally, WYSIWYG with respect to the resulting graded project score in Canvas post-final-GS submission). Course Exams The most challenging part of the course is the exams, mostly by virtue of having to rely on rote memorization and "luck of the draw" (i.e., not blanking on the particular question(s) that appear). The exams are essentially a longer quiz ( 2 hours total test window), but without open notes/resources available. The exams also required browser-based proctoring via Honorlock to enforce during the test-taking session. The staff provided study guide questions for the exams, and I strongly encourage going through those in tandem with exam prep (along with reviewing the lessons quizzes); that was the key to doing reasonably well on the exams for me personally (particularly with myself not being a "good memorizer," by any stretch of the imagination). The exams made me feel somewhat like I was back in biology courses from undergrad all over again (i.e., cramming slides and hoping for the best). With all that said, from a points-maximization standpoint in the course overall, it is definitely advisable to max out points as much as possible on all of the other deliverables outside of the exams (i.e., lesson quizzes and projects), in order to cover potential shortfalls on the exams. I scored around the median on both exams, well enough to secure the A overall in the course, by virtue of getting 100/100 on all projects and near 90% across the lesson quizzes. Closing Thoughts CN is probably not the worst course you could take in OMS, but it is still otherwise unremarkable on the whole (for me, it fell flat / missed the mark overall). In fairness, I cannot say in good faith that I gained nothing useful out of the course, and it did help with elucidating high-level themes around the OSI model and a few specific protocols therein. But given that I took this course specifically in order to better-inform my day job (software engineering involving REST APIs & web apps), it was still pretty disappointing to come out of the course with not-an-appreciably-better understanding of the subject matter relative to going into the course. I probably would have been better off self-studying Kurose & Ross or equivalent (and/or going through equivalent CCNA certification prep materials), and consequently I will still have to do something along those lines in the near future in order to gain a better understanding of the underlying computer networking concepts. Overall difficulty-wise , I would put CN at easy-leaning-medium. I decided to go with "easy" over "medium" in the difficulty rating for this review (relative to GIOS being an unambiguously "hard" but not "very hard" for me), with the caveat that CN does require some reasonable proficiency in Python, and that the cramming for the exams is pretty tedious and time-consuming (at least if you're looking to do reasonably well, i.e., near or above class median, or roughly low-to-mid 80%). If you are diligent, CN should be reasonably amenable to pairing with another easy-to-medium difficulty course (provided you have the necessary Python skills for the CN projects), though that will probably make for a fairly busy semester, particularly around exams and projects deadlines (and also depending on how these deliverables' deadlines align with the other course's deliverables' deadlines). On a relative-to-other-courses basis (per my own personal/subjective experience with them), I would assess CN's pairability as: " pairable " similarly to IIS i.e., relatively similar difficulty and time-intensity, perhaps with a slightly larger overall time commitment in CN due to quizzes and exams in addition to projects " not pairable " dissimilarly from GIOS i.e., if you feel you could not pair GIOS with something else due to GIOS's high difficulty & time-intensity, CN is still otherwise comparably less difficult and less time-consuming than GIOS, and thus possibly pairable with another lighter-than-GIOS course
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: FALL 2022
+Date: 12/8/2022
+Workload: 7 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: Background: I graduated with my Bachelor's in CS in 2020 and work as a software engineer. I had taken 3 classes in this program before this one. Course: Overall I thought this class was solid and a great candidate to pair with another class - for example, I paired this with Game AI. Each week you have one module to complete which usually just takes a handful of hours. There is a quiz associated with each one, but those are open notes. There are also four projects, but I don't think any of them took more than 10 hours to complete. The lectures are pretty dry and are a combination of short videos and just text to read on Canvas. But they do have some interesting topics towards the end like CDNs and streaming. I'd recommend this class for getting down the basics of networking, I definitely learned a few more things despite having a networking course in undergrad.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SUMMER 2022
+Date: 8/26/2022
+Workload: 7 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This was a really fun class, it was really hand on and actually taught relevant networking skills (I am a network engineer for Microsoft and this stuff is honestly what we do every day) so I would say it’s a great class overall I go into more depth here about it, check it out! https://youtu.be/hAv4qNdmNmg
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 5/5/2022
+Workload: 100 hrs/week
+Difficulty: 5/5 Hard
+Overall: 3/5 Liked it
+Review: 8th/9th class taken with Applied Crypto (AI4R, HPCA, IIS, GIOS, SAD, iHPC, AI,)
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 5/3/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: The computer networks course has been a great course. I came from working in the general field, but did not have all of the fundamentals before the course. The breadth of course, and the exposure to cutting edge research in the field, has been very good in getting to understand the field and where it is going. Some of the course material including SDN, Audio/Video performance would have taken a lot of work to understand without the course. The teaching staff including the professor were very helpful in the course. The assignments are fairly straightforward if you spend time beforehand to understand the material. The assignments helps the material stick with you. If you spend sufficient time on the assignments, read through discussion threads and try out extra test scenarios, it should be possible to get full points on it. I did not do the extra credit assignment, but it seems to be an extension of the BGP measurements project. The mechanism of having weekly quiz and two exams were good in reinforcing the material. I really wanted to learn the material, and this structure helped me. If you go through the material, it should be possible to score well on quiz and exams as well. The workload of the course is not high, and if motivated, can be paired with a similar difficulty course, without undue stress. Overall a very well done course, if you are interested in the material
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 7 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: It's a good class to take in addition to something tougher.
+You could learn some new algos and refresh your basics of computer networks.
+Only thing that bothered me was that there's a lot of reading involved in the lectures and not enough of video material.
+However lessons itself are structured well and keep you engaged with quizzes.
+Didn't had any issues with assignments especially first two where I was done in one evening.
+Usually I started on Mon evening with lesson and then started with assignment, most of the time I was done with the assignment by Wed-Thur spending 3-4 hrs every night.
+TA's are pretty supportive on ed and available to get some help.
+Last assignment was a little weird and in 2 tasks of it we've been asked to do pretty much the same thing with a minor change which made it feel a little unrefined.
+Exams were pretty straightforward , as long as you keep up with lectures and watch professors office hours prior to taking the exam - you should be good to go.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: I have a background in computer science and I took this course to refresh some of my CN concepts. This is an easy course and a great one to pair with a medium/hard course. The projects are fun and you get enough time for each on them. I am not sure what changed from past semesters, but I felt the project organization and instructions were pretty straight forward. It took me couple of hours to understand the project requirements/go over concepts and a few more to code. The lectures covered interesting concepts but yes as mentioned before it involved more reading which as times I did not enjoy. Exams are also great and easy if you get a good grasp of concepts, and the quizzes are really helpful for that. Although, I did feel some of the questions were poorly worded and created some ambiguity. Overall its an easy course and you can get an A with good efforts in the projects and exams.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 3/5 Liked it
+Review: If you are unfamiliar with networking, or if you want an easy course, this is the one to take. Otherwise, you might not get too much out of this course. Though one way to get more out of the course, if you are already familiar with the basics, is to read lots of the suggested papers - some of them are pretty interesting and go far beyond the lectures / quizzes / projects.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 4/30/2022
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: I'll start by saying: there's a reason that this is the most reviewed course on OMSCentral. Third course in the program for me, almost 2 years of professional SWE experience, and a limited foundational educational background in CS. I had zero networking experience or knowledge prior to this course, but am walking out of it thinking that I could at least hold a semi-intelligent conversation with a networking/cloud engineer now. And honestly in reflection, I thoroughly enjoyed it along the way. The TA's were absolutely incredible, particularly Erick. He basically saved the BGP Measurements project by putting in a lot of effort into an autograding script and being so responsive on Slack and Ed. Reviews from last semester made this project seem like a bit of a dumpster fire, but I think that it ended up being my favorite of the five projects. It was purely code based this semester and the script made it easy to verify results. The first two projects are very straightforward graph traversal type algorithmic problems that should be easy with a little Python knowledge. The last three projects, however, get a bit trickier. Instructions are long and confusing at first glance, but it's primarily due to just having to explain how things like Mininet work and describing what they wanted. I thought the last three projects were wonderful once you understood what they were asking you to do-- perfect mix of mildly challenging, extremely educational, and pretty fun in my opinion. Weekly quizzes are open note and have a 30 minute window to complete them. Thankfully more than enough time to control-F through the blocks of text in the lesson to find what you're looking for most of the time. I found the tests to be trickier extrapolations of these quizzes and more edge case type questions, but overall, quite reasonable. The lecture content is long and networking is not as sexy of a topic as something like machine learning is but you really don't need to dive into it much to do well. TL;DR: if you don't have a lot of networking experience but want to learn more (at least at the basic level), take the course. You won't regret it.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 4/29/2022
+Workload: 8 hrs/week
+Difficulty: 1/5 Easy
+Overall: 4/5 Loved it
+Review: Very easy class. I didn't try at all and I got an A. The projects are fun. The bad parts: the quizzes/exams are annoying. They test you on the readings and there is A LOT of reading to get through. If you're smart, you can get by using context clues and a vague understanding of the material, but you'll need to ace the projects to get an A if you don't do the readings. You won't remember even 1% of what you read because there's just so much information. The TA's are fantastic. The discussion board is VERY VERY helpful. Not much else to say. The class was enjoyable.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 4/28/2022
+Workload: 3 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: My 6th course into the OMSCS. The the worst one so far. Instead of saying this is a CS course, it's more like English reading course. Instead of watching videos, you read a lot of long and dry texts. Next time maybe give the students Wikipedia links, at least the Wikipedia pages have nice pictures and better layout. Quizzes, midterm and final are basically testing how well you memorizing the details in those long and dry texts. The assignments are not hard once you figure out what you are expected to to.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 4/24/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: This is a great class, especially if you are interested in networks. I've been working professionally as a Sysadmin, SRE, and now a cloud architect and I still got a lot out of this class. I know there are complaints about this class, especially with some confusion about the final project in the past, but I will tell you that all of the projects this semester went smoothly. I thought Prof Konte's lectures were great and the TAs are quick to answer questions in EdStem and Slack. I didn't really have to interact with any of them, but as someone who would lurk for responses from time to time, it was easy to find info that answered my questions. The workload is fair, It revolves around a weekly quiz and projects with a couple of exams mixed in. You will see some people complain about the material being dry, but I didn't find that to be true at all. There is a lot of supplemental white papers in this class, and I read through most of them as I went. If you approach this as an academic exploration of the history and architecture of computer networks, and not some udemy bootcamp on networks, you'll be much happier in this class. I made an A in this class, and I can share my strategy for doing so. Projects are 66% of your grade. I made 100% on all of the other projects. None of them were particularly difficult, but there were conceptual challenges that you do have to solve. You have to put in the time to get these right, but they are all very manageable.  I felt the projects complimented the material well and I have a much better understanding of SDN and BGP because of it. All projects have either an autograder or a tool to check your work, use them. Start on the projects early. Read and reread the work expected of you before writing any code (seriously, this is important, don't just start coding, you will get tangled up and frustrated... but this goes for all proper engineering) I would typically scaffold out what I thought about doing in comments before writing any real code. review the checker tool source code and the solution files for context. this helps a lot in sorting out what is expected. Write your code in a way that its easy to test your hypothesis as you go. A lot of these projects are about exploring concepts or analyzing data streams. If you poorly structure your code or get too fancy with abstraction you will be sad. be practical. hack the planet. I put a light amount of effort into quizes. They are open book, but with a 30 minute cap. There are fantastic student built notes for the class, use them. I averaged an 86% on the quizes, but it really doesn't matter. I plowed through them and spent as little time thinking about them as possible. Put your effort into the projects. I made an 83% on exam 1 and a 93.5% on exam 2. I put in the same level of effort on both, which was that I read through my notes (and the student notes) and I reviewed the quizes. I guess I just had a better day on exam 2. Exam 2 is not cumulative, which is nice. Exams are not open book and they use HonorLock. C'est La Vie. There is a bonus that is worth 3%, but they only grade it if you are on the cusp of another letter grade. I can't comment on the bonus, I didn't do it. I found out my final project grade after taking the final exam, but I felt pretty confident about scoring as well as I did on the others. I'd recommend this class for anyone who wants to know more about how the architecture of the internet works. It does a good job of breaking down the evolution and design choices made along the way and the projects reflect that as well. I'd take this class again and I think it's worthwhile for anyone in the program who wants a deeper understanding of how networks work.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: FALL 2021
+Date: 4/19/2022
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: The first half of the class was really good! The projects were interesting as well as the material. I got somewhat bored of the material in the second half of the class.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: SPRING 2022
+Date: 3/30/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: Honestly, this class is not that hard but its so hard to stay engaged. The professor (Konte) doesn't give 2 s***s about this class, or so it appears. There are no lectures videos everything is just a wall of notes. Quizzes can have a gotcha answer in there. The content is dry and TA's don't know what they're doing sometimes. Syllabus says last submitted assignment will be picked after deadline, but gradescope lets you pick the one you want to submit, but this does not apply for assignments that have to be submitted on canvas. Some quizzes get extended by 2-3 weeks but there's only a 1 day extension for some assignments? Some assignments have clearly marked out criteria to get grades (autograder) that you can use but others don't have that, so you're left guessing about your grade.
+There's not explanation added for this.
+Projects (1 is not graded) 2 and 3 were real easy. But SDN was such a pain to deal with, the actual project is not that hard, and the sheer amount of material given to you in order to complete the project just overwhelms you. The intention is to help you, but it honestly had the opposite effect for me (and some others as well admittedly.)
+BGP Hijacking was not that hard. I will update this back when I finish the final project.
+I'm a cloud engineer and honestly 2-3 weeks of messing around on AWS, youtube and udemy can teach you more practical networking than this excuse of a class. I would not recommend this to anyone who wants to learn practical networking, or get a decent grade. Its easy but not organized well.
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: FALL 2021
+Date: 12/30/2021
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: I actually appreciated this course for what it was- a survey introduction to network concepts. I understand abstractions pretty well, and get irritated by tedium, so it was nice to have some of the details obfuscated and removed from the lectures/projects. I'm not a network engineer and I don't intend to get into that sort of work- but I come across the concepts often enough as a Systems Engineer (in HW R&D) where I feel knowing the concepts is worthwhile. The projects started more difficult, but ended more confusing. Towards the end I think there were some heavy modifications to semesters previous, and the details had not yet been fully worked out. Nonetheless, it wasn't that bad and I was able to finish the projects pretty comfortably without headache. Lectures are fairly simple, and quizzes are easy. There's the odd question or 2 that feel tricky and difficult, but for the most part the answers correspond directly to the notes provided. I didn't find the videos helpful (skipped them), since they were essentially read word for word from the lectures anyway. For me, I had ongoing notes based on the study guide questions where I'd rephrase the instructor notes for my own understanding. This strategy got me high 90s on the exams (which are really similar to the quizzes) and a 96% for the class (an A)
+
+---
+
+Course: CS-6250
+Course Name: Computer Networks
+Semester: FALL 2021
+Date: 12/17/2021
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 3/5 Liked it
+Review: I have a few years of experience in software development and solid understanding of basic networking. This is my 5th course in the program. My overall impression is that this is a low quality course (compared to others in OMSCS) that is only worth it if you need an easy A (and it was an easy A for me). Positives: I found some modules to be interesting (like SDN). Exams are easy. Neutral: It's not a challenging course. Assignments (except the last one) had a very detailed documentation and even videos. Weekly quizzes are based on lectures. I found them to be relatively easy. Sometimes you can even guess the right answer based on the context. Negatives: I don't think I learned a lot in this course, although it definitely wasn't completely worthless. Just not what I would expect from a graduate course. Course material presentation is horrible. Lectures are literally just a wall of text. Lecture materials need proofreading. English is not my first language, but some of the mistakes are very noticeable and that is definitely not the quality I expected from Georgia Tech. I felt like people were asking too many simple programming questions on Ed - about debugging, using python structures, etc. I also completely agree with the review from "11/21/2021" that starts with "Having taken classes"... Take a look at the post that they quoted. Reading all the threads on Ed, I got an impression that some people expect to have all the test cases available to them upfront. What would be the point of that? You need to learn to analyze your results, not just run the test cases blindly. So I didn't feel like there were many interesting discussions happening on Ed. Honestly, I don't think that this was worth the money. I wish some of the topics were covered better. I have mistakenly assumed that since this is a graduate level course I'll definitely learn something from it, but to me it seemed more like an introduction to networking. Well, going forward, I'll  read these reviews more carefully.

@@ -1,0 +1,228 @@
+# OMSHub Reviews: CS-6262 - Network Security
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2025
+Date: 11/24/2025
+Workload: 1 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: I am in the minority of people that think Network Security is an easier class than IIS. There were two back to back projects in Network Security where ~20% of the total project grade was awarded for a single task that was considerably harder than the average difficulty of the project. There was a time during the second of these two projects when I thought that if this trend continued, I might not pass the class. I did both of the extra credit assignments (small project and a quiz) which gave me a 6% boost to my final grade (8% boost was possible). I will echo what other students have said and mention that it is unecessary to take IIS first before this class. They're almost unrelated.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2022
+Date: 12/7/2022
+Workload: 9 hrs/week
+Difficulty: 3/5 Medium
+Overall: 2/5 Mixed
+Review: This was my first GaTech and I went to a really good undergrad. I was so disappointed but maybe I had my expectations too high. First of all, the class was more "topics in security" rather than network security, in my opinion. Only a lecture or two was dedicated to weaknesses in the protocol, and throughout was some smattering of information related to building a secure network. Otherwise it was mostly a survey of somewhat related topics (mobile malware? like malicious apps? Only tangential). The reason for this appears to be because Prof Lee didn't want to create new course content and wanted to just present his own research. It's interesting, don't get me wrong, but I don't think it helped me gain any depth of understanding of the subject. Then, there is the problem of grading and the projects. The projects themselves are contained almost exclusively in very difficult to use VMs. Often times, I would spend a long time trying to figure out why something wasn't working only to discover it was a transient issue with the VM. One project I needed to rebuild the VM twice and re-do my steps. Then the submissions were inconsistent: sometimes we needed to submit on canvas, sometimes on gradescope, which was just annoying. Finally, the professor was completely missing. We only actually saw him in a feedback office hours session at the end of the semester, during which he was very touchy and defense about the course and whether it needed to be up to date (some slides hadn't been updated in >5 years). I wouldn't recommend this class, but I did learn something.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 14 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: CS6262 Network Security: Spring 2022 This review isn't overly dissimilar to the one posted on May 3. But I will try to point out a few of the things I feel are important to know about this class. Class overview This was my second class in OMSCS. I took CS6035, Introduction to Information Security the previous semester. If you have some background in cybersecurity then you can likely succeed in CS6262 without taking CS6035. There is some overlap between CS6262 and CS6035, but not a huge amount. For me though I am glad I took CS6035 first. Time Commitment I did not record my time properly for this class. On weeks where there was a 6 papers to read, a quiz to complete, and a project to work on I was spending around 15-20 hours. On other weeks where all I had to do was skim through 2 or 3 papers, a quiz and I had already finished the project it was more like 5 hours. The time I have given on OMSCentral is a best guess estimate at the average input per week. Project 1 Project 1 was a lot of fun. I had no previous experience in penetration testing so getting to use tools like Metasploit was enjoyable. If you have a basic understanding of Linux and can follow the instructions in the writeup, which are designed to guide you to success, there's no reason why you shouldn't do well on this priject. Project 2 Project 2 was probably my favourite as it focused on malware analysis and forced us to go deeper by using reverse engineering and debugging tools. The fact that you have to analyse Windows, Linux and Android malware samples means that you get to try a wider range of tools and techniques. Again the writeup does a lot to guide you on what to do to succeed. This makes sense as malware analysis is difficult and for many this will be their introduction to the process and without guidance I would expect a lot of students getting stuck on this project early on. Project 3 Project 3 seemed to be the one that a lot of students had the most difficulty with and this is probably because it required some Javascript coding. The project is about launching web attacks against a blog writing website. The environment created for the project feels a bit odd at first because you have to deliver results to a per-student page using requests. Once you get over the hurdle of how to do this properly things get easier. There was also a bit of confusion as the project writeup recommended to launch one of the attacks in one way, but then the project TA recommended on Piazza (or maybe it was in the Bluejeans demo video) to do it another way. This highlights an important point: Read Piazza! (More on that down below). Overall I think this project seems more difficult than it really is, but for anyone who is weak with Javascript I would recommend spending a little time to understand promises to make your life easier. Project 4 This was probably my least favourite project, and it wasn't that bad. Project 4 was about analysing traffic in Wireshark and then writing Snort rules to detect certain types of attacks. The reason why I didn't like this project was that I felt there was some misdirection in the project writeup on what we were supposed to look for in DDoS traffic. This led me to waste a lot of time going down the wrong path trying to find the solution. I also burned a lot of Gradescope submissions doing this, and submissions were limited to 10 for this project to prevent bruteforcing the solution. To counter this though one of the project TAs, Melissa, went out of her way to help get me back on track with this project. She deserves a medal for dealing with my stream of annoying questions, and for answering some of those questions live during Office Hours (of which I only attended 1 for the semester). Project 5 This project was about machine learning for intrusion detection and evading an IDS by modifying an attack payload to bypass the IDS. This was a fun project and involved some Python programming. I liked this project because it provided less guidance than the others. It required us to read and understand concepts from a paper and apply them as an algorithm in Python code. To be fair, the most important parts of the paper were distilled into a simpler form in the project writeup, but you still needed to read the paper to understand the different terms required in the algorithm. There was a project in CS6035 that focused on machine learning, but unlike that project, this one really did not require more than the most minimal understanding of what machine learning is. There were parameters for a machine learning model to tune, but unlike in CS6035 they were far better explained, and tuning the model was quite easy and for me there was no frustration over trying to understand how the machine learning model worked which wasn't part of the project anyway. This was a good project to end the semester on. Papers The papers were the low point of this class for me. Some of them were interesting, some of them had some historical significance, others were too mired in technical detail for me to get much out of them. Early on in the semester I looked up advice on how to read academic papers and this genuinely transformed how I read the papers and saved me a lot of time. I would recommend this to other students like me who haven't been exposed to a lot of academic papers before this class. I do recommend reading the papers because the quizzes and exam have questions that relate back to them, but don't get caught up in trying to understand every little detail. Only project 5 required reading any papers to understand the project, and even then the more difficult parts of the paper were distilled into a much more usable form in the project writeup, which was hugely appreciated. Exam The final exam was 25 questions with a mixture of multiple choice and true/false type questions. The exam is only worth 10% and the effort required to do well in it is low. To prepare for the exam I re-watched the lecture videos that mapped to the topics given in the exam study guide and re-read the assignment writeups. The topics given only covered just over half of the lectures and the remaining topics were related to the projects. I don't regret having spent the time on preparing, but so long as you did well on the quizzes and projects you could walk into the exam and expect to get a decent grade just from your overall understanding of the semester. I only needed around 2% to ensure an A in the class and got 90% in 15 minutes of the allocated hour. Extra Credit Assignments The extra credit assignments were 2 separate reviews of projects 1-3 and 4-5. The reviews aren't particularly good because there isn't consistency in the questions asked. They come out at the end of semester which I felt was not a good idea because by that time a lot of the finer details around each project have been forgotten. I would have preferred a review for each project released alongside each project so that I could give feedback as I worked through the projects. I'm not sure how these assignments are graded but they add up to 5% and I am fairly sure that as long as constructive feedback is provided that full marks are given. These assignments are a good way to get you over the line if you are just shy of a better letter grade. Piazza & TAs The Piazza discussion forum was active throughout the semester. The TAs were very helpful in answering questions and providing hints to help with the projects. A lot of good information came up in the discussions on Piazza, but other than one or two instances I did not find crucial information buried in Piazza that should have been in the project writeups. Compared to CS6035 I did not feel that the discussion was stifled by the threat of the OSI hammer. TAs and students were more free to provide helpful information rather than constantly trying not to cross a line by providing too detailed of an answer. Final Result At the time of writing the final grades haven't been released and the extra credit assignments haven't been graded but I am sitting on 98.7%. Final Impressions I enjoyed Network Security. It gave a good overview of a lot of topics and reinforced the fact that I want to take Advanced Malware Analysis and Information Security Lab. I actually found this class easier than its natural precursor, Introduction to Information Security. I think this was in part because this was my second class so I better understood how things work in OMSCS. I also think that the projects were a little more guided, and to some degree built on the concepts introduced in CS6035. I don't remember anything akin to the slog of trying to figure out XSS, CSRF and SQLi in the web attacks project in CS6035. I would recommend this class, and knowing what I know now, I think it could be paired with another class for those looking to get through OMSCS faster.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2022
+Date: 5/3/2022
+Workload: 4 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: Network Security OMSCentral Review Summary What this class is This class is a good introduction to network security topics. It also covers a wide range of adjacent academic papers and their theoretical implementations. This class is mainly project based with quizzes and the final exam a small weight of it. Some of the concepts require solid computer network fundamentals and some exposure to security concepts. This class required mild programming in python and JavaScript. The class utilizes Gradescope for all project except project 5, so you know how you are doing as you complete them. What this class is NOT This class doesn’t go extremely in depth on topics in the lectures. The depth of the class can occur on topics relating to the projects. This class will not teach you the basics of networking, such as the OSI model and various protocols. That is prior knowledge that is essential to the class. My Review (Overall Grade: 97%) Background Undergrad CS-major with prior experience in cybersecurity/computer networks. I have probably a little too much background for this class. Therefore, take my below time-spent statistics with a grain of salt. Overview Here is a link to the syllabus: https://omscs.gatech.edu/sites/default/files/documents/course_page_docs/syllabi/cs_6262_syllabus_and_schedule_2022-1.pdf I meticulously tracked my time spent on this course and each individual project throughout the semester using a tracking app. The times stated are very accurate (+/- 5%). Total Hours spent on this course: 63 hours and 32 minutes Average hours per week: 3 hours and 44 minutes Max hours spent in a week: ~ 9 hours (project 4, Snort/Network monitoring and project 3, web based attacks, took up the most time) Min hours spent in a week: 0 hours Lectures/Readings The video lectures are quick and bite-sized chunks relating to the overall topics and sometimes the associated readings. They are easy to get through. The papers associated can be long. I recommend skimming them unless they directly relate to the project (such as the paper on PAYL for project 5). I did not study the lectures/readings very much. Quizzes Quizzes are open book, and weighted very low. I would just take them after looking at the lectures and they will be very easy. Project 1 (4 hours 50 minutes, Grade: 100%) This project was a good introduction to penetration testing. You fulfill most of the steps of a penetration test such as scanning, enumerating, to escalating privileges and even cracking password hashes. I have prior experience in penetration testing so this was fun and easy. The escalating privilege aspect of the project can be tough without prior experience. Project 2 (9 hours 6 minutes, Grade: 98%) Malware analysis. This project touched on some relevant techniques for malware analysis. However, the malware was very old. This project spanned using tools/techniques to analyze various samples of Linux and Windows malware. I had no prior experience in this and found it challenging but doable as long as you start early and read the writeup thoroughly . Project 3 (14 hours 22 minutes, Grade 100%) This project took the most time. It is very JavaScript heavy, with things such as Fetch() and Promise() comprising the most important concepts I wish I knew going into it. With zero JavaScript experience, this took me a lot of time of trial and error to get everything correct. However, I did eventually get it and got full points, so don’t get discouraged just keep plugging away. Review Mozilla Web Dev docs to get an idea of the basic concepts necessary. Project 4 (13 hours 58 minutes, Grade 100%) This project uses Snort rules and Wireshark to detect types of network attacks. It is an enlightening project that requires some understanding of Wireshark and network protocols to be efficient. Never used Wireshark before? This may be a tough project. Also, there are snort multithreading issues on the VMs given to the students. I spent a long time debugging an actually correct answer because a snort problem said my rule wasn’t working properly. In short, if it’s not working the way you expect, ask a TA in a private post on Piazza. They were helpful. Project 5 (6 hours 57 minutes, Grade 100%) This was by far the most rewarding project. It required reading a paper the professor authored on evading PAYL, which is an ML-based network intrusion detection system. In this project YOU are the attacker. In this project you write python code to implement the algorithms and designs from the paper in order to evade the PAYL by “blending” your network attack to look like normal traffic. This was rewarding as it takes an in-depth understanding of the paper, and recreating the results of it. There is no Gradescope for this project, but you can check your end result with a supplied makefile. Exam Final Exam: 76% I did not study for this exam and took it quickly since I needed only a 5% to get an A in the class. If you watch the lectures and read the project writeups before the exam, an A is achievable.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2021
+Date: 4/29/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Very good class. The projects were very fun though also challenging. This is my ideal type of class. I hate tons of reading and I hate gotcha style exams/quizzes. The discussion board helped a lot and the grading was quite fair.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2022
+Date: 4/4/2022
+Workload: 9 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: If you are interested in security, then this is an interesting course. This course highly depends on projects.
+There are 5 projects, they are either medium level or hard level. And each project consumes at least 15-20 hours, so if you are not interested in security, then it could be torture. The projects are actually not bad, TAs are helpful, and it could be very painful before you figure out everything. I highly recommend START PROJECT EARLY.
+Overall, a decent course.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2021
+Date: 11/21/2021
+Workload: 13 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: It was easy and well structured course. I took it single in the fall. I liked that it was project based mostly (80%), quizzes (10%) and final exam (10%). Along with 5% of extra credit. So it is super possible to get an A. Quizzes (open everything) are easy once you go through the lectures. Content is introductory and those who wanna go in depth, research papers are provided to go through. Projects (all VM based except one) are like solving puzzles and are very nice, great instructions, excellent TAs and OHs. Start early and you'll be good. Exam (close everything) I haven't given so far, but it is mentioned that it has the same difficulty as quizzes. If you score all full in projects, quizzes and extra credit, you can avoid giving exam as well. Would be a nice summer course as well. But I don't think I could do it along with another course in the fall. Overall, recommended for only those who either wanna go into network security field or it is falling under their specialization. In order to go into depth of each topic you'll have to read research papers on your own, the course doesn't push you to do that.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2021
+Date: 11/16/2021
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: This was the first class I took in OMSCS. The course is more of a broad/general overview of security concepts in networking rather than going in depth into a particular area. Some of the lecture topics are very interesting, but in general I found it to be dry. The quizzes/exams are fairly easy if you do the readings and watch the lectures. 80% of the grade is projects - most of which are straightforward, all you need to do is follow the instructions. Project 2 is the most time consuming - I would start it as soon as possible, ESPECIALLY if you don't have javascript/web dev experience. The other projects, I started within a week of the due date and comfortably finished in time. Overally, average to slightly below average difficulty.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SUMMER 2021
+Date: 9/1/2021
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Projects are pretty cool -- different side of CS instead of just coding. Lectures are concise, but sometimes difficult to follow. I appreciate the short lecture length, though. Projects are not that hard, you just have to follow the steps mostly. All in all a good class that I recommend. Good cross between security and networking (obviously).
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SUMMER 2021
+Date: 8/1/2021
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This is a survey course giving you a broad overview of topics but not going in depth on any single one.  The required reading is all papers, and helps give a bit of depth to the course, but just realize this is more an introductory course. The class is project based, which I liked.  5 projects that introduce you to specifics of the topics covered.  Most of them are pretty easy, especially if you have any background in python development.  I personally came with 12 years of software developer experience with my python programming experience being mostly hobbies or automation scripts.  I found the programming pieces really straight forward and relatively simple.  The project instructions will walk you through what you need to do, with very little ambiguity. The exam isn't too bad even though its cumulative.  Jut make sure you give yourself time to review notes and lectures.  As mentioned before, concepts are not really repeated since its a survey course, so you'll need time to review stuff from the first lectures since you won't have any exposure to them later on.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SUMMER 2021
+Date: 7/27/2021
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Having worked as a backend engineer, it was interesting to explore this area. The course has interesting material and is very hands-on. The TAs did a great job. Recommended.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2021
+Date: 6/12/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Came in as a full-stack web developer with no networking or security background whatsoever. This was my first class in OMSCS. Took it as my only class while working full-time. CS-6262 is very hands-on and project heavy. The quizzes are easy for the most part if you take notes and do most of the readings, but the bulk of the work/fun are the projects. Really loved the content and learned so much. The TA's are great.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2020
+Date: 6/9/2021
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This had been 4th course taken, currently I am in a 6th. As with other OMSCS courses Network Security requires continuous dedication to succeed. In general, the course is tilted towards projects with smaller emphasis on exams and theory. Make sure to practice some JavaScript and HTML beforehand to avoid unnecessary pain. Taking Intro to Information Security prior is strongly recommended. Finally, you should like solving puzzles for this one.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2021
+Date: 5/7/2021
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This was a solid course. The lecture materials felt relevant, the quizzes were fair (you'll do fine as long as you follow along with the lecture and readings), and the projects were well-designed in that they allowed us to learn some key concepts without being overly difficult.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2020
+Date: 5/7/2021
+Workload: 25 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Similar style to IIS -- a natural follow-on. A couple projects were particularly challenging and sometimes there were bugs, but still quite good overall.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2021
+Date: 5/4/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: The previous reviews were not indicative of the current state of this course. I thought this was a really good course. The TAs did a great job, but the professor is absent.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2021
+Date: 5/3/2021
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: To start with my background, I am a software developer working as a full stack developer and have a good amount of hands-on experience.
+Now coming back to the course, it is overall a great course with good projects. Also before I proceed further about details, i would like to give a great shout-out to the TA team. TA team is very helpful and also they always made sure they release the grades before any major deadline (sometimes they released within 3-5 days). I do not have much experience in Networking and security part, so I liked the course overall ( the only improvement would be enhancing the lecture videos to the current topics). The projects are overall great with a decent amount of coding requirement as well ( Project 2 (JavaScript) and Project 5 (Python)). The course consists of 10 quizzes (10% weightage) , open everything. Not easy to score full marks and some questions will be from related reading papers. Project 1 (10% weightage) –Easy to Medium  difficulty and doable
+Project 2 (10% weightage) -Medium to High  (to very High for some ) – This project has 4 subsections – one of them is creating a chrome extension – needs little hands-on experience. The other one is clickjacking which is updating the DOM of a search result of a shopping store. This needs a decent amount of hands-on in Java Script. And most of the class struggled with this. Project 3 (20% weightage) – Easy to Medium difficulty – just that you have read a huge write-up, otherwise it is easy to follow the steps kind of work. Project 4 (20% weightage) – Easy to Medium difficulty – you have to write snort rule – once you understand basic its pretty straight forward Project 5 (20% weightage) – Medium to High Difficulty – You need to write some amount of Python code after understanding one of the algo in a reading paper. Final Exam (10% weightage) – Closed everything – Same Difficulty as quizzes – lecture videos and projects understanding in scope ( no additional reading papers). As I mentioned initially, TA team worked really hard to give provide the grade of Project 5 before the exam date was over( has more than 24 hrs) and this helped as you know how much to score in the exam for your targeted Grade. Also, there are 2 additional items for feedback on projects which are worth 5% additional weightage. So overall I liked it and can say if you can score well in projects 2 and 5 , an ‘A’ grade achievable.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2021
+Date: 4/27/2021
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Great course with interesting projects. Project 1 was an introduction to pen testing. If you have experience with Kali Linux tools (e.g. Metasploit) or have done any hack-the-box or CTFs, it's pretty on par with that. The write-up is more of a step-by-step tutorial.
+Very easy. Project 2 was a four part web attack project. The first 3 parts are medium difficulty, but I found click-jacking to be difficult and time-consuming. This project took me the longest to complete, but I have no web development experience outside of IIS. Experience with Javascript and HTML will make this much easier for other students.
+Hard. Project 3 was malware analysis on Windows, Linux, and Android malware samples. No prior experience needed, just three long write-ups to follow.
+Medium. Project 4 was network traffic analysis and intrusion detection using snort. Familiarity with Wireshark is useful here but not required.
+Easy. Project 5 was bypassing an ML security IDS. Very interesting project and I learned a lot. Be prepared to code in Python.
+Medium.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: SPRING 2021
+Date: 4/26/2021
+Workload: 20 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Overall a nice course to introduce you to the various attack scenarios though I wish the project could expand further. That would be another course of course. It is not an easy course like some people suggested, as there are quite a few information you need to familiarize yourself with. The projects each have their own pros and cons and difficulties. Be prepare to spend a lot of time doing your own researches as you need to craft your own codes specific to the projects, and also familiarizing and using new tools for every project. I would say projects 2 and 5 are the most difficult for people who aren't strong with web programming and python. At one point I was seriously considering dropping the course after project 2 spending countless hours in frustration and because the project was a bit vague and not very helpful. Other projects will also take up a lot of time. If you screw up the projects, you are toast, as they take up a huge chunk of your grade. Beware there are parts of projects that are very tricky. They might lead you to think you have the correct attack solution, but you actually don't. As the saying goes, security through obscurity. If you think you can spend a lot of time in frustration going through loops trying everything you can think of to craft the right attack code or using the tools correctly, then go for it. Otherwise, I won't recommend you to take this course.
+
+---
+
+Course: CS-6262
+Course Name: Network Security
+Semester: FALL 2021
+Date: 4/18/2021
+Workload: 20 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: tough but it was alright, good content

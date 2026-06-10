@@ -1,0 +1,232 @@
+# OMSHub Reviews: CS-6300 - Software Development Process
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SUMMER 2025
+Date: 7/22/2025
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 3/5 Liked it
+Review: SDP is what everyone says it is. It's an incredibly easy class that is unnecessary for anyone with a cs-background or work experience as a software engineer. Take SDP if you want an easy semester. This class would pair well with any other course or it can be taken in the summer, if you want a very easy summer.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2024
+Date: 12/30/2024
+Workload: 4 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: The full review is here: https://the11d.wordpress.com/2024/12/30/my-thoughts-on-sdp-omscs-review-5/ TLDR: (thanks GPT!) During Spring 2024, I completed the CS 6300 Software Development Process course, a core requirement for the Interactive Intelligence specialization in the OMSCS program. As a seasoned software engineer, I approached the course to gain an academic perspective on software development. The course was project-based, covering topics such as Git, unit testing, Android development, and UML design. While the workload averaged 4.3 hours per week, time demands fluctuated, with some assignments requiring significantly more effort, especially the first individual project deliverable and the white-box testing assignment. The group project emphasized Android development with team collaboration, offering a practical experience of software engineering at scale. I found the course insightful but relatively easy due to my industry experience, rating it 3.1/5 overall and 2.1/5 in difficulty. While it provided valuable fundamentals, I felt it could benefit from modern practices like Scrum, CI/CD, and containerization. For students with limited software engineering background, familiarity with Java, OOP, and external resources will be critical to success.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2023
+Date: 6/22/2024
+Workload: 5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: Video version: https://youtu.be/Jwcl0iHCALU?si=vt6FsPlBPwfbCm3E SDP is a fun, but very light course. I would only recommend this course to someone with no (or very little) professional software development experience. Most of what you learn in this course is what you'd learn in your first 3-6 months in as a software engineer. Things like version control, IDE usage, testing, the software development lifecycle and Agile methodology and OOP. There are few more advanced topics, like software architecture design patterns and different types of documentation like software design docs, test plans and UML diagrams, and static analysis. The lectures are engaging, though quite surface-level. We had 6 assignments which ranged from extremely easy to fairly easy. All were done in Java. There was also a group project (building an Android app) and an individual project (command line file parser with flag support). There were no exams. The group project was the highlight of the course for me. I was paired with two experienced software engineers and learned a lot from them. As a junior engineer at the time, I really enjoyed drafting the different design docs and designing the backend and database as these are normally tasks designated to more senior engineers. Overall, a good class to take if you have minimal professional software engineering experience and want a light semester or looking to do multiple courses. Otherwise, I'd skip it.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2023
+Date: 5/5/2024
+Workload: 10 hrs/week
+Difficulty: 1/5 Easy
+Overall: 4/5 Loved it
+Review: My Background: Bachelor of Science in Applied Math. When I started this course I had about 1.5 years of work experience as a a Data Engineer using Python / SQL / VBA Summary: If you have any experience as Software Engineer, I don't think this course will teach you anything new. I would recommend this as first course for starting OMSCS or if you are in the Interactive Intelligence specialization and want to avoid GA. Overall, I think it was fun despite nothing new to me and would give 5 stars if there was not a group project. It is a very easy A if you already have work experience and (you get a decent team group OR you can lead the team group and do most of the project yourself). There is a group project, so you may end up with a decent group or with a terrible group. Even with a terrible group, doing all the work yourself is not that difficult.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2022
+Date: 4/25/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: This was my 2nd course in the OMSCS program (first was CN).  Coming from a non-CS background, I was excited to take this course as I thought it would provide some very functional learning outcomes. I certainly did learn some important things from this course, but probably not as much as I expected. This course really honed my Git skills, as well as strengthened my Java coding, but I didn't feel like I took a wealth of new knowledge away from this course. Pros -
+Professor Orso is fantastic, his lectures are enjoyable to watch, and he's quite active on the message board and with office hours.  TAs all pretty good too, response times were very quick. I really enjoyed the individual assignments, as I thought they were well documented and easy to understand what the objectives were.  Learned quite a bit from these. My group was very active for the group project (albeit a little last minute on some things).  We got a solid A on the project. Cons -
+While the lectures were enjoyable to watch, I don't feel like I retained the knowledge that well since we aren't tested directly on the material.  Sure, some of the lectures were pretty key as a demo for some of the assignments, but I felt like you could really skip most of them and just get the assignments and projects done to coast on by. The group and individual projects were just kind of blah. There really wasn't an excitement to working on the applications needed to be developed. Overall, I am still glad I took the course, I just don't think it quite lived up to my expectations.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2022
+Date: 4/24/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Overall a great class. This is a must if you do not have a standard CS background. You will learn very useful skills that are applicable in the future. In my case, I would say that is NOT an easy A, but if you put in the work you will get a good grade, which is very fair. Highly recommended at the beginning of the program or if you do not have a CS background.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2022
+Date: 4/21/2022
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: This was the 2nd course I took in this program. First I just want to say that I do not have a CS background but am proficient in Python and Javascript and taught myself some basic Java before starting the class. If you have a similar background, you will definitely be using google a lot and these project may take you slightly longer to complete compared to others. This was the case for me, but still managed to get an A in this course pretty easily. I would recommend this to anyone starting this program or looking for an easy course to end the program with. Overall I learned a lot in this course and found the subject very interesting. I was really happy to learn how to use Git in collaboration with teammates which is a useful skill. I also liked that there are no tests or graded quizzes and MOST the lectures were pretty helpful. Orso does a good job of presenting lectures so they are actually bearable to watch. Most students complain about the group project and unfair grading. My experience was pretty positive and I felt that any points lost were fair and couldn't be argued. Based on previous feedback I was pretty nervous about Assignment 6 but surprisingly found it to be one of the easier projects. This assignment didn't involve any coding, but did require you to watch the lectures and read the questions carefully and apply some logic. Despite my experience many people seemed to lose a lot of points on this. The individual project was a bit more challenging and the first Deliverable was the most tedious part. After that it was not so bad. Most of the Individual Project is submitted in the autograder so it was nice to see the feedback and scores for the assignments. Complaints: I think the most common complaint is about the weighting. Assignment 6 was 15% of the grade and this is where many people lost points. I think it would be a good idea to spread the percentage out over all assignments more so one assignment doesn't have such a huge impact on the score. Final thoughts:
+If you are looking for an easy A or have no CS background and want to improve your Git and Java skills, take this class!
+If you are already a software engineer or have a solid CS background and you want to actually learn/challenge yourself, this may be a waste of your time.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2022
+Date: 4/4/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: The most thing I hate about this course is Orso's headphones. Every time he attended the office hour, his voice sounded muffled, and far away. His headphone quality is really low making the every office hour a total disaster. About the course, the content is too high level, and lack of detailed practical materials. The group project didn't allow us to choose group members. Instead, they chose crapy members for us. The individual project contains full of boring repetitive assignment like creating 50-90 test cases. If you are a software professional, you will find this course too easy, too boring and nothing to learn.
+If you are a newbie, you will find this course too vague, too out of scope, and nothing to learn
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SPRING 2022
+Date: 4/1/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: The lectures in the class are good and engaging. Prof Orso is creative with different content delivery methods, like interviewing experts in the field and being animated. Some of the interviews had audio quality issues and were not filmed with professional quality. I disliked the course overall because it's a lot of busy work for those who have experience. I wanted to learn more about design patterns and UML, and apply them in code, but those subjects were briefly covered. The group project was unpleasant because they pair strong students with weaker students, practically inviting free riding. For the final individual project, the project is as dull as possible, and you have to implement 50-90 unit tests! It is an easier course, but there's little educational take away.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2022
+Date: 3/27/2022
+Workload: 8 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: Taking this course is a waste of time unless you have 0 professional coding experience and haven't covered any of these topics in previous courses. Otherwise the only value of taking this course is to get any easy A for like 5 hours of work a week at the cost of not learning anything and doing boring / repetitive work (final project is actually a decent amount of work because there's so much tedious repetition in it - e.g.: write 50+ unit tests testing slightly different permutations of the same thing)
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 1/27/2022
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: As someone who's been programming for years, including some time doing Android development, this was a pretty easy class, but I imagine not so much for folks without a lot of experience in programming. Still, I enjoyed it immensely as it was a good refresher of best practices as well as some theory that I'd never been exposed to for things I'd been doing for a while.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 1/2/2022
+Workload: 7 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: Easiest course I've attended so far and yet the first course in which I was graded with a B. To set a benchmark, I've attended much more challenging courses like AI, KBAI, HCI, IHI and have had straight A's. The manually graded assignments which include White box testing (A6) and Group project is a complete joke when it comes to grading and mind it these assignments come towards the latter part of your semester and are very very badly graded by the TAs, while the weightage given to these assignments are also very high. Points are taken away even if you have done all the work and when you challenge the grade, the TAs do their best to find arbitrary faults to justify. As an example, my group project was graded 50/100 saying outright that the app doesn't work and that the documentations were missing. Then me and my team showed proof of the working app and that the documentations were present. After multiple regrades and back and forth with the TAs it was regraded to 76/100 and still the grade did not justify the efforts we put in. I ended up with a final score of 89 and received my first B for the easiest course that I've taken in OMSCS. This course does not grade you for your work on the manually graded projects and relies on the mood of your TA evaluating. Worse experience!!!!
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 12/25/2021
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: As someone with NO software development experience, I really liked this class. I learned something new every single week and got practice using GitHub (which I had never really gotten the chance to use before). The assignments matched up really well with the lectures. Even though people complain about not having all of the assignments released all at once, I think that they are released that way so that the lectures and assignments are in sync, which is actually kind of nice for spacing out your own learning in manageable chunks. If you have a good group, the group project can go really smoothly, and it's a lot of fun getting to make an android app if you've never done it before. Though it did not affect me, I do know that grading was fairly harsh and unforgiving for some of the assignments (i.e. Assignment 6). I think opinions of this course are largely dependent on 1) how much people already knew going in and 2) grading, so consider your own experience carefully when going into this course. If you're familiar with Java and OOP, I would guess that you'll be fine. If you've done software development in the past, you will more than likely be bored in this class.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 3 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: If you had experience working in the IT industry this course wouldn't be that big of a deal for you.
+I have a background in software testing and this course was pretty easy for me.
+Just make sure to read the assignment carefully before starting.
+The only issue you might have is team assignment which basically depends on the entire team's performance. Worst case scenario you would have to do it alone. Luckily this assignment is not that hard overall and if you developed an android app for leisure or have experience in Java programming you'll manage it.
+My team was not that bad at all, only one person didn't code.
+Overall I enjoyed taking this class.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: SDP is a fairly easy course - I am new to Java and I was doing well.. until The Assignments 6 and Individual Project. So I was doing pretty well in my first assignments. I did learn a lot from the group project - proper git usage, proper communication with groupmates, models and Android in general. However, I really dislike the fact that the grading is so artificial. I think they are intentionally failing students maybe because the course is fairly easy so there should be students that SHOULD fail.. not sure.. I don't like to accuse, but this is just a feeling. Also, gradescope is acting crazy. I have already complained about the unfairness that surrounds this tool but who cares .. TAs are not the best at all about helping. In all fairness, I have learned a bunch in this course, as a newbie.. but I strongly dislike the grading, it is not fair.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 12/20/2021
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: SDP has the potential to be a great and very useful class but there are currently a lot of issues with it. First off, prepare for a lot of unnecessary tedium, vague instructions, and shady/lack of transparent grading which is really an attempt at artificially increasing the difficulty of this course. The 6th assignment in this class for example was extremely vague and was graded pretty harshly. Compared to the group project which had multiple deliverables and spanned over a month, assignment 6 had a one week deadline yet was worth %15 (3% less than the group project). For Assignment 5 which was a much much simpler assignment than assignment 6 and was only worth %2 of the final grade, it literally took TAs an entire month to grade this which is completely unacceptable. No feedback was provided each week for any of our one week deliverables for the Group Project. And it was almost a month after submitting the final project that we actually received a grade. This would have been fine if we received feedback for each deliverable, but it never happened. So between the first week of Oct and late November, we were completely left in the dark on how our project did. Only to finally get a project grade with vague, trivial and nonsensical point deductions. The assignments which involve using Git, working with Junit   tests and using Android Studio are very helpful and have good value, especially for newer programmers. But again I'm not fan of this course's grading practices, TA attitude problems (especially on Ed) as well as how the Group Project and subsequent assignments were handled.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 12/13/2021
+Workload: 13 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: If you have no background in coding, this class is not easy. The assignments are not difficult, but the individual project is really challenging for me. Really don't know how to do the last 2 deliveries. I think everyone says it is easy because for group project, you will be assigned teammates who are good at java, most likely a software engineer. But the course content is not easy.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 12/4/2021
+Workload: 13 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: Good class if you are taking 2 courses (this and a hard one). I was able to balance well and learned a decent amount. I see non csers struggle in this course for some reason. Makes me question if they can survive the other easy courses especially if this is their first or second semester class.. had a non cser in my group definitely gave him the minimal for contribution
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: FALL 2021
+Date: 11/8/2021
+Workload: 5 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Background about me:
+Mechanical Engineering.
+CN(Fall 2020), GIOS, DL, GITA. The definition of easy A course: You will contribute little efforts. You will learn barely nothing. You will receive a beautiful A grade. I thought this course was a boring easy A course, since it was reviewed almost the lowest work load in Computing System track. But it turns out I'm wrong about the above impression: I have contributed some efforts (SQLite API, Test Driven Development). I have learnt something from the group project and individual project, which I will detail in the next paragraph. I don't care if I can get A or B at the end. Group Project: Experienced team members taught me the followings: Wisely usage of github, data persistence implementation, Data Access Object and Business Service for Object Oriented Programming. I have never expect that I can get any positive learning experience from a group project of online degree program. But this course changed my mind. I'm lucky enough to be assigned into a positive group. Individual Project: Test driven development. Basic I/O operations with java Object Oriented Programing. Overall, I received more than I have spent on this course. By contrast, I have almost spent the same time on CS6250 CN. But I literally received nothing from CS6250 CN. Although I received an A from CS 6250 CN, the contrast of the bad learning experience of 6250 to good learning experience of 6300 are obvious due to the followings: SDP designed solid projects for students to finish, in which some important concepts(such as TDD, OOD/OOP) were delivered through individual/group projects. Compared with SDP, CN has much more abstract/broad concepts needed to be delivered. For 6250 CN, I even don't know which concepts should I learn, how well I've learnt from Exams/quizzes/projects. SDP is different from 6250 CN. You can expect to learn some important concepts/programming methodology from SDP with reasonable efforts. TL; DR , reasonable positive learning experience with reasonable
+efforts.
+
+---
+
+Course: CS-6300
+Course Name: Software Development Process
+Semester: SUMMER 2021
+Date: 8/10/2021
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 3/5 Liked it
+Review: Very easy course. No test or quizzes so you can choose to dive into the material if you desire or just focus on the assignments and projects. My group was incredible and everyone knocked their portion out of the park! There is definitely a little more work in the end of the semester but its not a ton more. I don't think there was a week I spent more than 6-8 hours ever in this course. If you are going for perfect scores on the latter assignments you might spend longer. If you are just looking to get an A, you shouldn't need a ton of time. As for the material its good for an intro definitely. You should after this course have enough knowledge to more heavily research any of the areas covered. Would recommend pairing this course with another or taking this course a semester you know you'll be busy or need a little time to de-stress.

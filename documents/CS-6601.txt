@@ -1,0 +1,223 @@
+# OMSHub Reviews: CS-6601 - Artificial Intelligence
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2026
+Date: 5/21/2026
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: I took this (in tandem with CS 6440 Intro Health Informatics) as my last course in the program (OMSCS), within the eponymous Artificial Intelligence specialization. At start of course, I had around 5 YOE as a full-stack software engineer, primarily focused on C#.NET, TypeScript (React & Angular), and SQL. Overall, AI is a really solid course. One thing that stood out to me is the exceptionally well-matched assignments (programming-based and challenge questions) relative to lecture content, in terms of direct relevance and reinforcement of the latter. Of the several (10+) course I've taken in the program at large, AI in particular was exceptionally adept at bridging this gap (i.e., relating activities directly to lecture content); hacking on the assignments gave me a really solid grasp and grounding of the underlying algorithm, concept, etc. accordingly. The course gives a pretty comprehensive view of classical AI, but also delves into more contemporaneous topics across ML, DL, RL, and NLP towards the latter part/half of the course, too (though, I wish there were at least one dedicated programming assignment to these topics, but currently these are largely the same assignments/projects that have been around since early iterations of the course). Parenthetically, I briefly took the course previously (Spring 2022), but dropped at the time, and since then, the ML etc. content was net-additional. The supplemental Meta lectures covering these latter topics were rather unremarkable, frankly speaking, but this is well-offset by the phenomenal textbook by Russell & Norvig (it's encyclopedic in nature, but covers the content really well if you put in the time/effort to go through it, which is strongly recommended to get the most out of the course). I didn't keep close tabs on my time expenditures, but in general the workload was pretty high across the board (estimated at 25 hours per week, but this was variable, depending on the particular week, with heavier workloads skewing towards tougher projects and exam weeks). The first two assignments (programming projects) took a fair amount of work on their own; but the other ones were also a decent amount of work, too (particularly if lacking and/or rusty in NumPy), but comparatively more doable in a shorter-ish timeframe. The staff is really helpful on this front, along with the Ed discussions; perusing those periodically in tandem definitely helped me get unstuck with a few critical hints/comments there. The exams are notoriously long (open-notes, take-home format completed over the course of one full week), but in my opinion past criticisms of "errata galore" were rather overblown, at least in my opinion. Considering these were drafted from scratch, the amount of errata in both the midterm and final were rather minimal, relative to the size (40+ questions apiece!). The exams definitely took a lot of time to complete (comparable to the time-commitment-heavy assignments), but reinforced the course concepts really well and thus worthwhile on that basis from a pedagogical standpoint. For the most part, staying on schedule with the challenge questions problem sets was clutch on this front, given that the general format and style of the questions was representative of the exam questions. The course policy allows to drop one of six assignments, and two of ten challenge questions. I elected to drop the sixth/last assignment accordingly, and attempted all but one challenge questions set (mostly, to avoid falling behind on the course material, even if expecting subpar performance on a given challenge question set—these are worth only 5% cumulatively, so it's worthwhile to at least peruse and make a good-faith attempt, if only to get a first-pass cursory view of the current content, typically in the mix of other programming project work). This was a really solid class and gave me a strong foundation in a breadth of topics across "AI at large"; definitely a top 3 course for me, among those I had taken in the program up to the point of the course, and a solid "swan song" on the way out of the program for me, accordingly. Parenthetically, Spring 2026 was the inaugural launch of NOSI (see here ), a VS Code fork with anti-cheat mechanisms built into it. It was rather controversial on rollout, and had some implementation hiccups along the way, but honestly wasn't that big of a deal after learning to manage some of its quirks. The staff also did a stellar job resolving issues on the spot as they came up, particularly given the class/student size relative to staff size. For the paranoid (with respect to personal machine scope creep, bloatware, and the like), you can run NOSI without issues on the GT-provided Citrix VM (Windows-based). On a related aside, I never realized we had cloud-based access to dedicated campus-like Windows machines up until this course—my last in the program, to boot (better late than never, I suppose) 😬
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2025
+Date: 4/29/2025
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: Overall I really enjoyed this class and learned a lot. The assignments do a great job of easing you into the topic and building up to the final outcome. The majority of assignments had unit tests at regular intervals so you were not in the dark about your progress. All assignments had "unlimited" submissions on Gradescope (usually rate limited IE 3 submissions every 2 hours). Lectures were about average compared to the other OMSCS classes I have taken. My one complaint would be the exams. They are take home, week long affairs with open class materials. While it is nice to have a take home exam, they are a massive time commitment. I took 2 days off of work for both the midterm/final to be able to dedicate time to them. The midterm also had a ton of clarifications throughout the week, some of which changed the questions significantly or added confusion. This has mostly been cleared up on the final. I did not have a great probability/math background going into the course, but I was able to pick up everything I needed on the fly.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2024
+Date: 6/19/2024
+Workload: 15 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: Background: minor in CS in undergrad, working as a dev for a decade. Second OMS class, first AI-related class ever. The class material and assignments in AI were really good, but time-intensive. The class covered everything from classical search to game AI to ML algorithms. At its core, it's an AI survey class where you implement algorithms. The first half is doable with just good programming skills, but second half ramps up brutally with the math almost like flipping a switch, mainly (Bayesian) probability and some linear algebra. My math background is a work in progress and my last real math class was in the 2010s. I didn't prep much for the math beforehand and just picked up what I needed to on the fly. But the better you are at Bayesian probability and in general with reading and understanding arcane math notation, the easier the class will go. I found the second half of assignments more difficult than the first half, but those with a stronger math background got through them more quickly and easily than I did. Conversely, because of my background, I'm probably a stronger programmer than many of the students who are out of school or Jr devs and found the first couple assignments easier, though still quite time consuming. Start working on assignments the day they are released. I spent between 12 and 19 hours in-editor working on the code for each assignment. The class is organizationally a mess, run 99% by TAs, and the midterm and final exam both had a week of corrections afterwards with much drama abound (TAs write the tests from scratch for each semester). On one hand, it's very clear the TAs try to make the tests fun, engaging, and relevant educational opportunities, so a round of applause to them for the effort. When the questions worked, they worked and felt like fun puzzles rather than test questions. But on the other hand, the questions and answers are riddled with errors. The staff claims they go through a QA process, but I suspect the process can be improved. Both my midterm and final grades went up by double digit percentage points by the time corrections were over because of errors the TAs made in either the questions or their answer keys. Additionally, the tests throw in questions about concepts that were not covered or expected knowledge, like Q-learning or the details of convolutional networks. Great idea in theory, but stressful and pedagogically questionable to throw on an exam without advance notice. The plagiarism/honor policy is weird and has a chilling effect on collaboration. But despite this, there was a super active Discord with a good sense of community and commiseration. I skimped on the readings, but at least skimmed through all of them. The textbook is a good resource, but gets dense with math notation, especially in the ML sections. While using outside resources like watching YouTube videos, reading Wikipedia, or chatting with ChatGPT to understand a concept would have been a forboden violation of the class' plagiarism/honor policy and so I did not do any of those things, I certainly thought about doing those things but definitely did not act on those thoughts in order to better understand the material or get a better background for the material. So overall a mixed bag with with challenging and interesting material where I learned a lot in spite of needless drama, frustration, and difficulty because of the class's implementation. Worthwhile? Ultimately yes, but be prepared to spend a lot of time and be a little frustrated. I spent 175 hours total on the class, peaking at 21 hours one week, but with most weeks being closer to 14 hours of effort on average. I got an A, but definitely didn't get everything I could have out of the material just because of time constraints with work/life.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: FALL 2023
+Date: 12/13/2023
+Workload: 22 hrs/week
+Difficulty: 5/5 Hard
+Overall: 5/5 Loved it
+Review: interesting content lecture videos are not boring responsive teaching staff enthusiastic course mates challenging projects lots of errors and issues with exams (both midterm and final)
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: FALL 2022
+Date: 12/17/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: Overall This course is a survey of AI topics including search, game playing, Bayesian networks, machine learning, planning and optimization, hidden markov models, and others. It is interesting and also pretty challenging. The organization of the course could use some improvement. Lecture quality is ok, the book is good but dense and difficult to understand all the math if you don't have a strong math background, and the projects are pretty good. My background is I'm a recent career switcher to data engineering (1 year of experience) and come from an analytics background. I hadn't taken a math class for 15+ years prior to getting ready for OMSCS. Preparing for OMSCS, I took Discrete Math at community college, and self-studied calculus 1 and linear algebra. The more math background you have the better your learning will be. Projects You can drop your lowest score out of 6 projects. There are times when you can pass all tests locally but will not pass all of Gradescope. This is not unique to AI, and other courses have this characteristic. Search (difficulty 9/10, my score 85): You use uniform cost search (Djikstra's) and A* to find the shortest path between points on a map. The difficulty increases with doing this in a bidirectional and then tridirectional way. This is the first project in OMSCS where despite putting in many additional hours, I could not push my score up. Game Playing (difficulty 8/10, my score 95): Use minimax and alphabeta pruning techniques on a game called isolation. I was not able to beat Peter's agent for the last 5 points. Bayes Nets (difficulty 5/10, my score 100): Create a Bayesian network using conditional probabilities provided in a table. Calculate conditional probabilities for various scenarios. Use Gibbs sampling and Metropolis Hastings sampling algorithms. You get a maximum of 5 submission attempts. Decision Trees (difficulty 6/10, my score 100): Use decision trees and random forests to find convergence on classification problem. This topic was interesting and fun to me. However, the Gradescope implementation is testing you on something hidden without telling you. I spent some hours on figuring out what this was, and in the end, it wasn't some major change to my code. If the instructions simply laid out certain kinds of cases to think about, it would have saved me several hours of tweaking where I learned nothing additional. Expectation Maximization (difficulty 8/10, my score 100): This project is heavy on linear algebra. You need to know dot products, inverses, determinants, and other matrix knowledge. You also need to use vectorized numpy functions. I found this project to be the most conceptually difficult. Hidden Markov Models (difficulty 5/10, my score 100): Create HMM's and use the Viterbi algorithm to determine the most likely outcome given some evidence. There is a limit of 10 submission attempts. Each of my above scores was the median during my semester. One of the issues with the projects is on some of them I scored well, but I still didn't fully understand how or why it worked. You are provided some formulas or algorithms sometimes and you just need to implement them. Lectures The production quality isn't at the top level of the best OMSCS courses. However, I like that Peter Norvig and Sebastian Thrun did a good portion of the lectures in addition to Thad Starner. The main gripe with the lectures is they oftentimes aren't enough to get you through a project or test. You need to supplement with outside resources. Tests The midterm is worth 15% and the final is worth 20%. Each is a week-long take home test with open book, lectures, and other class materials. These tests are unique in that they force the student to review all the material which helps to reinforce the concepts. I liked that I did gain more knowledge from this, but I didn't like the process. The midterm was 45 pages and the final was 60 pages. It's just a long slog to get through them, and I took days off work to do them.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 11/1/2022
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: This was a tough class. I go over the tips and tricks that saved me in this 5 minute video review of the course: https://youtu.be/OQ74VZHpAUU Good luck!
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2020
+Date: 8/29/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This is my first OMSCS back in Sp 2020. Now I'm 6 courses in and this still remains the best class I've taken. The materials are interesting and challenging. Exams are challenging too but open book and allow a week to finish which removes lots of stress. The class is extremely well run and organized. TAs are super helpful. Highly recommend it if you have undecided courses to take for any specialization.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SUMMER 2022
+Date: 8/23/2022
+Workload: 15 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: I really enjoyed this class. The subject matter is interesting and the assignments are engaging. I would NOT recommend taking this class in the summer though - too much is smashed into too small a timeframe. The videos aren't super helpful, but you'll want to watch them as some crucial information is scattered throughout. I found the book very helpful, especially for the first few weeks of material. The assignments are pretty well designed, but make sure to start them early if you want an A or B. You can get to a C or D level pretty quick (you submit to gradecsope for your grade), but to get a 100 you'll need to be pretty meticulous and teach yourself a few things. The midterm and final are open book and they give you a week to complete it. Some of it will feel more like you are teaching yourself a topic, but there are plenty of resources provided to do so. The final is similar, but a much heavier lift - be sure to give yourself plenty of time. I did not and it cost me an A in the class! I have a mathematics background and came into the class self-taught in Python, both of which I think were helpful in this class. Lots of algorithms and debugging / solving edge cases. I did not seek help from the TA's, but they seemed pretty helpful.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 5/8/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Overall, this is a well-designed course. I manage to get a solid A (>97%). Here is my advice: Prepare for heavy self-learning. Lectures are only introductory. The majority of the class relies on self-learning. Assignments - start early if you are not familiar with AI or numpy. Exams - plan enough time to work on it (3 days for midterm and 4 days for final). They are long and not easy.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: FALL 2022
+Date: 5/6/2022
+Workload: 17 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This was a great course and one of my favorites in the program. I am specializing in computing systems, but took this course to get some exposure to AI/ML and managed to get an A. The course is challenging and there is quite a bit of material covered, but most of it is interesting and I found the projects enjoyable. It is apparent that Thad cares a great deal about the quality of his course. Most of the grade weight is in the projects, which are fairly straightforward provided that you start early. My lowest grades were in the first two projects. The exams in this course are unique in that you do quite a bit of learning during the test, which takes place over the period of a week. The final is my biggest complaint about the course. I found it much more challenging than the midterm and I believe this was due to the lack of relevance to the projects / lectures. In contrast, the midterm felt like a logical extension of the topics we had covered. There were also many errors that had to be corrected after its release and this is frustrating to encounter while taking the exam. The exam length was twice as long as the midterm, but the time to take the test was the same. The length is not a huge issue given that it is twice the material, but there were no real deliverables in the prior week. I think a better approach would be to dedicate the final two weeks to the final, rather than giving 3 weeks for project 6 (which only took a few days). Overall I highly recommend the course for anyone interested in a survey of AI topics.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: I took this class to get some exposure to ML/AI and to see if I'm interested in pursuing more classes in the domain.  I have a non-CS background with no experience in ML/AI, no numpy experience, and calc/linear algebra/probility/stats from 10 years ago and mostly forgetten. I tracked my time spent in the class using a focus timer app and averaged 15 hours/week with a few heavy weeks of 20-30 hours for the search assignment (1st), gaussian mixture models assignment (5th), and final exam.  I read select chapters from the book up until decision trees but stopped after that as I lost interest in ML.  During Bayes nets I got busy with work so couldn't spend enough time on it and thus ended up with a shallow understanding of it and following modules which are heavy on probability. Assignments: Search (33 hours) - This one isn't too bad if you taken GA or done graph problems on leetcode before.  I spent over 8 hours trying to get a final point in Bidirectional A* search which I couldn't get in the end, so around 25 hours if I called it quits at 99 points. Game playing (10 hours) - Supposedly this is the hardest assignment, but we may have lucked out with an easy variant this semester.  It helps to submit early and often as there's some randomness in beating the best agent, e.g. some people beat it with vanilla alpha-beta pruning while others couldn't with iterative deepening. Bayes net (12 hours) - I only completed half this assignment due to work commitments so ended up dropping it. Decision trees (20 hours) - Relatively straightforward. Gaussian mixture models (26 hours) - If you're not good with linear algebra or numpy then this project was brutal.  I spent more time trying to vectorize matrix operations using numpy than on the actual algorithms. Hidden markov models (13 hours) - Relatively straightforward. Tips for exams: You can implement algorithms in Python/excel/etc. to check your work / solve the problems.  This helped me score in the 90s for the final.  Had I done this for the midterms, I could have scored high 80s. The practice exams and challenge questions are good preparation for the exams The median scores for the assignments and exams are quite high and there's little to no curve.  To guarantee an A, you need to get above 90% and above 80% for a B. Overall, I enjoyed the first half much more than the second half.  Knowing what I know now about the material, I probably wouldn't take this course, stick with computing systems courses, and just wait for new courses to get added (revamped/new databases, programming languages, quantum computing, etc.).
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: The Spring 2022 CS6601 is a mixed bag. The class content is good and the enjoyable. But I did not like the learning environment set by the teaching staff (compared with some other class I have taken in OMSCS) Pros: The content of the course is well designed to help you understand the fundamental concept of AI. The assignments are challenging enough to force you read the supplemental materials, which was rewarding and worth the time. Cons: The environment of the class is, hostile. My impression is that Dr. Starner seemed to care "catching plagiarism" than "actually helping students solving the problem". In one of the his RARE office hours that I attended, he spent 30 min on warning students of the punishment for plagiarism and only 15 min on very very very high level brief review on the midterm chapters. IMO, not helpful. Not to mention that you are not to allowed to look for help and read pseudocode in online resources.
+Students on Ed are willing to help each other, and I had a lot great discussion with them. But more than too often, everyone was afraid of sharing too much detail to be tagged as "plagiarism". This definitely needs to be improved. TAs rarely answered questions on Ed except those closely-related to the assignment. Not sure if they are are not allowed to (remember the no pseudo code, no plagiarism policy? ) or as someone else mentioned, they don't have the knowledge to do so. Most of the coding assignment is not really "CS coding" I would say. Rather, knowledge on statistics and linear algebra are more useful for assignment. The open book midterm and final exams are the WORST part of the course.
+They are not hard.(I got >90 on both) But the exams are riddled with typos, grammar mistakes, ambiguous problem definition, etc.
+I spent more time on figuring out the "correct" interpretation of the problem than on actually solving the problem in both exam. Imagine dealing with "ambiguous problem"  and  "possible trick question" at the same time!
+Sure you can ask on Ed for clarification, but good luck on any TA caring to respond, or worse, waiting half of the final week only to get a more misleading hint from TA.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: CS-6601 is a great introduction class to AI. Best part: It does not have a useless group project. So you can spend more time learning than dealing with people. Lecture videos: The professor uses simple examples to explain AI concepts in the lecture videos, making this class friendly to people who do not have relevant CS/AI backgrounds like myself. Assignments: Total 6 assignments. One assignment is due every other week. The assignments are not easy but not too challenging either. You will be guided step by step. I didn't fully understand every part after watching the videos. Working on assignments was a big help to further digest what I learned. The first assignment (Search) was the most difficult one in my opinion. On average, I spent 10 hours on each assignment. Midterm & Final: Open-book midterm and final - you will have a week to complete them. As long as you understand the concepts, the questions are simple but don't wait until the due date to start. The exams are well designed to test the basic understanding of concepts by using actual examples - additionally, you will be provided with partial answers to check whether you are on the right track. Overall: A good class that demands time and effort, but is not too challenging. It does not require any specific pre-requisite. This class does not demand advanced programming skills in Python. For math, as long as you learned math at college and have not forgotten all of it, you will be fine. If you don't even know how to multiply two 2-D matrices or don't understand basic probability, you might have complaints in every class.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 5/5/2022
+Workload: 22 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: This course is a mixed bag of enjoyment, stress, and chaos all in one. Its a great course where you learn so much and are consistently challenged but it is ruthless. I thought the assignments were mostly fun but A5 was very challenging. The exams are not to be underestimated. You can assume the average for most assignments will be around 100, so the exams seem to be the limiting factor on your grades. I did not do well on the midterm bc it was right after A3 was due and i was working on A3 till sunday night so i didn't study for the midterm and my grade reflected that. For the final i put in all my effort and the week of i probably spent around 40 hours on it, which is on the very high end to be fair but I really wanted an A since this was my last class to graduate. Useful tips i have are: Try to get a study group for exam prep, we did this for the final and i learnt some stuff i probably would not have otherwise Don't underestimate the amount of time the midterm/final will take. The midterm was more difficult imo, though the final was double the size but felt fair besides a couple of mishaps w/ communication from the TA's. If you can save your drop for A6 i'd recommend that so you have 1 less thing to do while prepping for your final Cons of the class: The TA's sometimes dont have a deep enough knowledge to help you when stuck. I've had varying experiences with the various TA's. Some are great, some have kinda just moved on from your questions in OH when you're stuck. Communication in the class can be improved upon, there were a couple mishaps in spring w/ the Final and a extension on a assignment that was announced after the deadline. Overall nothing too bad but was annoying since you're already stressed out The stress of your grade till the very end of the class. If you do well on the midterm you don't have to worry about this unless you're really aiming for an A, but if you're fighting for a B it can be quite scary since you have no idea what the curve will be till the end of the semester
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 5/3/2022
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: Overall fantastic course. The good parts: Assignments were challenging and crystalized the learnings. The not so good parts: The video lectures could be better as they didn't explain a lot well. Needed to supplement with readings from the textbooks and YouTube videos. This made midterms and finals a lot harder and time-consuming than they should be. Despite these shortcomings, the time invested in this course pays dividends. Tips: Start early on assignments and even earlier on exams. Do all the extra credit. Shoot for 100s in the assignments. You will need all of these to average out with the hard midterm and final.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: I settled for a B because I didn't think I could get a 69 on the final. Feel really bad about it too! No idea why everyone says the 1st two assignments are the hardest. The 2nd assignment was the easiest BY FAR. The final is the hardest part of the class. I only took 1 day off work but I should have taken a few more AND I should have started it sooner. Assignments Search -- 94 score, 35 hours over 2 weeks Game Playing -- 95 score, 5 hours over 2 weeks Bayes Net -- 71 score, 25 hours over 2 weeks (had family in town) Decision Trees -- 100 score, 18 hours over 2 weeks (ML4T really helped here) Gaussian Mixture Models -- 100 score, 20 hours over 2 weeks HMM -- 100 score, 10 hours over 2 weeks Midterm -- 79 score. I choked on the Bayes Net question. No surprise considering my assignment score. Final -- Estimated score of 48. I stopped trying once I realized a 69 was unlikely. The final was a great deal more difficult than the midterm. I spent ~12 hours on the final and probably needed another 20 hours to get my desired score for an A but alas, here I am. The final 3 assignments had very little to do with the final exam which was surprising to me. Some of the final exam questions, I simply had no idea what they were asking. There was a q-learning question which, initially, I thought I would do well on because of ML4T but I was confused and just gave up. The ML and HMM questions were above and beyond the assignments. Updating weights in the ML question and forward/backward was new to me but briefly mentioned in lecture. Had I understood all the mathematical syntax or read an additional 75 pages from the book then maybe I could have gotten it but ran out of time. I also had no idea on the constraint satisfaction problem, even though I did well on this topic for the midterm, and gave up when the tip was "read another 30 pages from book".
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 4/26/2022
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Please read https://omscentral.com/review/-Mg2meE3KVrVBVS4yIDu and DON'T TAKE THIS course if your answer to any of the categories under "The type of student I think would struggle" is YES. IMHO, for a very marginal learning, this course has an insane amount of suffering and slogging that you'll have to go through. Video lectures are a joke, reading material is difficult to digest, assignments are out of context and unnecessarily complex, and exams are largely based on topics that are covered with 1-2 minutes video lectures at best or are out of context just like the assignments. I am honestly surprised that there are so many positive reviews for this course. I am sure that you'll be able to find much better courses on AI outside that are probably free; in fact, that's what you'll end up doing anyways: watching YouTube videos to finish assignments, because none of the provided material helps. I don't even want to talk about that exams that are 40-60 pages and (very proudly) are announced to take 13-15 hours to complete! Take this course only if you are familiar with AI concepts previously and are very good with linear algebra / probability (I had forgotten most of it). Otherwise, kiss your life goodbye in the semester you are taking this.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 4/26/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: My background: OMSA student 7th course, c-track (other course is RL). Undergrad in CS I thought this was a really well designed course that goes over a whole wack of areas in AI. Basically begins with your classical AI problems of search and game playing then transitions to some ML topics such as GMM and random forests before getting into HMMs and some more theoretic parts of AI (planning, logic, etc.). The course makes use of AIMA (AI textbook) which is a really great reference throughout the course because admittingly some of the lectures are a little bare. The open book midterm and final exam are very well put together (kudos to the designers), and do a good (but fair!) job of testing material throughout the course. I really liked the format of riddle/thinking problems in this format. The assignments are also very well done, I sort of wish there was one more on RL at the end because I am a big believer in learning by doing, but I guess there is an entire RL course for that. Like most of the online program, this course is what you make of it, if you only spend time working on the assignments then your time commitment will be a little lumpy. However there is tons of content throughout the course and textbook if you really want to get into the weeds and keep busy. EDIT: I can imagine there will be students that will write scathing reviews over the final exam for this term, these are overblown. Yes there were some mix-ups but the amount of complaining that went on Slack afterwards is ridiculous, if you knew what you were doing in the class you were ok on the exam regardless of these.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 4/9/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: Background: CS Degree from a top school, working as a software engineer. Doubled up on this class with Network Science. I'm writing this review from the perspective of having a strong CS background and having taking an AI course in undergrad. Really well structured class with clear goals and deadlines for each week. If you have a strong CS background and experience with Python, the class is much easier from a workload and difficulty perspective than the other reviews are saying. Around 80% of the material covered should not be new material and is just slightly more in-depth than you should have already seen, and the lectures do a great job of covering the material. The book is great for the first half of the semester, and ok for the second half. Definitely worth reading, but got a little math heavy and theoretical for my taste in the later chapters. I found in the weeks that I wasn't actively working on an assignment, the classwork was pretty light. Around 2 hours to read the assigned reading and take notes, and around 2 hours to go through the lecture videos. I found reading the book, then following it up with the lectures was helpful to confirm my understanding of the material as the lectures are much simpler. The lectures are easy to get through and honestly fun to watch. In the weeks I was actively working on an assignment, the hours spent in the class went up depending on the assignment. Like everyone else, I found the search assignment to be the most difficult and time consuming. However, it's an assignment worth doing as the median was quite low and it's fairly straightforward to get an 'A' on. The rest of the assignments I found to be about the same level of difficulty with varying amounts of code. All told, I averaged about 10 hours per assignment on the last five assignments, and spent roughly 20 hours on search, and have been at or above the median on all assignments. The midterm was lengthy but fairly straightforward if you took your time and made sure you understood the question. I spent about 10 hours on it and was well above the median. Haven't taken the final yet, but assuming it will be similar. Overall, I really enjoyed the class and I feel it has strengthened both my theoretical understanding and my practical knowledge of many AI topics. I would highly recommend this class, and if you have a similar background it's not as arduous as it's made out to be. If this is your first foray into the material, it will be more time consuming, but still worth taking.
+
+---
+
+Course: CS-6601
+Course Name: Artificial Intelligence
+Semester: SPRING 2022
+Date: 4/1/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: It's not easy class and requires lots of time devoted, but the course is very well structured to ensure you obtain knowledge after each assignment. Also, you build your python skills while doing assignments. It gives you directions.

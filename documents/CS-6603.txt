@@ -1,0 +1,222 @@
+# OMSHub Reviews: CS-6603 - AI, Ethics, and Society
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2026
+Date: 4/27/2026
+Workload: 8 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: This class is by far the easiest course in the entire OMSCS program. I took this class in combination with KBAI while also working 40-50 hours per week at my job and found the courseload manageable. Course pros: Ethics is always important and I also believe that understanding how algorithms can be biased is crucial. The program can mostly be done at your own pace. Everything is async. The only timed exam is the midterm. Course cons: The work is weekly with no breaks during things like spring break or Thanksgiving. Because there is no "final exam" you don't really need to study after the first half of the course. I feel like most of the coursework is busy work. Sometimes that is just writing a response to an article, but sometimes that is writing a 8 page document calculating different fairness and bias metrics. The topics are important but I feel like they are not topics that take 10 hours of homework to understand. I would say overall, take this for an easy A, just don't take this because you are expecting it to be 1 - 2 hours of work per week. Expect many more hours of mostly mindless and tedious assignments.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SUMMER 2024
+Date: 8/5/2024
+Workload: 11.5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: Introduction Background As of course start, I had around 3.5 years of experience working as a professional software engineer, specifically doing web applications (full-stack .NET + JavaScript). My previous degree was in Engineering (non-CE/non-EE) from early 2010s. This was my fifth/sixth course in OMSCS (taken concurrently with DM, MGT 6311), within the computing systems specialization. I previously completed GIOS (CS 6200, Fall 2021), IIS (CS 6035, Fall 2022), CN (CS 6250, Summer 2023), and HPCA (CS 6290, Fall 2023). High-Level Review Overall, I enjoyed the course. While topical coverage was somewhat surface-level, I thought it covered a nice breadth of topics across the AI/ML landscape, which added some thought-provoking ideas around the subject matter within the general scope of ethics (which is often neglected or otherwise underemphasized in STEM in my opinion). Otherwise, even with some logistical hiccups notwithstanding, I thought the administration of the course and content curation was solid overall (though not flawlessly so, either). Course Logistics and Time Expenditures The course is not curved, and follows a strict 10-point scale (i.e., 90.000-100.000% overall for an A, 80-89.999% overall for a B, etc.). The relative weighting of the deliverables is as follows: 40% projects (five, equally weighted) 15% final project 15% class discussions/exercises 10% written critiques 10% midterm exam (closed notes, timed) 10% final exam (open notes, untimed) I did not keep strict tabs on time expenditures across deliverables, but my best in-hindsight back-estimates are as follows: 1 hour per discussion * 6 discussions total = 6 hours 0.5 hours per exercise * 6 exercises total = 3 hours 15 hours per project (mid-range average across the six projects, including final) * 6 projects = 90 hours 3 hours per written critique * 2 written critiques total = 6 hours 2.5 hours per lecture module * 4 lecture modules total = 10 hours 6 hours of prep per exam (lessons review) * 2 exams = 12 hours Given an 11-week summer semester, this averages out to 11.5 hours/week [= (6 + 3 + 90 + 6 + 10 + 12) / 11]. The cadence was typically 1-2 discussions/exercises assignments per week. Otherwise, the projects, written critiques, and exams were relatively evenly distributed across the semester in terms of deadlines. Additionally, it was generally possible to work ahead, on average around 2-3 weeks or so (including multiple projects available simultaneously), though I mostly stuck to the weekly schedule myself, so I'm not exactly sure what that "lookahead window" looked like more precisely in practice. My general impression of the workload was "steady churn" rather than "intermittent boluses." Course Deliverables Weekly Assignments and Written Critiques The discussions and exercises were my least favorite component of the course. It was pretty easy and mostly a matter of "checking boxes," but felt somewhat tedious nonetheless. Some of the articles examined were inherently interesting, to be fair, but among other things, having to comment on two other students' discussion posts to me felt more like "doing work for the sake of doing it" rather than an "added value" per se. That said, there are tougher ways to earn points, and so it really just boiled down to getting it done in a timely manner. Along these lines, the written critiques were essentially just a slightly more involved discussion (and with more specific formatting), but not an overly imposing deliverable to complete, either. Projects I personally enjoyed the projects overall. I thought they covered a nice range/scope of topics, and was a good opportunity to get better acquainted with the "tools of the trade" (i.e., Python and related data-analysis-oriented libraries). There was also a report writing component for all of the projects, requiring Joyner Documentation Format (JDF), but it was pretty easy to implement if using Overleaf (accessible with your GT credentials); if familiar with using markdown, then doing inline LaTeX via Overleaf was not much different from that. Additionally, the final project gave the option to work in a group or alone; I elected the latter. The scope/complexity of the project was on par with the other projects, so I personally didn't think that adding more "noise channels" to do somewhat linear/non-parallel data analysis would be net beneficial; I do contend that hindsight vindicated that assumption on completion/submission of the final project accordingly. For the most part, the projects were pretty straightforward. There were some slight ambiguities here and there, but nevertheless I didn't have any major issues/blockers (as validated by the resulting grade) by simply "doing something reasonable" according to what was asked, and moving on from there; it seemed to me that others in the course had a lot of issues grasping this concept, for whatever reason. I basically spent around 2-3 "working sessions" apiece on the projects, first just getting acquainted with the data and doing subsequent data analysis on a step-wise basis through the prompts, and then separately reviewing the "raw analysis" and consolidating that into the actual formatted report for submission. I predominantly did the data analysis with Jupyter Notebooks, though the staff was not "opinionated" in terms of specifically dictating tools (other than generally requiring JDF formatting for the submitted project reports). All of that said, there were folks wo relied mostly on Excel to do these projects (based on what was reported in Ed, etc.), which in my opinion was a self-imposed choice to avoid learning a useful skill (i.e., Python, pandas, matplotlib, etc.); but to each their own. For me, even with Python and data analysis not by my "main wheelhouse," I still found it to be a useful opportunity to develop/refine those skills nevertheless. (But I also do still think that it's somewhat disingenuous to criticize the course on that basis if somebody otherwise made a conscious decision to take a more expedient route, too, by actively avoiding the opportunity practice using these tools with a relatively well defined prompt and dataset as provided.) Exams The midterm was closed notes and timed, but for the most part just boiled down to having a general intuition around the core concepts from the lectures. The midterm was proctored via Honorlock in Canvas. The final was open notes and essentially a pseudo-"seventh project," with similar scope and complexity as the other previous projects (though requiring less explicit data work/analysis), as well as the deliverable itself being a JDF report (i.e., rather than a timed/proctored Canvas submission). Closing Thoughts I do think the course catches some undue criticism, at least in certain regards. There was a lot of clamoring around "ambiguous instructions," but honestly from what I observed (i.e., Ed and Discord), there was a lot of "overanalyzing/second-guessing requirements," as well as a demonstrable failure to assess the provided material critically (including additional FAQs provided as needed), e.g., instruction says to plot in a certain way, and yet still questions on how it's supposed to be plotted; and so on. That's not to say that the instructions were stellar by any means, but also by no means completely lacking in clarity, either (or at least I've seen worse in OMS to date elsewhere, personally). For the most part, just do something reasonable that addresses what's been asked; it's really no more complicated than that. I can understand some unease around it for the first couple of assignments/projects while still pending grades, etc. in order to get a better gauge, but these types of matters/questions were still ongoing/persistent late into the semester from what I saw (i.e., well after grading was "battle-tested" by that point). However, the actual grading was not overly imposing (and regrade policy was relatively generous), and for the most part, if you did what was asked, then that was generally sufficient to score high marks (100% in most cases). Additionally, I've also seen the (in my view) undue criticism of "it's too easy." I do think that this course in particular is very much so a "choose your own adventure" ordeal in terms of how deeply (or not) you decide to dive into the topics and tools. For me, being rusty with Python/pandas etc. (and particularly since I'm in the systems specialization and more generally applications development focused in my personal and professional work, as opposed to being more entrenched in the data domain), I thought the assignments were a good opportunity to gain more skills and explore some interesting topics in that vein, without being overly imposing from a time requirement standpoint. Otherwise, if you're not interested in ethics (and how it fits into AI/ML), then I'm not sure what the point is of taking a course on the topic, only to complain about it later... (That's not to say that criticizing administrative issues is off limits by any means; but even on that front, too, I did think some of the criticism was overblown nevertheless.) This is a pretty light course overall and should be amenable to pairing with another, even over the summer (AIES and DM paired together was less work than single courses individually that I had taken previously, e.g., GIOS and HPCA).
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2024
+Date: 5/20/2024
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: So yes, this class is quite easy. The assignments are very straightforward and the tests are fairly easy if you just watch the lectures. Grading is quite lenient as long as you check all the boxes. Now, some of the material is indeed worth discussing/interesting such as the laws and ethical considerations surrounding deployment of ML/AI. They also introduce you to some actual software tools and methods to mitigate bias and encourage you to think about the trade-offs when using these algorithms and what 'fair/unbiased' even means in some contexts. I don't necessarily have a problem with a class being easy, my main gripe with this class is that some of the assignments/tests just seem poorly constructed. There were some questions that were clearly just asking the wrong thing or confused about the thing it was asking us to implement. Other questions were clearly going to return useless results, but the instructions from TA's were to just do it anyway and report those useless results. These questions should probably just be removed/edited? I felt that the intro stats material should just be made optional and dig more deeply into the bias/fairness techniques or something like model transparency/explainability. The final felt like a repeat of the final project, just a report of going through a use case of doing bias mitigation. I'll contrast this with another class which I would also consider pretty easy (though I'd say slightly harder), but for which I gave a great rating: CS7632 Game AI. The assignments in that class are extremely well designed and incredibly fun, I actually cared about putting extra work in even though I didn't need to since the assignments were engaging instead of some....thing....that I would get out of the way in this class. A revamp/clean-up of the assignments to something more engaging/interesting would easily bump this class up to a 4.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2022
+Date: 5/5/2024
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 4/5 Loved it
+Review: My Background: Bachelor of Science in Applied Math. When I started this course I had about 1 year of work experience as an Analyst using VBA / Python / SQL. Summary: This is the second easiest class I've ever taken as part of OMSCS. If you have any experience working with human data or enough logic and empathy to understand the basics of ethics, this should be a breeze. This would easily pair well with a second course. I think I spent less than 4 hours a week and got an easy A. It can be a bit repetitive and I don't think I learned anything new because I had experience with human data before, but I really appreciated the break.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2024
+Date: 4/30/2024
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 3/5 Liked it
+Review: This class should only be taken in conjunction with another to expedite one's graduation from OMSCS. I took this in conjunction with Network Science and found this class very manageable.
+Pros: Learn Joyner PDF Formatting in a low-stake environment (systems like Overleaf and Latex Documentation) Fairness Metrics and a clear and deep understanding of Bias Generous grading and the availability to work ahead Cons: Boring, repetitive, and generally very little learning for anyone who is coming into OMSCS with any form of technical degree. Assignments rarely work as intended. What I mean by this is that they will provide datasets or scenarios where bias should occur, and then no bias would occur. And you need to analyze it as if there was. I found this... unhelpful and uninformative and not great for finding real world use cases for such techniques.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2023
+Date: 7/16/2023
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: Simple course with low quality, but it is easy to get A.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2023
+Date: 5/11/2023
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: https://www.reddit.com/r/OMSCS/comments/11frnuo/cs_6603_ai_ethics_society_the_worst_course_ever/ Please read the above reddit post. Loosely, it summarizes my thoughts. The grading is the MOST lenient of any course I have taken in this program and I am 8 courses in. Sometimes I will leave portions of assignments half-finished on purpose if I do not believe I need that portion for my grade. I would often still get marks for it. The lectures are fine and I enjoyed them quite a bit. The assignments on the other hand are pure tedium - I’ve had less than 200 lines of code be used for a 15+ page reports due to the copy and pasting of the code or plugging in of different values. The assignment instructions are vague, have grammatical errors, and required constant TA adjustment during the semester. The Taste try to be as helpful as possible and are great otherwise but I believe the amount of busywork could be cut down in this course with a higher emphasis on quality, not quantity.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2022
+Date: 12/28/2022
+Workload: 7 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: A very interesting class! Check out the full review of it here https://youtu.be/wQOSeCC5oss
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2022
+Date: 10/10/2022
+Workload: 6 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: The ethics concepts in this class are pretty interesting, which I appreciate. However, the homework assignments are very poorly designed (particularly HW 3, which is AI/ML Part 1). When trying to get clarifications in edstem, the TAs are not usually very clear in their responses. I've seen a couple of questions written out multiple times without an actual answer being given. This doesn't appear to be intentional either, as far as I can tell. I also think some of the technical concepts are really beneath a graduate level program, such as a set of lessons on, "what is the difference between mean, median, and mode?". None of these things are killers on their own, but on a whole, the course is too easy, doesn't cover all that much material, and suffers from a couple poor assignments and lack of clarity on edstem. That said, I think the peer reviews, written assignments, and case studies are quite nice! This course has potential, but it needs a lot more work to get it to the quality of other OMSCS courses.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2022
+Date: 5/9/2022
+Workload: 3 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: If you're planning to take this class you already know what you're getting yourself into. Just like everyone else has said this class is easier than a high school class. The assignments are pointless and repetitive (Like copy/paste lots of numbers pointless). I did not watch a single minute of the lectures and got a 99.7% on the midterm and 100 on the final. I did each homework assignment the day it was due and had little problem. I'd recommend this class if you need to get an A. Just turn everything in and I promise you will get an A.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2022
+Date: 5/2/2022
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: Fairly easy class overall. As other students have mentioned earlier, the assignments are very repetitive and time consuming at times. This is a great class to take if you have a lot going on in your life.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: I very, very strongly disliked this class. I have bachelor's degrees in philosophy and applied ethics. This class should not have ethics in its name. I was hoping for an AI ethics course. This is a data science course.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: This class is extremely easy, so its great if you want to pair with a harder class or if have demanding work/home life already. With that said, this has been my least liked class so far (out of 8 total). The entire class content could have been condensed into a 3 or 4 page paper. To be clear, the content is important - people making and using ML/AI need to account for potential bias in the training data - but this just shouldn't be a semester long class, or a masters level class. The assignments are extremely repetitive/boring. They are easy, but you'll come to dread doing them because or how pointless they are. You will spend more time reading the instructions than you will doing the assignments.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: SPRING 2022
+Date: 4/3/2022
+Workload: 5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: Like many reviews say, this course is easy if you have a data science background or you have a teammate with such experience. Working on it alone with no prior experience definitely poses some challenge. A lot of time gets spent on plotting graphs and figuring out how to do the requirements. A realistic week might be 10 hours/week while doing projects and having no prior experience.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2022
+Date: 3/27/2022
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: I feel like this course got tweaked to increase the workload and the end result is you have a lot of pointless busywork in assignments and some assignments can be kind of challenging if you don't have a data science background because it's asking data science questions without teaching you how to answer them The ethical discussion topics were interesting and can be banged out in like 20 minutes Assignments are kind of hit or miss with some being a decent amount of work Take this course if you have a data science background and are looking for a super easy course or if you don't have a data science background and are looking for a semi-easy course Rating this course as "disliked" because there is a lot of pointless busy work (e.g.: Make a graph for this 1 set of data and then repeat the process 10 more times to create a total of 11 graphs so you end up wasting hours of time without learning anything)
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2021
+Date: 1/14/2022
+Workload: 3 hrs/week
+Difficulty: 1/5 Easy
+Overall: 3/5 Liked it
+Review: I regretted not pairing this course with a more challenging one. This course is very easy, although some assignments can be annoying because you are creating the same figure 20+ times. The lecture is interesting but does not go into too much depth in bias mitigation. TAs are great and the grading is fair. My main suggestions are 1) pair it with a more difficult class, or save it for the semester that you barely have any time for class; I spent on average 2-3 hours a week; 2) the group project allows for individual submissions. Do it yourself instead of finding a group. The project is very straightforward and I was able to complete it in one day by myself and got 100/100. You will probably end up wasting more time communicating with group members.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2021
+Date: 12/29/2021
+Workload: 5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This was my 4th class in OMSCS. I was in the middle of a job change, moving from one state to another and took this along with INTA-6450 ( Data analytics and Security). This was an easy pair except for the week i was traveling. I was  able to work ahead in AIES and finish the assignments to get some time for my move. The assignments were easy to finish but gave a lot of learning to me since i am new to pandas and Scikit-learn. It seemed like a lot of unnecessary work plotting 20 graphs with different combinations and writing reports. This class is a good introduction to the data analytics and provides exposure to jupyter, pandas, matplotlib, and makes you familiar with handling/manipulating data and displaying graphs. For some of the assignments, instructions were not very clear, so there were lots of piazza threads asking for clarity. Vijay from the TA team was very active and helpful in responding to all the queries. The mid term exam was a mess for me because of honorlock issue that kept blocking me from opening any document on my laptop even though the exam was open book. I did score around the median and was able to get 90+ in overall. The final exam was just about picking up an article related to AI ethics and write a report about it with the supporting data. The difficult part was finding a recent article/video published within last 6 months that had enough supporting data reference in it. Once you find the suitable article, it was pretty easy to write the paper. Final Project was a group project  (group of 4) where i struggled a bit because most of the group members were absent due to personal and professional reasons. Thanksgiving was also one of the reasons our group couldn't meet.
+Most of the team members were more comfortable working with Excel and didn't want to use python for the project unless it became absolutely necessary. I had to do most of the coding 1 day prior to submission for the steps where we needed  to submit the code. Most frustrating part was someone in the group asking : why we used certain function/method at the last moment when we didn't had time.
+So if you get a good group, the final project should be easy-peasy. The grading on final exam and project was very lenient. Last week of the semester was little busy with final project, final exam , critique and discussion all pending around the same time. Overall, an easy class with some learning for me.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2021
+Date: 12/18/2021
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This was my 8th class in the program, and I have experienced both higher workload classes (AI, recent CP to name a couple) and this class is around half the workload of those. I went into this class a little skeptical, but I was pleased with the course. The lectures were well done. I can't say that all the lecture material was needed for the projects and exams, but certainly make sure you pay close attention to protected classes and domains as those show up on nearly every assignment. If you're looking for an intro to the data analytics space, this is a good prep for that with exposure to jupyter, pandas, matplotlib, and gets you use to handling data and displaying some graphs. Grading was fair in my opinion as long as you "checked the boxes" of everything the assignments asked for.  Most assignments had some vagueness, but found that a lot of it can be done at your own interpretation as long as you describe what you did.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2021
+Date: 12/14/2021
+Workload: 20 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: The course presents very interesting topics and discussions. It also serves as a great introductory course for data science, pandas, numpy, etc. As others mentioned, the course itself is easy when compared to other courses in the OMSCS program. However, easy is subjective. The course is easy for those already experienced in Python / Pandas, etc. but it may be challenging to those who lack experience with Jupyter Notebooks. While I did have experience in Python, this was my first time deep diving into Python for Data Science. By starting assignments early and watching tutorials on the side, I found the homework to be very easy. However, it is time-consuming. My advice is to start early and don't leave your homework for the last-minute. My only complaint about the entire course is the way the instructors wrote the assignment instructions. I found that I often spent a lot more time trying to decipher what the instructions were asking for than actually working on the assignment itself. I found that classmates experienced the same issue and would post for clarification on Piazza. If a clarification in Piazza was made, the instructions were never updated to reflect that clarification. Because of this, I had to skim through many posts to ensure I'm completing the assignment correctly. Anyways, the class is also composed of discussions which are very easy. It's just a matter of answering the prompt and responding to two other classmates. The midterm was open notes and consisted of a mix of multiple choice and write-in questions. I felt that there were trick questions but received a passing grade either way. The final exam was converted into a take-home essay that had its challenges but it wasn't difficult. I felt that the grading was more than fair. I received perfect scores in all assignments minus the midterm. I am in no way an expert in Pandas but this course is definitely do-able as a beginner. I can see how this course would be a freebie to those whom are more experienced in the field of machine learning. I can see how someone who has taken courses such as ML or AI would find this class boring. However, the course is meant to be an introduction. I enjoyed it.
+
+---
+
+Course: CS-6603
+Course Name: AI, Ethics, and Society
+Semester: FALL 2021
+Date: 12/13/2021
+Workload: 3 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: The class overall is very easy compared to other OMSCS classes. The content is interesting and somewhat engaging but it defintely won't be nearly as technical as other classes. As a word of caution, though the class is easy some homeworks and projects are time consuming. The trick for these is to simply just put down coherent thoughts and as long as it makes sense you'll be able to get High A's. The midterm was suprisingly harder than i expected but nothing crazy. Final project is a good chunk of work however so try to find a group for that.

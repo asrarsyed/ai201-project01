@@ -1,0 +1,224 @@
+# OMSHub Reviews: CS-6750 - Human-Computer Interaction
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: SPRING 2026
+Date: 5/21/2026
+Workload: 6 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: As someone balancing a full-time job and a family, I was cautious going in — but this course exceeded my expectations in both structure and delivery. I had no prior HCI background from undergrad, so everything was new territory, and I found the material genuinely engaging. Dr. Joyner does an excellent job guiding students through a dense subject without letting it feel overwhelming. A few notes on the workload by component: Lectures (Weeks 1–4): The front-loading of lecture content makes the first month the most demanding stretch of the course. My advice: start building structured notes or study guides early — I wish I had discovered that approach sooner. Homework: Straightforward and fair. Put in the time and you'll be fine. Quizzes: Ironically, I found these harder than the exams. They require consistent engagement with the material rather than concentrated exam prep, so don't underestimate them. Exams: More manageable than you might expect — nothing to dread. Participation: One of the easiest components to keep up with. Dr. Joyner provides numerous avenues to earn points, so take advantage of them. Projects: One individual, one team-based. Both come with clear rubrics — meet the requirements and you're in good shape. What would I do differently? I would pay more attention to the schedule he provides. If you follow that, things should be much easier. Also I say 6/hours per week, that would be average over the semester. At the beginning it was closer to 10-12 hours. Overall, this was a well-organized, genuinely enjoyable course. For working professionals entering OMSCS, it's a strong first class. Highly recommend.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2025
+Date: 1/5/2026
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Marked the workload at 6 hr/wk but that's on average. There were weeks I spent 10 hours, and weeks I spent less than 3. I took this as my first OMSCS course because I heard it was well-structured and a good 'medium' difficulty entry point for graduate level classes. I agree with that. There's a detailed course calendar and all lectures and homework assignments are available at the beginning of the semester. The expectations for students are clearly laid out and I was able to work a week ahead, which helped a lot when stuff in my personal life got busier. I learned a lot and found the subject material super interesting. There's a lot of reading, so if you're a slow reader you may want to budget more time. The group project is kind of a waste of time (it's just the exact same thing as the individual project, but in a group), but I found a good group early and we did the project without any issues. The way the course is structured, you have to learn everything, do homework, take 4 closed note quizzes, and do a solo project in the first 11 weeks of the class. This is the part of the course that took me 10 hrs/week. Then, the last 5 weeks of the course is only submitting check-ins for the group project and taking 1 (open note) test. Since I had a good group, it took me 3 hours a week max to do the work required for the group project.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: SPRING 2023
+Date: 6/14/2024
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Video version: https://youtu.be/G7gInGPA8PU This was a really useful course. It covers both the principles of HCI as well as practical methods for developing useful interfaces. The last few lectures described applications of HCI in the real world across several different domains. The class is extremely applicable to anyone working in technology and really teaches you to think from the user's perspective. You don't have to work in product design or frontend for this class to be useful. This is a Joyner class, so you can expect high-quality lectures, clear assignments, fair exams and overall a well-structured course. The course has been re-structured a bit, including the addition of a team project. When I took the course there was an 8-page paper due almost every week, two exams, and a month-long individual project at the end of the semester. As for downsides, some of the Methods lectures were not very useful. I felt that topics like different datatypes (qualitative and qualitative) and basic statistics like p-tests were below the level of a Master's course and should be assumed knowledge. I also got very little out of giving and receiving peer feedback, and this got very tedious. Much more useful were the exemplary papers that TAs posted from the previous week. Despite some of these shortcomings, this class is a great introduction into the world of HCI, and I'd recommend it to anyone in the OMSCS.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: SPRING 2024
+Date: 5/5/2024
+Workload: 11 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: This was my first OMSCS course. I am an older student, here for the fun of learning. I would consider myself non-CS background.
+I took this course because (a) reading the reviews and discussion on reddit, it seemed like a good first course to get me acclimated to the program, (b) I was looking for a foundational course to earn a "B" (I got an "A"), and (c) I was looking for a noncoding course while I took the "remedial python seminar". This course has been revamped for this semester, so you should know the reviews from previous semesters are "out of date". Below is my take on the course. Organization- Excellent. At the start of the course, we received a schedule for the entire course that broke down the semester by weeks, and what were the assignments/ deliverables for each week. Lectures- informative and pretty good. Readings- Some were good, some were bad. At the start of the course, the readings reinforced what was taught in the lectures. Towards the end of the course, it seemed as if the readings had nothing to do with the lectures, but were more of current research in the field, with very dense articles. The grading is based on: Homework (20%)- there were four assignments for the course, reinforcing the concepts learned in the lectures. I believe that these were good exercises, making me think (I believe that in previous semesters there were 8+ such assignments). Quizzes (20%)- This is apparently a major addition for this semester. There were 4 quizzes throughout the semester. Each consisted of five short essay questions- four from the lectures, and one from the readings. These were meant to measure how well we learned concepts (possibly the types of questions one might receive on an interview). I felt that they were fair. The quizzes were proctored closed book/notes/internet. Tests (20%)- two tests for the course. Each was comprised of 150 T/F questions, grouped in fives. The tests were "open everything". Individual Project (15%)- A project where we applied what we learned in lectures to design an interface.
+I learned a lot from this. My major problem with this was it seemed that the deliverables we were expected to give did not match what we had learned in lecture (e.g. check-in #2 was supposed to have an evaluation plan, but that lecture was not scheduled to be viewed until the week after the due date for that check in). I am told that they hope to rectify this in the future. Team Project (15%)- this was my least favorite part of the course. I did not feel as if I learned anything new, and it felt very rushed. My team members were great, which helped. Participation points (10%)- We are expected to peer review our classmates' homework/projects. At times, this was actually helpful. I did get some good feedback on my progress (or lack thereof) on my individual project. When I read others' work, I got a sense of where I stood vis a vis my classmates.
+The easiest and cheapest way to earn points is to fill out surveys from the other students in the class.
+(I maxxed out on participation points at about week 12-13.) In short, proctored quizzes/tests are 40% of the grade- the rest is done "at one's leisure". The middle of the course felt very intensive. In a two week span, there seemed to be a homework, quiz, test, and the due date for the individual project. After that hump, things were pretty good, except for the rushed feeling of the team project. Did I learn something from the class- yes. Was it material that I was interested in- sometimes yes, sometimes no. Did it meet my three objectives for taking the course- yes.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: SPRING 2024
+Date: 5/4/2024
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: DO NOT take this class unless you have to for specialization. If you can write code in any capacity avoid the HCI specialty just to avoid this trash course. This is the worst class I have ever taken at any institution ever. I have learned absolutely nothing in this course and the material is ridiculous. For what it's worth I ended this course with a relatively high A. Below is a breakdown of some of the aspects that make this course terrible. Quizzes: For this semester, they decided to try adding "quizzes". The quizzes are closed note 2 hour free-response. They have 5 questions with many sub parts. Four of the questions are from lecture and one is from the readings. The readings are absolutely horrendous. They are very long and use many words to say absolutely nothing. After you get your grade you can't see your answers or the quiz questions presumably because they want to recycle them. This makes regrade requests nearly impossible. Individual/Group Project: This project has so many requirements that must be completed in a short amount of time. These requirements do not help with design but rather get in the way of any actual thinking. The project grading is completely up to which TA you get and they are VERY inconsistent. Homework: The homeworks are just busy work and they are subject to the same RNG grading as everything else. Homework 4 was especially lazy and terrible because they ran out of material to ask about. Grading: I started to mention this in the project section, but the grading has absolutely 0 consistency. You might as well roll dice to predict your grade. No matter how much effort you put in the grade is up to the TA's mood that day. There is no coding in this class so practically everything except the tests are subjectively assigned points. Tests: This is just a ctrl+f fest. Absolutely useless. Don't need to study it is just a waste of your time. Make sure your ctrl and f keys work before you take the test and you can get 90+ easily. Regrades: These are designed to actively discourage students from contesting grades. It it never worth it because they will do their absolute best to give you minimal to no points back. In some cases your grade will go down. The TAs might as well be bots because they cannot be reasoned with. They will ignore your regrades for weeks. They try to stall to the end of the semester because the regrade won't change your final grade and they don't need to do any work. Teaching Assistants (TA): This is perhaps the worst aspect of the course. These TAs can't read. I am not exaggerating when I say this. They legitimately lack basic reading comprehension skills. They will say the same thing again and again like a bot no matter what you say in your posts. Participation: This isn't actually that bad, although it is easily gameable. Just do 200 surveys in the first 2 weeks and you don't need to worry about it for the rest of the semester. Overall, you will learn nothing useful and have to write a lot for this course. This course and the HCI specialization are a stain on OMSCS. The program should be CS focused not whatever this garbage is. If you can code at all just take a real specialization do not go by the reviews saying HCI is the easiest specialization. You will not only learn nothing, but will suffer the whole time.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2022
+Date: 1/10/2023
+Workload: 8 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Great class, not too easy not too hard. This was my first OMSCS course and I was really impressed with the quality of the lecture videos. The TAs are also actually responsive as well which is nice. The open note exams aren't too bad but it depends on how good you are at control+f finding things in a ton of PDFs. Be prepared to write - a lot.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2022
+Date: 1/7/2023
+Workload: 7 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This is a great class and you don't need to program in it, check out the full details in this 4 minute video: https://youtu.be/meYrgsUo48w
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: SUMMER 2022
+Date: 8/21/2022
+Workload: 15 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This was my 9th class in the program. I completed CS7637: KBAI with Dr. Joyner, so I was well-prepared for the class format. I finished the class with a high A . This is an excellent course with some of the best lecture videos in the program. I believe the needfinding (i.e. requirements gathering) can be useful to almost any software engineer. Dr. Joyner classes retain almost all work in summer semesters, so it's a fast-paced semester. This is not a technically-challenging course but the workload is substantial and will be a chore for students who dislike writing. I rated the class difficulty Easy only because the workload is high for the summer semester. During a full-length semester, it's probably Very Easy territory. I enjoyed the class, but can't give the class a 5 for a few reasons: The CITI Training (human subject research) was a waste of 10 hours because it wasn't even graded. Peer reviews take a ton of time and reviews from peers are typically too shallow to be useful. The class leaves all techniques open, despite some being extraordinarily impractical. Nobody is going to join an apprenticeship for needfinding, and nobody is building a scientific empirical experiment for evaluations. I understand the class doesn't want to artificially constrain students' ambitions, but it just seemed like bait for unaware students to undertake an excessive amount of work. Tips Format uncreatively . The assignments should be structured exactly like the instructions. This might seem too rote for a graduate-level class, but you want to make the submission as easy to grade as possible. Get your participation credit from surveys . Starting with M2, students will be posting surveys to the peer survey website. These are generally very short & easy to complete. Compared to peer reviews on assignments, I found the surveys to be dramatically easier to accumulate participation credit. Additionally, there's no limit on participation credit on surveys, so it's possible to achieve full participation credit from surveys alone. Set up a search system for the tests . You will not remember everything you need to know from reading the research papers; the questions on the tests are too specific. Instead, find a system that works for you to quickly navigate & search the corresponding PDF. I found that Google Chrome with vertical tabs worked for me. I won't tell you not to read the papers, but it ultimately didn't affect my grade. Grading The grading seems to be based more on deductions for missing information rather than credit for present information. This means success on the written assignments & project is mostly determined by including all required details from the instructions / rubric. This applies to all the assignments and the project and accounts for 60% of the final grade. The grading is not perfectly consistent, but it's good enough to basically guarantee a >95% on all written assignments.
+The tests account for 30% of the final grade which is the easiest place to lose points: Test 1 had an average of 83.3% and Test 2 had an average of 84.5%. As long as you complete the participation credit and perform consistently on the written assignments, you should easily absorb average grades on the tests and comfortably achieve an A .
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: SPRING 2022
+Date: 5/7/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: With this class, if you do the work you will get a good grade. It is writing heavy but the course itself is organized well and they give you all of the tools necessary to succeed. The grading in my opinion is very fair and the assignments tell you exactly what you need to do in order to get all of the points. Do not wait until the last minute to start the writing assignments (a majority of the course), if you start early they are super manageable and not difficult. If you wait until Sunday night, they will take a lot of time so plan accordingly. You can also get ahead in this course rather easily if you have the time. The TAs respond regularly on Ed lessons and I honestly enjoyed this course. A good class to take with a medium-level difficulty course. Although I found this course easy there are weekly assignments, lectures, and readings to keep up with. There are two exams both open book/note/lectures, ctrl+f was my friend. The one thing I fell behind on and pretty much did not do was the weekly readings and I still ended up with an 83% on the first exam and a 92% on the second. The lectures were extremely helpful and interesting, do not skip out on watching them. I ended up with a high A in this class simply by following instructions. Joyner is fantastic and I highly recommend taking at least one of his classes while in the program. He cares a lot about OMSCS student success.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: For reviews Head over to omshub once it is up, else post on reddit r/omscs for questions in the interim. Fuck omscentral and meta
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 3/23/2022
+Workload: 15 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Very writing heavy class with mandatory discussions (which isn't as bad as it could be, as OMS students tend to engage in the material). You get a lot of insight into how to effectively design systems for daily use. It's kind of like a humanities/cognitive studies class about UX design. What to expect: Like most OMSCS classes, you're graded more on what's not there than what's there (penalties, not subjectively graded), so using dictation tools like Microsoft and Dragon is a smart idea. Also working in jdf can be finnicky, so copy directly from the template and cite in APA (they haven't deducted points from me yet for this) and don't forget to save as a pdf. Excellent first class for Interactive Intelligence focus people.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 3/12/2022
+Workload: 10 hrs/week
+Difficulty: 1/5 Easy
+Overall: 5/5 Loved it
+Review: Cons Do not take this course if you struggle with English. I've heard from those that finished the degree that dropped this course because they could not fluently speak or write English. This course requires you to write 6 pages a week. If you struggle with English, you will struggle with this course a lot more than you struggle with English in general. Pros Every assignment is available from the beginning of the course. Dr. Joyner uses Ed instead of the maligned Piazza and Udacity interfaces. The lectures are edited well and you can expect high quality content that is helpful for the course. Slack is not needed, this is another pro. Dr. Joyner responds to everything. Writing is very open to your experience with computer interfaces that you want to write about to demonstrate lecture topics. Peer reviews are fun. You get to rant about terrible interfaces that exist to make our lives harder, like Slack. You learn swanky vocabulary, like "affordance" Dr. Joyner provides a format template. It's the same for all assignments, but not all of them require an abstract. Opinions and Suggestions Easy course. Writing is very low stakes compared to having to have your programs function. Make sure to cover the lecture topics asked for in the assignment as your writing ideas flow onto paper. You learn interesting stuff. Watch the lectures, do all of the reviews until you max out your participation credit, and stay ahead as much as you can. If you do 3 peer reviews a week, fill out 25 surveys for each survey assignment, and do whatever else is expected, you will max out the participation before you start the final project for the last month of the course. This in turn disincentivizes peer reviews and surveys for the final project, so you can expect much less responses for peer reviews and surveys for the final project. Always start your surveys as soon as possible prior to starting your writing about the survey results. It took me like 2 to 6 hours to write the 6-8 pages for each week's paper. 10 to 15 hours per week if you include watching lectures, making surveys, filling out surveys, and doing peer reviews. Make sure you interact with computer interfaces so you have interesting writing options to choose from. I was lucky to have picked up a number of video games just prior to taking the course that gave me ample things to write about. The final project is the easiest part of the course. Stroke your pride for getting the top submission in the class.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2020
+Date: 1/20/2022
+Workload: 15 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: I have a software background and knew I preferred front-end & UI/UX over back-end development. This was my first class in the program (I am now in my 5th) and made me realize just how passionate I am about interactive technology and designing with the user in mind. I found the course material super interesting and the lectures were the best you'll see in the program. David Joyner cares more than any other professor because he truly believes in online education and wants to see it succeed. It sounds like I'm fanboying cause I honestly miss this class and wish I saw even half of the things that are done well in this class in my other classes. The assignments are all writing assignments besides the project ones where you get to make wireframes and get users to fill out surveys, etc. The final project is pretty cool cause you get to pick an application to redesign and actually create high fidelity prototypes (I highly recommend Adobe XD if you have access).
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 1/3/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This was my first class in the OMSCS program. I have a BS in Computer Science and was fresh out of university when I applied and got into the OMSCS program. I have also been working for 7 months full time as a DevOps engineer after 2 years as an Associate Software Engineer. Overall, this was a good first class. In my opinion, it was extremely easy and straightforward. There was no code written, simply written assignments, tests, and a final project. I found a lot of the assignments to be simply tedious and would often finish them in one sitting. Personally, I felt that the instructor practically tells you what to write, and if you follow the directions; 100% is easy to obtain on the assignments. The lectures were somewhat interesting, and some of the readings were interesting as well. Overall, this was a perfect first class to ease into the OMSCS program as it was straightforward, easy, and not too time consuming. I probably spent about an hour a day watching lectures or doing the readings and then spent perhaps 2-3 hours on each weekly assignment. If you follow the suggested schedule (of when to read, etc) you should have no issues keeping up. I will stay that the tests were extremely draining and tedious. It boiled down to a search game between lectures and the books (tests are open everything). I found myself using the entire time but also scoring high (high A on both tests) as I would look up each question in the lectures or the associated reading. In the end, I got a high A in the class. I will say that Dr. Joyner seems really passionate which is great to see. The forum was usually pretty active which was also great to see. I enjoyed the class and learned a bit about UI/UX concepts. If you are looking for an easy class, I would consider this one. At no time did I really feel academically challenged, which did lead to a general drudgery going through the class, but I still learned a bit :).
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 12/26/2021
+Workload: 15 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: WARNING: If you dislike reading or writing, avoid this. There is no coding. With that being said, I HIGHLY recommend this course. This is my first course in OMSCS, but I went to undergrad at GT and this is the best lecture material I have ever encountered. Joyner puts things in layman's terms and gives you examples so you can really apply these learnings and look at things in a new light. He really cares about the course, students, and information. To do all readings, writings, peer reviews, lectures, and interaction, this will take you multiple hours a week, however, you can really parse it down if you cut out the readings. Here is my input on the different aspects of the course: Assignments: Answer every single question and bolded word. Every. Single. One. Make it obvious to but breaking out stuff into subsections. It seems TAs only care if you answered something or not. They aren't super focused on grammar and such. Thoughtfully check every box and you are good. Lectures: Watch them. Take notes. You will learn a lot. Readings: I did all reading first half then moved to only reading things 15 pages or less second half. Some of the readings are really interesting, but anything you don't find interesting - skip it. You can do ok on the tests without it. Tests: Really fair grading system. Based on how there are graded, they are basically 5 T/F statements within each question (30 Qs total - 20 on lectures and 10 on reading). If you watch the lectures and take notes, skim through them before the test, ctrl+F and you should be good. Open book, internet, everything on the tests. It's more about understanding the lectures than memorizing anything. Project: This is totally manageable. But actually do it. Don't just make stuff up. I was shocked how much I learned from actually going through the evaluations and needfinding. I don't think you will actually realize how much you aren't your user until you do this. It takes extra effort, but it is well worth it. Participation: Doing the peer reviews helped me see how much effort I should/shouldn't be putting into assignments. It also helps you see different ideas and ways of approaching interface redesign, so it is worth it. Can't say I got super insightful feedback from others, but I enjoyed reading (some) other's papers. Don't stress about the participation points. I was done about 3/4 into the semester by doing 4 peer reviews a week + 1-2 random interactions here or there answering others questions or participating in the lecture or reading discussions + a ton of surveys for people's needfinding (this is the really easy place to get points). Overall, I found this very interesting and super helpful, even for my current job for which I didn't think it would actually apply at all (operational safety in the O&G industry).
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 12/25/2021
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: The course webpage will tell you pretty much everything you need to know about the class, but, it was essentially this for Fall 2021 semester: An 8-page paper every week for 10 weeks Three peer reviews every week for 14 weeks (if you're aiming for the easy participation points) Watching ~1 hour of lectures per week A final 20-page paper spaced out over 4 weeks Readings if you had time Two open-book, open-notes tests I liked this class, but I hated all of the writing. I am someone who takes forever to write papers, so I easily spent at least 6 hours per week writing papers for this class (with many weeks going over that). I probably spent about 1.5 hours writing peer reviews, 1 hour watching lectures, and ~2 hours interacting with the discussion forums. I never had time to do the readings. I loved Dr. Joyner as a professor, loved how pedagogically sound everything was, and thought it was a REALLY great course. As a personal preference, I wouldn't take the class again, but I think everyone should take at least one Joyner class in their time with OMSCS because he really is a fantastic teacher.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: Warning This course has no programming, so if you're looking to learn something that has to do with coding walk away. I wouldn't recommend this course unless you want a non-coding easy A and or you're really interested in HCI. I'll be honest I didn't know much or anything about HCI before I signed up. You do learn a lot about it but I would rather code. I got an A. Pros Easy A if you keep up with the papers you have to write TA's are helpful and Dr Joyner is a cool professor. Lectures are high quality Cons No programming Constant barrage of papers (1 due each week and they are not short!)
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 12/16/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Okay, this is a class where you will learn a lot of things. But even more than that, you will learn HOW to think rather than what to think or just memorize definitions. True, there are frameworks that you must learn, use the HCI vocabulary in your exams and assignments but the fruit of this course is teaching you how to think about the user and his or her interface experience. If you excel at writing, this class should go by smoothly. If you struggle to write or would have difficulty writing about 6 pages per week for the entire semester, you may want to rethink about taking this class. As long as you meet the criteria set out plainly for each weekly writing assignment, you will do fine in the assignment part. If you contribute to the weekly peer reviews of your fellow classmates' weekly assignment submissions, then you will earn required participation credits. But please don't worry about these credits, as you will have more than enough time to earn participation credits by reviewing your classmate's weekly assignments (i.e., homework) and also taking many brief student surveys. The hardest part is perhaps are the two exams, especially if you have not read the many weekly readings. The readings are only required for you to know about 1/3 of the first exam and 2/3 of the second exam. I did not read most of them but still made it out alive. In fact, you are allowed to view the readings (and anything else) during the exam. (The only thing you can't do during the exams is talk to a live human via chat, email, phone, etc.) I just used CLTR + F to find key words or phrases in the readings during the exam to answer the exam questions. Lastly, I must say that the TA's are super nice, helpful and the instructor Prof. David Joyner will actually answer questions for you without attitude (unlike some other classes). He really cares about his students and the quality class structure set up really shows this. (Do note that there are no office hours for this class, but a lively discussion forum, Ed Discussions, where you can post questions or even comments.) And the professor was so nice and open to change and feedback that he suggested for us, at the end of the semester, to check out OMSCentral for future courses and write a review (whether bad or good) for this HCI course so others can know what to expect. Other than that, I would highly recommend this course. Even if you are not the best at writing, I would still encourage you to enroll in this class. I don't think you will regret it!
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 12/14/2021
+Workload: 4 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: This course is excellent. I think it's also an easy course if you plan your time well. My advice is the following: Don't spend too much time on your assignments. Instead, plan out each section and write enough to meet the rubric requirements. Don't impress the graders unless you want to shoot for exemplary. However, if you're just interested in scoring a 20, you can easily do that just by ensuring you hit all the requirements. Don't read everything. Look for big ideas in papers and write them down. Skim the rest. Each reading took me no more than 20-30 minutes. Write down notes of key concepts while watching lectures. Make flashcards in Anki or Remnote so you can review the course material throughout while you're going about your day, which allows you never to have to sit down and study for the tests. Use the shared notes and course transcript during the test to fill in anything you don't remember. I averaged 3-5 hours per week on this course. However, I know many of my classmates spent a lot more time. Though, I expect it's because they read every word of the readings, which I'd encourage you not to do! It isn't necessary for scoring well on the tests.
+
+---
+
+Course: CS-6750
+Course Name: Human-Computer Interaction
+Semester: FALL 2021
+Date: 12/14/2021
+Workload: 6 hrs/week
+Difficulty: 1/5 Easy
+Overall: 5/5 Loved it
+Review: Really interesting content around UI/UX, which proved to be really useful and applicable! The hardest part of the course is keeping up with the assignments (i.e. you have to write 6-8 pages a week for assignments, followed by a 16-20 pages for individual project). This can be difficult if you don't like writing in general. However, will really recommend this class!

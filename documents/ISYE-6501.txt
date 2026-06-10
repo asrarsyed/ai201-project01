@@ -1,0 +1,220 @@
+# OMSHub Reviews: ISYE-6501 - Intro to Analytics Modeling
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: SPRING 2026
+Date: 5/9/2026
+Workload: 13 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: The course is designed to force learners to remodel their brain into developing an intuition for modeling. The homework does maxmise the learning and is the most time consuming part of the course. Do note that homework is only accumulative of 15% of the whole grade while tests are 75% of the grade. The tests are all based on the lectures and not the homework so planning your time is important to fare well in the course.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: SPRING 2024
+Date: 5/7/2024
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: I have no idea why this class appears to be as highly regarded as it is. For the record, I got an A, and this is a terrible class. The class is taught entirely by TAs and the professor, the director of the OMSA program, can’t be bothered to even show up for one class session. Most of the TAs provide good instruction but it’s hit or miss. Some are much better instructors than others. It’s tough luck if you get a TA with poor instructional skill because questions asked during the office hours are frequently met with “you can rewatch the video” or “you can ask that on Piazza”. Piazza is a whole other problem I’ll discuss later. The video lectures are the primary way information is delivered and what will form the basis of the tests. Homework has nothing to do with the tests. The lectures are short and high level while the tests are detail oriented and confusingly worded. I feel sorry for anyone that doesn’t have a solid mastery of English. The class is also bizarrely organized. It starts with SVM then jumps around between supervised and unsupervised learning models. A cursory review of any intro textbook (and I have read several) will provide a logical flow of information. For example, SVM is always covered late in an intro book. This class should just use ISLR as a textbook, it’s right there. The homework is time consuming and worth minimal to your grade. Most people seemed to spend their time learning how to code it than learning the underlying analytics techniques. Yes, a student is supposed to have “coding proficiency” for the program, but when OMSA routinely accepts people without such proficiency and tells them they can pick it up on the fly, they have implicitly altered the requirements of the program. This affects the peer review grading, which is a terrible and idiotic method of grading in grad school. For example, I had issues with RStudio crashing and was unable to complete one assignment. I went ahead and turned in what I had. I got 100 on it because two peers graded it 100 without any commentary. Another assignment received 90 as the final grade, but one peer graded it 75 because “I was interested in more explanation about the data” (which was the entirety of the comment). The data in question was “from your personal or work experience, what kinds of data might be used on a classification model?”, the HW had three more parts and no “explanation” of the data was asked for in the HW. The point of all that, is that your HW grade will be a complete crap shoot with minimal to no reason as to why. You certainly will not receive any response that will be educational. Given that HW is also worth so low in the final grade, it’s best just to learn how to make the report look pretty and turn in the bare minimum. That will get you 90 to 100 almost every time even if you’re completely wrong. It’s much more worthwhile to spend your time understanding the lecture material in this class than doing HW. Piazza is a terrible forum system and I have no idea why it’s being used by GT at all. There’s so many people in the class that it’s just flooded with thousands of posts. Everything from relevant questions to people that didn’t read the syllabus to questions out of left field. It was just too much to wade through. The class is a fairly easy A, just focus on the lectures, Like really understanding them, and make your HW look prettty. The you’re all good.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2022
+Date: 1/9/2023
+Workload: 11 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Pretty enjoyable course that offers a good introduction to analytics modeling and has engaging lectures and homework. Since the exams are the biggest part of the grade, and the exams all come from lectures, taking your time viewing the lectures and taking good notes is probably my biggest recommendation to getting a good grade. I'd always take notes during the lectures and pause or replay more difficult sections of the lectures. Most likely those sections that seem the most difficult will be on the test. I was somewhat disappointed how little homework counted toward the grade since the homework can take awhile depending on your comfort with R, however all the homework tie back to the lectures so they do reinforce the concepts learned in the lectures. Not a huge fan of the peer grading of the homework but all in all, graders were pretty lenient and felt on average it was pretty fair. If you ever find yourself struggling with the homework, Piazza and office hours are a must. The office hours before the homework is due will get you at least 50% of the way through the homework and cover all the important functions related to the homework.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2022
+Date: 12/21/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This course provides a great overview of many different analytical concepts. Joel Sokol's lectures are bite-sized and easy to follow & understand. All the homeworks except the last 3 were pretty much guided by the TAs office hours, so you don't need much grasp of R, although it'd be better in the long run to research concepts on your own outside of what the TAs give you for future courses. As mentioned, the last 3 homeworks weren't guided by TAs and they were a different style from the rest. These homeworks really test your knowledge and I think give you the most value out of them all. There are a couple issues/thoughts I had on the course: The exams can be hard to understand. English is my native language and I had to spend a few extra minutes on some questions each exam to understand what they were asking. It doesn't break the class but you just have to be more careful on exams. There's only 1 project. I think projects are a great way to expand and apply your knowledge and could probably be more of them instead of some of the homeworks. Overall the course was a great experience and I learned tons of concepts. It's enough content to start applying to jobs if you really wanted to. Also, take advantage of Piazza discussion and the Slack, because that's where you'll meet all the students and learn a lot from each other.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2022
+Date: 12/21/2022
+Workload: 11 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This course is set up pretty well. The course makes logical sense in terms of when and where you are exposed to material. The homeworks and regular and consistent but the grading is done by your peers and its only like playing Russian roulette if you want to go for that 100. My advice, do not put in that 3 hours of effort just for that extra 10 points... Most of your grade comes from the Test. Speaking of which, the test are worded in the most absolutely dog shit, maybe as much as humanely possible. The questions are so poorly worded that if someone asked a question like that at your work you'd fire them on the spot. Like ask anyone in the slack channel, the wording on the questions are awful. It honestly feels like if they asked concise and easy to understand questions everyone would do to well since the course is not difficult so they have to intentionally come up with hard questions to ask and they have to use awkward phrasing in order to make these hard questions "work". I do not think they are trying to trick you on purpose just that they want to differentiate between those who put in 3 hours of study time to get a sub 88 and those who put in 9+ to get 90+ and the only way to do that is too ask really ambiguous and loaded questions with lots of moving parts. Overall, the content of the course is great. It's a required course but I would still recommend to all.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2022
+Date: 12/13/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: 
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: SUMMER 2021
+Date: 8/23/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: The name of the course pretty much sums it all up: this course is a nice introduction to a variety of different modeling approaches. It is pretty wide and shallow, it never goes deep in pretty much anything, but aims to make you understand the concepts behind every approch: why are they useful, when should you think about using them, what are their strengths and weaknesses. The content is great and it is well explained. The exams are awesome, they do not test just for knowledge (can you repeat something you memorized) but for actual understanding as well. I never felt there was a trick question, or that I couldn't answer because I forgot to memorize a definition or a term. The homework is peer-graded, which some people like, some people don't. I generally don't but still had no complain about fairness in this case. There is no much chance to work ahead but you can skip 2 HW without being penalized. I felt it was a pretty easy course, but please bear in mind that if you have zero R experience, then you should raise the difficult notch to "medium" at least, as 90% of the HW is in R.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: SPRING 2022
+Date: 5/9/2022
+Workload: 3 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: I really enjoyed this class. I think that the idea is really great and while I was an OMSCS student before, I am strongly considering OMSA now because of this class. The issues with this class come from how it is structured. That is not to say that it's poorly designed but a few small tweaks could make this class better. The first thing is there is a homework assignment, every, single, week. The only time we didn't have one was during our spring break. Every test, project, midterm, there was a homework assignment due that same week. The problem with this is that the homework is 15% of your grade. When you factor in the 3 quizzes (25%) this is almost laughable. The other issue I have is that the homework isn't referenced on any quiz. You could legit never do a homework assignment for this class and still earn a B in this course if you understand the content. To me that's just poor design. The other issue I have with the homework is the fact that you have to attend office hours to figure out what to do (an hour each twice a week) and for the first quiz I spent SO much time on the homework because I thought it would reflect on the midterm, after I realized that it didn't and the main focus should have been the 20 min lecture videos, the class got easier. TLDR, Don't stress on the homework. Focus on the content more than it. Even do outside reading/understanding to help your understanding but skip office hours and homework.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2021
+Date: 5/7/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: If you are an OMSA student, take this as your first course. You will learn all the concepts (at a high level) that will prepare you to survive in this program.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2022
+Date: 5/4/2022
+Workload: 2 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: I think this is one of those courses that people review highly because they're enjoying their undeserved A. What's wrong with this course is how they evaluate you: The exams are horrible and poorly worded. They don't test your knowledge but your ability to decipher questions written by someone who does not have a good grasp of English. Honestly, some questions felt like rolling the dice because I had no idea what they were asking, or I couldn't understand what they meant in the multiple-choice answers. This is someone who got As on all of the exams, so it's not just me being salty. Another reason this course sucks is that the assignments don't force you to learn. The TAs pretty much give you the answers during office hours. You can get by in this course by doing almost zero work and copying what the TAs did. The good: The lectures are of high quality, but they don't redeem the course.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This was my first course in OMSA, which I'm doing to pivot my career from mechanical engineering to analytics. I knew nothing about analytics going in, and now I feel like I have the foundational knowledge I need to take the next steps. I found this course to be reasonably challenging. I ended up getting an A and I worked hard for it. I'm working full time and found the balance to be challenging. To do well, focus most of your energy on truly understanding the lecture content. I was organized and made detailed outlines of each lecture which helped me prepare for the exams. I didn't hesitate to ask questions on Piazza if I was stuck on something. The homework is an opportunity to apply what you've learned using code. Many other reviewers complained about how the homework takes a lot of time but isn't worth very much for your grade. To that I say: if the instructors wanted us to prioritize the homework then it would count for more of our grade, but they don't so it doesn't. Focus on deeply understanding the concepts from the lectures, which homework can help supplement, but don't be a perfectionist on the homework unless you have the time and energy to do so. I had 2 zeros (dropped), a 50, a few 75's, and I still got an A because my exams and course project were all solid. The course project (8%), which took me as long as 1-2 homework assignments, is worth half the homework (15%), and the 3 exams (75%) are worth as much as 5x the homework. Many other reviewers also complain about the home peer reviews lacking quality feedback. I agree, but I also accept that as part of the trade-off for such an economical degree. I'd like more feedback but am unwilling to pay for a more expensive program that has more resources.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: SPRING 2022
+Date: 4/29/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This ended up being one of the most useful classes for my day to day job. I wouldn't say it was the most fun, but it was the most useful course I took. You'll do a shallow dive into many analytics models, but one of the main purposes is to learn enough to know when to use each type of model.  The homeworks are nearly relentless, as each week you'll dive into something new.  Most is in R, but a couple homeworks can be done in python, so if you're new to either it may be an opportunity to learn. Exams are very fair, but are proctored.
+As some mentioned the assignments are peer graded, but you will get out of it what you put into it. By the end you'll realize you learned a good bit by digging, and not worry about how someone will grade you as much.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: SPRING 2022
+Date: 4/28/2022
+Workload: 5 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: This was one of the worst classes of my entire OMSCS experience (out of 10 total courses), which is a shame because the material has the potential to be interesting. The class is clumsily delivered using kaltura, aka a video player straight from the late 90s, and makes for an atrocious user experience (why can't you use ed lessons like most of the other omscs courses?). The homeworks are graded by your peers. This is fine in theory, but in reality it means no one is actually evaluating your answers (on a homework I got every question wrong on I got 100%, and on another I got everything right i got 90%, etc). The exams are the worst part of the course. They are essentially trivia recall, which is a peculiar way to test analytics understanding. If you happened to write the right formula or sentence from the lectures onto your "cheat sheet" you'll be fine, but conceptually understanding the vast amount of material won't get you very far. The exam questions didn't appear to be written by a native english speaker and much of the exam time is spent trying to decode what the ambiguously-worded question is actually asking for. This is an absolutely terrible way to test knowledge and is not becoming of a "graduate" level course. I'd pass on this one if you can
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2020
+Date: 4/12/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: This was one of my favorite classes in the program, especially for someone with little to no machine learning background. It does a great job of introducing a lot of Analytics concepts in a way that makes you feel like you are learning a lot without being totally overwhelming. Professor Sokol gives lectures that seem to be as concise and clear as possible and do a great job of communicating information. R was really the only programming language used, and maybe Excel for a homework or two, nothing too crazy.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2021
+Date: 4/6/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: Interesting introductory class to the program. Depending on your background, this class will either make a good jumping off point into data science or a good refresher course. I highly recommend supplementing the lectures with the relevant chapters in "An Introduction to Statistical Learning", this is a free textbook easily found online if you are unaware. The homeworks are peer reviewed which was never an issue for me but don't expect to receive any feedback of substance from the reviews. The exams have some trick questions that require careful reading but if you pay attention to the lectures you should do fine. Overall a good course for what it is.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2021
+Date: 2/27/2022
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: This was the first course I took, and provided a really solid overview of analytics modelling and the degree. First two weeks felt challenging given my limited experience using R (I had done the recommended pre-requisite edX course and nothing else). However, I quickly learned the TAs pretty much showed the code you needed to write in Monday office hours - no need to sweat then, when I could sit tight, copy their work and then do a writeup. I really enjoyed the content, exams weren't too easy or too difficult, and weeks 11-13 homework that let us apply knowledge were fun, and so was the project. The only thing that was slightly upsetting was peer grading - your grade could vary depending on who happened to do the grading, and more often than not I wouldn't get any written feedback.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2021
+Date: 12/18/2021
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Overall, this is a good course. If you want the long version of my review you can read it here: https://medium.com/@jonathanbechtel/course-review-isye-6501-introduction-to-analytics-modeling-79b2bd0376b3 Here is a concise overview of what's said there: Class is a true survey course that covers a wide range of topics with modest detail Emphasis is on intuition for how/when to apply different methods moreso than mathematically deriving them Most of your grade comes from exams, and exams come from lectures, so make sure to watch them carefully Use homework to understand lectures and to make sure you get the ideas behind different concepts, but do not obsess over the last detail with them.  They are worth 25% of your grade total, and you have 14 of them - so each one is a small portion of your grade HW is peer graded, so expect your grades to be a little inconsistent Workload is a little front loaded since there is no introduction to R.  The last three weeks are built around case studies and require no coding.  Last 3 weeks only require a couple hours / week If you are new to coding the HW can be time consuming.  The coding itself is not so complicated, but be prepared to work through R the first few weeks if you haven't used it before Overall, I liked the class and would recommend it as a first class.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2021
+Date: 12/17/2021
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: I really liked Prof. Sokol’s delivery of the material – and I really wanted to like this course. However, as a former teacher (and education researcher), I feel there are some aspects of this course that need to be revisited simply in the spirit of good teaching. To keep this short, I’ll just mention the two that irked me the most: the peer reviews and the exam format. First, peer reviews. I think it’s a great opportunity for your peers to review your work (and vice versa), but peer reviews are neither helpful nor fair when they are based on the vaguest rubric I’ve ever seen. It just results in all HWs being regressed to the de facto mean of 90% -- even when the quality of the work is far above (or below) that level. Let’s be real: the purpose of peer reviews (as they currently exist in this class) is to get grading done more efficiently. If they were meant to be used as a learning tool, there would be a much more detailed rubric or alternative process for grading HW assignments. Second, exam questions. I was a little taken aback that a graduate-level course (however introductory) had such simple recall questions for 80+% of the exams. In addition to that (as the previous reviewer mentioned) the wording was so horribly contrived on some of these questions that answering them felt more like a logic game than an analytics modeling exam. Difficulty aside, I’ve seen so many MOOCs have so much more engaging exams. Designing an analytics survey course with the right balance of concepts, tools, etc. is probably a big challenge, so I applaud Prof. Sokol for that. The TAs clearly work hard, too, answering questions and doing HW regrades. You would just think that in the introductory OMSA class, a little more attention would be paid to pedagogy. (If it matters to whoever is reading this, I got an 'A' in the class.)
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2021
+Date: 12/16/2021
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: There are aspects of this course which I strongly liked, while others I strongly disliked. First of all, while R and Calculus are definitely used, Statistics should have also been mentioned as a prerequisite. As someone with a strong calculus background, weak stats and 0 R, I found myself struggling the most with stats concepts. R was a struggle during the first two assignments, but it's a very easy coding language and if you have an extra hour to spare every week you can easily catch on. The homework assignments are enjoyable, but very inconsistent in terms of workload (one week it will take you about an hour, another week it can take up to eight), and peer reviews need to be better monitored. There doesn't seem to be any obligation for a peer to review you fairly as long as they submit a review. Additionally, the exam questions need to be beta-read by speakers from different countries! I'm not a native speaker but I like to believe I'm fluent, however I struggled a lot with language ambiguity in the exams. ESPECIALLY since this is a program based on mathematical concepts, I would assume language clarity to be vital. If the answer to a question is unique and absolute, then the question should reflect that (for example: you wouldn't answer 4 to a question that asked what is x + y if x is 2 and y may or may not be somewhere around the same value). Plus, there are also inconsistencies between versions, this could be the difference between an A and a B. As a graduate level course, I would expect there to be more care put into making the exams as fair as possible. While I would have liked more interaction from the professor, the lectures were all enjoyable and Dr. Joel presents concepts in a very easily digestible way. I appreciate his enthusiasm because it made re-watching lectures painless. Most of the TAs were very helpful, but some could definitely "dumb" themselves down while explaining concepts in an introductory course. I liked the content and I felt like I learned a lot. I definitely would have enjoyed the course heaps more if the assignments and exams were reconsidered.
+
+---
+
+Course: ISYE-6501
+Course Name: Intro to Analytics Modeling
+Semester: FALL 2021
+Date: 12/13/2021
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This is the definition of a survey course, and the structure is strange in that the homeworks are very focused on implementation of models in R while the exams and project are very focused on model assumptions and case studies. There is often very little overlap between the two, making it feel like two separate courses sometimes. You don't realistically need to know R before starting; you will not do much beyond a few for loops and calling methods from libraries. If you had no coding experience in any language, this would probably make for a hard time. The listed academic prereqs are a little exaggerated--you do not need to know linear algebra or calculus to get an A in this course. One college statistics course is probably sufficient. The lecture videos are great and contain everything you need to succeed on the exams--they're nice and short and can be rewatched at 1.5x speed before exams as a review without taking an inordinate amount of time. My one gripe... Don't make me handwrite a carefully designed cheat sheet. Please. I just went without on the second two exams and was fine.

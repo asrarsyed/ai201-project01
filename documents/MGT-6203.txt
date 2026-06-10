@@ -1,0 +1,219 @@
+# OMSHub Reviews: MGT-6203 - Data Analytics in Business
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SUMMER 2025
+Date: 8/5/2025
+Workload: 2 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Fine class, no complaints, pretty easy, highly recommended taking during summer as they remove a later homework. Had a good module on regression coding, so would have been useful before 6414, but not necessary. Professor Xu's lectures are tough to understand but the decks are well built, mostly just took notes off the powerpoints, then they give you most of the code for the Homeworks in examples that do not perfectly match the homework. Grade being fully quiz based makes every question more impactful than it probably should be, so put the quizzes in word ahead of time, follow along and check your work. Overall, fine course for a requirement.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SUMMER 2023
+Date: 8/6/2023
+Workload: 8 hrs/week
+Difficulty: 3/5 Medium
+Overall: 2/5 Mixed
+Review: You can't avoid it, so the main question is how to approach it. Anyone who truly met the prerequisites for the program should be able to ace the course, so it could be taken at any time. The biggest part of the grade - and the largest time-sink - is the project. The grading on it seems fairly lenient, as long as the voluminous and inconsistent instructions are met, The few homework assignments are easy, although each might take a few hours to complete. As far as the lectures go, I watched many of them on 1.25x or 1.5x, which reduced my restlessness due to their rudimentary level. Some of the homework depends on the extra readings or, irritatingly, on the code from the TA sessions, but students could wait until they see the questions before delving into those sources. It's not a horrible course (although the marketing section and the instructions are), and I especially appreciated the review of regression, which I found to be quite clear. But, if the assignments were harder, I would've studied more and thus retained more in the long term.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2023
+Date: 5/11/2023
+Workload: 6 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: Course isn't difficult by any means, most of the homework is in R and doesn't require anything too complex. The self-assessments all come directly from the lectures, with the exam questions coming directly from lectures and homework. For the group project, it's important to find people you feel like you can work with and who will share the load, but the grading on it is pretty lenient so as long as a decent effort is made, should get a decent grade on it. Some of the lecture sections were interesting (stocks, inventory management, advertisement ratings) others were very dull and just read off the slides. My biggest complaint was just the course didn't feel as tight and composed as other introductory courses such as ISYE 6501, quite a few errors on the homework solutions, informational exam posts not posted till day of exam, etc.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2022
+Date: 12/21/2022
+Workload: 4 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: Ngl, the course kinda sucks. Like its basic and does not feel worthwhile learning. I would never take this course if I was not required to, let's put it that way. It's not hard to make an A in the class. However, I found myself not wanting to do any of the homework and or watch the lectures just out of complete and utter lack of interest in the material. It's something that you be aware of if you have a more analytical background. Its not a lot of work, but just be careful to let your apathy get you in trouble and fall behind on the course.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2022
+Date: 12/9/2022
+Workload: 3 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: Everything you see here, you're going to have already seen elsewhere -- almost all of it is covered to some depth in 6501, and Simulation, Regression, Optimization, Data Analysis for Continuous Improvement, and the 8803 course give you opportunities to go into way greater depth. There's very little new news here. That said, there's no getting around this course, so keep your head down, hold your tongue, and follow each of the homeworks to the incorrect, imprecise exact letter of their instructions. The project isn't really meant to teach you anything, it's just there to give you the experience of doing a project. Do a few noncreative linear fits and try some log transforms, write up a paper, do your presentation and call it a day. Be careful, because despite being the "easiest" and most pointless course in the curriculum, it is possible to fuck up badly enough that you pull down a B. Make sure you get all the easy points. There are plenty of guides in various places which will provide answers if you have any difficulty at home. Work diligently and you'll be rewarded!
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2022
+Date: 12/2/2022
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: Background: c-track, undergrad in CS & Business My Take: Disclaimer, I opted out of MGT8803 so I don't really know how much overlap there is with this course. This course is pretty much a high level review of a Business undergrad. It covers 3 areas of business (Ops, Marketing, Finance (though finance here is more investment management related and luckily excludes HR/org behavior)). I think this course should be put into optional under B-track if it stays as is or additional programming/technical skills should be added to make it more rigorous if it were to stay mandatory. The coverage of linear regression was nice at the beginning (wish I could replace this course with an entire regression course though). Overall, super easy course like others have said, probably doesn't belong in the program, pair with a harder course so you don't waste a semester with only 1 course.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SUMMER 2021
+Date: 8/23/2022
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: The course is divided into 4 parts: Regression, Risk/Returns investment, Marketing and Operations Managements. They tend to be completely disjointed so it feels more like a patchwork of stuff than a coherent course. Of these 4, Risk/Return and OM were actually quite interesting and well explained, regression was interesting content (if you have not encountered it before in other courses) but poorly taught, and Marketing is just a bloated mess. In any case it is mandatory, so I guess the more important things are that it has a low workload and generous grading as other reviews clearly explained.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 5/7/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: This is just one more business course with a low level of programming. This semester they added doing a project, which made it more interesting, but it doesn't make you feel like you're in a master's level course because of the concepts you're going to learn. Other than that, the instructors are very responsive at Piazza and will help you succeed in the course.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 5/5/2022
+Workload: 100 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: This class demonstrates how OMSA Business Track classes are a stitched-up joke. Get your groups early and in order, otherwise you will live to repent.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 5/2/2022
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: This was my third class in the OMSA program, and by far the worst class. This semester, among other things, they introduced a group project to try to increase the difficulty of the class. I formed my group early and had a great experience working with them. My main gripes about the project were that the instructions were vague, in draft form until shortly before the deadline for deliverables, so we often weren't sure of the exact requirements, or the requirements would change. And as others said, when over 50% of your grade depends on things due in the last two weeks of the class, if you don't know how you'll be evaluated, that just adds to the stress. I didn't enjoy this class for two main reasons: 1. the content, and 2. the poor organization of the teaching staff, timing of assignments, made me feel like I was always scrambling to finish something. I'll go into each one in more depth. Content: The regression section was fine, as was the last section (operations management). They teach you the fundamentals. The finance section was tedious for me (it's my professional background), but I thought it was too singularly focused on asset management, and descriptive analytics, rather than predictive. The content choice could be better. But by far the worst module was the marketing module. I went into the course interested in learning more about marketing, and this course ruined my interest. Content felt disorganized, the lectures were REALLY LONG and didn't give much in the way of using analytics. I'd also say that the case studies (which you have to pay for) added little value. Organization: Group project aside, there were many deliverables that were graded. 10 self-assessments, and 4 HWs. Each may not have taken a ton of time to complete, but they don't unlock the assignments in a very coordinated manner. A SA covering a module may not be unlocked a week or two after the module unlocks, so you'd have to wait to do it, when you'd like to do it right after completing the module. Same with the HWs. They often unlock well after modules covered are completed, so you can't start them early. These moving parts, plus the project, plus the exams, make you put in extra effort just to plan ahead. Add onto that the fact that the last HW was so unclearly worded, we spent more time on Piazza deciphering instructions (and contradicting TA responses) than doing the coding. Then the solutions were incorrect. Then the final exam was missing a ton of instructions and datasets for over half the questions, that had to be posted on Piazza. Then the peer grading for the final project presentation didn't work for days. And on and on... On the teaching staff, maybe I had worse than average group of TAs, but I've posted multiple questions that I think are trivial (to clarify instructions), and I wouldn't get a response until 24+ hours afterwards. To their credit, they did seem more responsive to private Piazza posts, but I'd expect a much faster response time on clarifying questions. TL:DR, the class isn't difficult, but the poor organization and mediocre content didn't make it a great experience. My experience could've been worse if I didn't have a good project group to navigate the class with. Your grade is ~40% exams, 20% project, and the balance is HWs and SAs.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 3 hrs/week
+Difficulty: 1/5 Easy
+Overall: 5/5 Loved it
+Review: My background covered two of the main sections (finance and OM), so those weeks required little work.  Overall the videos each week take approximately an hour, an hour at most for homework, and less than an hour on reading messages, group, and other add on items. Towards the end of our semester there was some poorly written instructions on HW4, but that does not ruin the rest of the time spent in the class.   It is a good breather between other classes or paired with a more difficult class if tackling two classes in a semester.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 4/29/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: As others have written, an absolute garbage class. Worst college class I have taken IN MY LIFE. The worst part of it was the class project; I had multiple team members who would fail to attend the meetings and not give an explanation as to why they missed the meetings; I ended up having to do the vast majority of the work. Also really difficult to coordinate with people in different time zones. The marketing module was torture. Hours of videos filled with fluff, and nothing substantial. They make you pay $50 for the Harvard business review modules which only give you 4 short articles required for the home works. As others have mentioned, they also crammed 50+% of our grade down to the last 2 weeks. The final project, the final presentation, the final exams, and the final homework. oh, by the way, the final homework was a disaster filled with contradictions, ambiguities, and sloppy, messy data. For example, we needed to know how to parse two different types of dates in the same column for one of the homeworks. Now, others have said "well, you will work a lot with messy data in real life"; okay, fine, but at least teach me what I need to know to do that! None of it was in the lectures. It was buried in one of the office hour sections. oh, by the way, speaking of the lectures, some of the material they presented is wrong!! For example, the formula for process capability cpk; the instructor presents the formula with the wrong order of operations. So I started to answer it the way that he detailed it in his slides, and got an extremely large, obviously incorrect number. I looked it up online, and literally every other source I consulted besides the lecture slides presented the correct formula. The lack of quality in this class is very telling when I have to fact-check the freakin' professor! oh by the way, the professors were never there to contribute anything to the class. It was all run by the TAs. This class has really made me start to reconsider if I should continue to pursue an OMSA master's degree. I probably still will, but will steer clear of classes like this one that are rated very poorly.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 4/27/2022
+Workload: 7 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: The is by far the worst graduate course that I've ever taken (I already have a graduate degree). In an effort to make the course more difficult, they turned it into a nightmare. Half of your grade is determine by things that are due in the last 2 weeks of the semester. The project was a mess, with multiple different "guidelines" that had contradictory instructions and requirements. My group received feedback from the TAs on our project proposal the DAY BEFORE the project was due. The final homework was so poorly written that even the TAs couldn't provide helpful clarifications for most of it and they ended up deciding the day before it was due that they'd "relax the grading". Completing it required hours of scrolling piazza posts and trying to decipher what was even being asked. The TAs were pretty unhelpful and some of them downright snarky. The lectures were ok, but tended to drawl on and on. Overall this was a terrible experience and a total waste of my time.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 4/27/2022
+Workload: 5 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: Hands down the worst course I've taken in the program. Absolute shit show of a class it seems like they tried making the class more difficult without adding any value. The most difficult part of the course is figuring out the logistical nightmare they create rather than the actual material. You will need to dig through Piazza to clarify mountains of corrections and project expectations. TA's don't have the answers for you and overall a lot of people were screwed at the end of the course. The added homework was riddled with errors and the best they could do was tell you it was going to be graded more leniently the day before it is due despite their being a lengthy Piazza post asking for the assignment to be dropped. The added project was also a disaster and was also due on the same day as the fourth homework assignment. Instructors refused to open up the cumulative Final exam until a week before. The course was easy until the final two week period where 50% of your grade was stuffed into this small window with corrections to project deliverable expectations and assignments made days before they're due.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: SPRING 2022
+Date: 4/6/2022
+Workload: 6 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: Why am I taking this course? I feel like I've taken it about 10 times already in this program. Really a waste of time. Marketing lectures are a joke. Literally lifted from the Digital Marketing course. Why am I paying for both? Make some original content for this course. Really boring, useless details that I could have easily skipped. Why did you walk through the steps to set up an ad on Facebook? I wanted to actually learn marketing analytics (my day job). Walk us through sample a/b or MVT testing data on marketing campaigns. Whatever you did in this section is absolutely not it, not useful, and made me want to quit this degree program. Finance was actually good. Regression was so boring and the same thing as 10 other courses. Operations management was alright-  the homework was a complete disaster in terms of instructions, but the content was... fine. Maybe this course should be "how to write in R" rather than "here's a bunch of crap we've already taught you"? Project is incredibly frustrating. Bad instructions, plus why am I doing this? Conflicting information within the instructions, conflicting answers to questions on Piazza, new requirements made up on the fly and never officially published (apparently we're expected to dig through piazza for the instruction change of the day). I've done 30 homeworks in 6501 that are the same thing as this project. Very dumb. So many mistakes in the homework instructions instructions. Clarifications needed on over half of the questions. I shouldn't have to dig through a piazza post to necessary info.  Project instruction document is inexcusable - so many inconsistencies. Deliverables stated at the top of the document do not match the deliverables described in the body. Inconsistencies with due dates from piazza to project documentation to syllabus. TAs have no clue what's going on and post nonsensical answers to queries until the head TA (who apparently is running the show) comes and corrects everyone else's mess. Updated with a message I sent to OMSA advising on 4/30: This course is in serious disrepair and needs to be gutted/recreated with totally new faculty. My understanding is that the course is being run by Frederick Bien with guest lectures by three other professors. However, in practice, the course is run by TAs who do not know what is going on, and all four lecturers are totally disengaged from the course. I have not seen one follow up to student questions from the instructors, only TAs. It is unbelievable that the faculty set up the course and are allowing the TAs to fail. The course has been nothing short of a complete mess. A new project was added this semester. That is a great idea, but it was thrown together with changing requirements throughout the semester. There was never a point when what was in the syllabus, project description, and TA posts on Piazza matched. In fact, often, TAs were posting conflicting information with each other on Piazza. To make matters worse, the part of the course that should be well-built out (homeworks) were a complete disaster, especially the fourth homework. Instructions were so vague that the questions could be correctly answered 100 different ways. I spent more time searching for clarifications on Piazza than actually working on the homeworks. And even on piazza, TAs were suggesting that questions be answered several different ways. This was incredibly unprofessional - the course is a Management course that teaches people how to be successful business analysts. If the people who made the course and are guiding students through the course aren't even profession, organized business analysts who can clearly communicate instructions, how can students ever reach that level? Now, we are halfway through finals week, and one thing that was supposed to be released Wednesday is still broken. In fact, this was something that was never messaged on the Syllabus or Project Instructions sheets and was just an afterthought last week on a random Piazza post. Most students in this program have full time jobs and plan their work and lives around the schedule given for the course. It is incredible to expect students to check Piazza several times a day for updates on a final assignment that should have been released at the start of finals week. People may be planning vacations or work trips or family things that will require them to step away from the course. It is unbelievable that a FINAL REQUIREMENT was added a few days before finals week and it is STILL NOT ready for students to complete ON THE DAY THE SYLLABUS SAYS IT IS TO BE TURNED IN. The final was also released with major errors (datasets referenced were not included in the final). Unacceptable! My suggestion for this course is for the professors to actually be engaged in the course, for requirements to be thought out and presented well ahead of time (on the syllabus), for requirements to not be added last minute, and for the release of the assignments to be tested so that students are not waiting several days during finals week for a final assignment to be released. I can't believe I paid nearly $1k for this absolute disaster of a course. I understand that tenure is a thing, but Frederick Bien's total disengagement with this course should be grounds for termination. If I handled something this badly in my professional job, I would be fired immediately, no questions asked. What's worse, Bien's content was 100% ripped from the actual Digital Marketing course. Did no work for the course other than recording a few lessons with someone else's content. Inexcusable.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2021
+Date: 12/16/2021
+Workload: 7 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: I used this course to re-enforce knowledge from ISyE6501 and MGT 8803/6754. Never had enough time before to go deeper and read as much as I want about the learning topics. This course is easy enough to absorb what is given in the course and gives you enough time to go and dive deep into books, studies, or research areas mentioned in this course. I tend to agree with others, there is tons of stuff that any high-schooler knows may know (Fb, Google Ads), yet being structured is knowledge to be appreciated.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2021
+Date: 12/15/2021
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 2/5 Mixed
+Review: This class felt like a waste of time from start to finish. For those who liked it because they learned R- that is covered in ISYE 6501 which is also a required OMSA course (it's also a much better course). The course required very little effort, and felt like there was very little effort taken in putting it together as well. I watched all the lectures at 2x and still felt like I was wasting my time. My favorite modules were Finance and OM, because at least the lecturers seemed passionate about the topics. Marketing was totally useless info, mostly slides from another class that already feel outdated, and Regression is taught (and taught better) in several other courses in OMSA. The computational parts of the exams were my least favorite part. They weren't hard at all but took 3-4 hours to complete because they basically made you download a new csv file and work with a different R package (some of them that they hadn't even introduced in homeworks) for every question. They were just designed to make you waste time. Having said that, I guess it was nice to have an easy class? I just wish it was more interesting and there was more effort put into it. This was my 7th class and by far my least favorite.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2021
+Date: 12/10/2021
+Workload: 8 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: My background: BSME and MBA. Management consulting + Operational roles. Former SAP MM functional consultant. Some knowledge of Python. Zero prior knowledge of R. The class perfectly satisfies a fundamental educational requirement: it teaches, then students practice the knowledge instructors gave them, and finally, students are tested on the SAME material. There are no gaps. In that respect, CSE6040 is a complete disaster. The class is an excellent fit for people with different backgrounds. After all, there are three tracks in this program. I had zero issues with the business part but had my work cut out for me with the coding. Computer Science majors will have zero problems with coding but may have issues with the business portion of the class. It is a fair game. I was somewhat bored with the Business. My opposites will be bored with coding. It is Ok. The class gently introduces you to R. It offers a great online R training resource. I used it and loved it. Very helpful. There is one mid-term, final, and three homework. They have almost the same format: theory (multiple choice) and coding (R). The theory is a timed, one-time engagement during the exams—plenty of time for 20 questions. Coding is a take-home, and you have 5-7 days to complete it. No auto-grading. The coding part of the homework is peer-graded, and it is a fair process since the answers and guidelines are provided. Mid-terms and final exams differ from homework only in coding grading: you develop your code in R-Studio, get the answers and then complete a multiple-choice section of the exam. Very straightforward. To be successful in this class, you must pay attention to the lectures and optional R exercises. All testing is based on them. TAs are helpful and create a sense of togetherness and go the extra mile to explain things (R coding for me). Outstanding job. The class can be improved by the following: Add more R exercises to the last three weeks. Currently, there are none, and I felt rusty during the final exam. Replace Inventory Management, Quality/SPC, and Forecasting lectures with something more advanced. No one calculates ROP and forecast manually. There could have been some great forecasting exercises using available libraries. ROP is not even used anymore. Overall, it was an excellent CORE class to start learning R.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2021
+Date: 12/10/2021
+Workload: 4 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Overall, I think this course gets a bad wrap. I definitely see how some people think of it as a waste of time (and $), but for me parts of it were actually useful and interesting (mainly the regression and finance modules). The most useful part of this course IMO is the first module, Regression. Having a limited stats background I thought this was a good introduction to learning about simple regression, multiple regression, logistic regression, etc. It was also a good primer in learning how to use R. The next portion of the course was Finance, which I found to be very interesting because it applied regression to various aspects of finance. Now, marketing/advertising. This was by far my least favorite module in the course. The lectures were extremely long and 90% of the content was almost useless. The only valuable piece of info from this module was the code on determining customer churn. I thought the last module, operations research was fine. The instructor was very passionate and funny and it seemed like a decent introduction to OR. Lots of equations though. Overall, this course is pretty straightforward and easy, but you still have to put in the work. Don't expect to put in 0 work and get an A. The self-assessments and homework assignments can be a little tricky, but if you use the lecture slides and code snippets as models you shouldn't have a problem with most of the material. Also, this was my first semester in OMSA and I took this alongside CSE6040 so take that how you will.
+
+---
+
+Course: MGT-6203
+Course Name: Data Analytics in Business
+Semester: FALL 2021
+Date: 11/26/2021
+Workload: 5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: I won't say the same things as others already have, most of it is generally true. The one thing I have not noticed on here is noting the length of some of the module videos and how little content they actually cover. For example, there was a 20 minute video in the statistical process control module that presented a definition of quality, 8 dimensions of product quality, and 8 dimensions of service quality. The video could have been 5 minutes and communicated the same amount of content. I watched the Marketing and Operations sections of the course on 2x speed the entire time - otherwise it would have wasted an unacceptable amount of time. I have an undergraduate degree in business and I believe those of us who come into this program with that background should be able to opt out of this course in addition to MGT 8803 or focus this class more on applications of the concepts.

@@ -1,0 +1,240 @@
+# OMSHub Reviews: CS-6400 - Database Systems Concepts and Design
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2024
+Date: 12/8/2024
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Honestly I think this course gets more hate then it deserves due to everyone's dislike of group projects. A group project absolutely makes sense for this course due to the exposure of git workflows which you may not get exposure to elsewhere (such as if you are in OMSA). Supposedly this course will be getting some rework in the semesters to come, so this might be dated for future semesters. Overall, I think this course is pretty good and only have a few painpoints. Pros: Exposure to a diverse student group - as you may have students with experience with several different technologies (python vs typescript, frontend, vs backend) and different programs (OMSA, OMSCS, OMSC). In depth knowledge of how databases work Cons : May have trouble with group teamwork. Some material is only covered by the book which is difficult to read (esp. if you have ADHD...) Plenty of project information isn't covered by the specification and is instead revealed by Piazza questions Grading structure makes getting an A difficult, but easy to expect a B Advice to Students : Use practice exams to study, review office hours Understand what sections of the book will be fair game on the exam Review answers (or ask questions) on Piazza Try to form a diverse group project and use git workflows (separate branches and merge your work, to prevent duplicated work) Feedback to Faulty : Provide more detailed specifications that won't require so much follow up on Piazza Rework Exam 4 - the portions dealing with disk space calculations is archaic and not productive (if my undergrad physics course provided equations, I think a masters which should realize no job is going to have you manually calculate HDD disk space in an era of SSDs and NVMes without Google) This course can also be incredibly difficult to get an A due to the grading structure - extra credit would be nice.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2024
+Date: 4/21/2024
+Workload: 9 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: This course receives a lot of hate but I still took it because of no formal DB course in my undergrad. I was pleasantly surprised by the course and can recommend it. Sharing detailed pros and cons below: Pros Good database design is something often overlooked in software engineering. This isn't entirely the industries fault where the requirements change and new ones emerge requiring a change to schema. This course ensures that given well-documented requirements beforehand, you're able to design the entities, relationships (tables) and properties (columns) with logical database design principles. The group assignment is a big component and each of the 3 project phases progressively build on the the next. 1st is about EER diagrams and planning database read/write tasks, 2nd is about translating it into relations (tables) and writing abstract code. While the 1st two phases of group project are great for learning how complex apps data model should be planned , the 3rd is about building an entire working app (backend + frontend) more on that in the Cons section. They let you form your own teams by selecting team-mates based on skills in the starting week(s). This is huge because with varying skillsets of OMSCS students it is important to have dedicated team-mates who have experience in frontend, backend, SQL queries each. Cons The Exams were hit or miss. No matter how good an understanding you think you have, the way the questions are asked, you are bound to trip and fall into one of their traps. It really feels like they're trying to raise the difficulty of otherwise straightforward concepts by asking ambiguous questions . There was an instance where I asked for a regrade and linked to a course video supporting my answer. The TA literally just replied with a link to another video supporting a different answer. Frustrated, I never made another regrade attempt in the course because it feels they're really out to get you in Exams. The 3rd phase of the group project is to build a working frontend, backend of the app and demonstrate it to a TA live. This is beyond the scope of the course and really comes down to how much experience you already have or how much you're willing to learn about new languages and frameworks on your own . Our initial choice was ReactJS frontend with Java backend because 2 of the team-mates had Java experience (including me). A week into phase 3, the other team-mates decided it was too tough to pickup Java (not entirely their fault) and we switched to vanilla HTML/CSS with PHP. I felt like I learnt more PHP in this project than SQL. I felt a big disconnect in theory and practice in the topics of normalization and indexing specifically . The course talks about database normalization in lectures and is covered in Exam 4, but the Group project is finished long before it. So you're unable to apply the learnings to normalize your schema for data consistency or indexing for performance uplift. But the early phases of the project hint towards this and expect you to create a normalized database design. Advice to prospective students Take this course only if you haven't taken any database course in undergrad If you have real world experience managing a database practically but want to learn the theory of designing a good schema, this might help. But so would a Udemy or YouTube video. If you decide to take this course, please come prepared with at least few complete apps as personal projects under your belt. This is important for phase 3 if you want to contribute to building the frontend and backend of the team project. Picking up a language and framework on the go just means you'll be a burden on your team-mates even if you don't intend to. This course will teach you some SQL but don't think of it as an SQL course. It is much broader, and hence gives less depth to SQL lectures. This course is not relevant to NoSQL technologies like MongoDB Feedback to course faculty Revise the Exam questions into simple, unambiguous English please. We could do with less a-ha moments after looking at the answer keys after each exam.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2022
+Date: 5/7/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: All I want to say is about the grading policy. Guys, do challenge every point, no matter how tiny it is, in your exams, in your each phase of projects! They will not show any mercy to your final grade, be it 89.5, 89.7, or 89.9. They all fall into B. No round up. The policies of managing this course is the only issue of this course. Otherwise, it will be a standard good course. They try to justify their policy by emphasizing how big this class is. Yes, we all know that. But it still sounds like what a dictator would say in why he rein his kingdom in the way that the majority is not happy.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2022
+Date: 5/5/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This was my first semester at OMSCS. I enjoyed most of this course since I wanted to learn more on the fundamentals of databases. I build and work with databases in a non-SQL RDMS, but I was really missing on the fundamental principles behind what's happening in a db. Lecture Videos: Quite well made, sometimes funny as well, but not enough to get a decent grade. Don't just sit and watch the videos. Make your own notes and you can use those notes in the exams as they are open-notes exams! Textbook: It's a really good textbook but sometimes goes much deeper than what is needed for this class. A definite must read if you want to get a good grade Exams: 4 exams in total, all multiple choice but the ones that have multiple options are tricky when it comes to grading them. If there are 2 answers and you select 1 correct and 1 incorrect, you score 0. It's a bit unfair but try to be careful and smart. Exam 1 and 4 are the hardest. Exam 1 is very high level concepts that might probably be ok for someone without any knowledge of databases, but for someone that does know a thing or two, they can get a bit confusing. Do try the practice questions well in advance and also right before the exam itself, sometimes questions are pretty similar. Do take your time during the exams and read the questions and possible answers very very carefully. I am not a native English speaker but that didn't stop me from getting good grades by carefully reading. Project: It's one large project broken down into 3 phases building a full-stack app with a database backend and web or desktop frontend. It was a simple project yet it was challenging at certain areas and making you really re-read and think. I think Phase 3 was an almost complete waste of time, i.e. to actually build the app itself because you have everything for the database up to Phase 2. It's certainly nice to see the thing finished but IMHO it would serve better if they scrapped Phase 3 and run another project to repeat Phases 1 & 2 but harder and all in one go. One more tip for Phase 3, try starting it before the end of Phase 2. If you can get the backbone of the setup and basic feel and look of the app it will be a walk in the park from there on. Piazza: Most other reviews talk badly about the TAs, I won't! The TAs do a pretty good job and are always helpful. HOWEVER, this course has been run for many many years now, as a result they accumulated a lot of knowledge from past semesters and they have long but excellent instructions for just about anything. Read all those instructions carefully and don't ask silly questions. Read the threads on Piazza for practice exam questions by other students, I found very useful info in those posts right before sitting an exam. Project team: Find a team soon as all groups need to be 5 members (unless the total number of the class isn't divisible by 5). I found it really hard to get on team very early on as there aren't so many european students to be able to fit my schedule. Eventually we had 1 complete slacker in our group, another one that wasn't much of a help but did genuinely try to offer help, and then myself and 2 others that took most of the burden. Try and have regular meetings with the team and divide up the work. Most of the work in Phase 1 should be done in group with some division of labour there but Phases 2 and 3 can be split up in terms of work so y'all can work separately and then bring things together. This course could certainly use some slight modernisation but I think mostly the whole program and us of course would benefit from a second yet more advanced database course as a sequel to this one. Also one that would include NoSQL as well as there isn't any in this one.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2022
+Date: 5/2/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: My first class in OMSCS, BS in mathematics with no formal CS training beyond machine/deep/reinforcement learning type courses.
+Course materials are somewhat shallow and only covers SQL database. Exams sometimes focus too much on definitions rather than practical matters. But not very hard to get good grades or full score if spend some time preparing (~15 hours for each exam, got 98, 100, 100, 96 for exam 1,2,3,4 respectively.) For exam 1 & 4, should definitely read the related textbook chapters
+I like the course project, especially the third phase which requires full stack development (website+database, sql+python flask+javascript) and I learned a lot from the course project. TAs are too picky in terms of project feedback (especially the first two phases), some requirements do not make any sense, for example we got points deducted just because we wrote a separate function to calculate something. I do not interact with TA too much on piazza but sometimes I feel TAs are too aggressive.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2022
+Date: 5/2/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: Let me start this by saying I’m probably getting an A in this and I’m also quitting GaTech because of it. The instructor and TA’s want you to fail in a rather easy, irrelevant to a certain extent Intro to Database course. They say the questions are not meant to trick you, but then - for example - ask you to round to the closest integer on the only question that did not need rounding. What’s worse is that there are mistakes in some of the questions in the sample quizes but one of the TAs - namely Alex ( who doesn’t bother to review or correct his english when replyings to student questions) almost mocks you for starting a valid discussion. I suggest also the professor give it a rest and retire or update the course to be more relevant. The course is about normalization of data in a world where denormalization has become a thing a pattern. The most decent part of the course are material in Chapter 4 - but they are given the least amount of time. Oh yea one more thing, they try to create their own SQL in some exams just for fun. What a pathetic waste of money. Id have rather done some Udemy or cloud certifications.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2022
+Date: 4/29/2022
+Workload: 10 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: Really disliked this class. The only thing that's good about it is the professor is funny and so the lectures are entertaining. But once the exams hit, you'll feel like an idiot for laughing during the lectures. The exams cover stuff not found in the lectures but in the book which has a lot of reading. Exam 4 was incredibly difficult but the other 3 were manageable. The TA's are annoying as well. Instead of responding in Piazza, they'll say, "just watch the entire office hour", when a 5 word answer would suffice. You'll get dinged for forgetting small things. THE TEAM SURVEY IS WORTH POINTS. It's not optional. My group bailed on phase 3 of the project and I basically had to do it alone with one other group member. The project was designing a full-stack web application so you need to know REST, the basics of API development, some frontend tool to design your UI, and database queries. NOT FUN. On top of this, you need to get 4 group members all on the same stack. Then you have to live demo it in a presentation. It's a pity this class is designed the way it is because databases are so integral to day-to-day work. I really wish this class was designed in line with other classes where you use an autograder to create a DB, queries, etc. I could see this class being amazing, but it is what it is.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2022
+Date: 4/9/2022
+Workload: 10 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: Total waste of time. This class is very easy but it is not certain you will end up with good grades. The group project is total scam as everyone gets the same score whether they put the same effort or not. You will hardly learn anything from the group projects it is just time consuming. Furthermore the class itself is easy as there is no other homework and reading are pretty small compared to other courses. However, the exams are completely hit or miss. They are designed to be tricky not to understand how much you actually know of the material. Each exam question is worth around 5 points so if you get unlucky on any two of these trick question you loose points to get A in this course. Like everyone has mentioned it is an easy B class that you can take with a hard course but still complete waste of time for a grad student. Last but not the least TA's are also not helpful at all, this course is a complete mess.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: SPRING 2022
+Date: 3/20/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: This class was a very intro to relational databases class and not suitable for most people who have had practice with SQL. I recommend Advanced Operating Systems or High-Performance Computer Architecture instead.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 2/10/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: The class really only covers 1 thing, databases. Its great if you want to get a better feel for SQL but thats about it. no HWs (big plus)
+major project throughout the entire class with 3 deliverables
+4 exams (exam 4 is by far the most tricky) Worst thing about this class is there is NO CURVE, its easy to get a B in but very hard to get an A. To see my full review on the course, check out my youtube channel: https://www.youtube.com/watch?v=cXp4ZWU1fV8
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 1/18/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: A lot of complainers in these reviews... yes the exams are tough, but they are fair. Yes, TAs can be blunt in responding to Piazza posts; it's not a big deal, just get over it. Yes, the group project involves doing web page development in addition to database design; learn some php. Watch out for exam 4 as it is pretty difficult and you'll likely be focusing on the the group project at the same time. This was my first OMSCS course. If this is really "the worst class in the whole OMSCS program" as many reviewers are commenting, then in am in for a good experience. I took this course to solidify knowledge about databases I have picked up through work experience and it was a success in that regard. My one complaint is that the first half of the course is a bit too "formal mathematics" (i.e. I wish it got into SQL faster).
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/27/2021
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: Before taking this class My DB course-related background: Know SQL fairly well, have front end experience, have no DB design experience, didn't take DB class before My goal: Have a thorough understanding of the database system design. Expect some hardcore stuff with limited SQL contents My DB course experience Lecture quality: The professor explains things well.  The video is good. Exam 1: open book. Questions are not hard. However, for non-native English speakers, even you are fluent, it would be medium-difficult since several questions are really testing your English, not knowledge. Exam 2: open book. Questions are clear. If you know SQL, it's pretty easy Exam 3: open book. Questions are clear. If you know SQL, it's pretty easy Exam 4: open book. Medium. You should read the book. More than 30% of quiz questions are not covered in the lecture and are purely from the textbook. Make sure you understand book fairly well Team Project: Three phases, the first one is to read the doc and design some flow, the second one is to write SQL, the third one is to build the website and complete queries About TA: I appreciate the support from Alex. He is willing to answer your questions and provide guidance very quickly, even at midnight - I assume he is in the US. But sometimes I do feel he is not in a good mood when answering questions. Generally, I would give a thumb up for him. I know some students are unhappy with him because he was strict on their team project, but I think he did his work well. The reason I CANNOT like this course Team project: The project is time-consuming but not rewarding, and there is really no penalty system for free riders. It does provide a team evaluation form, however, you know the free riders also evaluate you, and they will get the full score on the project parts no matter what. The most time I spent on this course was on the team projects since some teammates didn't wanna do their part right. I know they may have a different goal for this course but I am still unhappy with this. As for the project itself, I didn't learn much from the project. It turns out to be a waste of time. If you know reliable people, you may have a better experience. Course contents: I would expect more hardcore contents. The contents covered in exam 4 can be extended, covered and taught more deeply. However, the recorded lectures are a bit shallow Some data Totally spent ~200hrs on this course My target is A. End up with A Team - Me, 2 reliable teammates, 2 non-reliable teammates My final thoughts This is an easy B but hard A course. If your target is B, you won't have much pressure and may spend much less time. 
+If my target is B, I probably would spend less than 5 hours a week. I will not take this course If I can choose again.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: Easy B, Really Difficult A, but a good course. This was my first omscs course.
+Exam1, and Exam 3 are easier. Exam 2 is difficult, Exam 4 is really really difficult. The project phases are fine for 1 &2 but the final phase 3 is really difficult. It takes an exponential amount of time and involves web development. And we had issues were the most of the team were not developers. So get a team who is proficient in coding or be willing to spend a lot of hours doing the heavy lifting. You need to do a bit on set theory; fortunately no proofs. If you go thru the lecturers twice and read the text thoroughly twice for the exam, then you have a chance of getting an A. Overall, I enjoyed it. I was in mid B's till the last phase and exam and slid to a low B by the end.
+Exams are tricky so read the textbook thorough. Textbook is authoritative and lectures are just an overview of what you need to study.
+It is a good course to start omscs if you are planning to ease into the program. The theory did clear up a lot of issues I had in EER to relational table mappings.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: I learned a lot in this class and had fun working on the group project. I put a medium amount of effort into the exams and a lot of effort into the group project and made a B in the class. I believe I earned the grade I deserved and I liked the course. Overall the reviews are correct for this class. It is very important to pick a good group. I was the only one with web development experience, but our team was strong in other areas and made us a well rounded group. Stick to a regular weekly meeting with your group and work to hit the deadlines early, and you will be fine (we made between 94-98% on all phases). The exams are tricky. Each question is worth 4 points so if you miss 3 (or get partial credit on several) there is no chance to make an A on the exam. I really do wish they would just double the number of questions on the exam, I think that would be fairer, but c’est la vie. Its very easy to make a B in the class and somewhat difficult to make an A. There is no curve, but they they will adjust “rounding up” a bit it seems. Several folks on my team were right on the edge of a B and an A and ended up with an A for the class.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/21/2021
+Workload: 5 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This was my first course in OMSCS, and I’m not going to lie, I didn't mind it. The name of the game is getting a good group though. At the beginning of the course, you are allowed to post on piazza and find people to work with for the semester long group project before you are assigned a random group and I HIGHLY recommend that. I was able to find 4 other members in my time zone who had similar schedules and wanted to perform well in the course. This made the group project easy and all 5 of us contributed equally, made everything so much easier and the end product actually turned out really well. I liked the lectures although they were not super helpful when it came to the exams which were sometimes tricky. I believe that the only way to secure an A in this class if reading the book thoroughly. The TA/instructor responded to all of my questions quickly which was nice. I agree with some other posts that say this class is a hard A and an easy(ish) B. Definitely not a bad class though if you set yourself up well.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/19/2021
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: I have seen many sentiments about this course which I chose to ignore, thinking I could objectively take it as a core course for the computing systems specialization. These sentiments are true... all my group (project) members withdrew... This was my 5th course and I believe this is the worst OMSCS course and not sure its actually been retained as is. From the content, the TAs and the overall learning experience.... Unless you love regrets, keep off!
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/17/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: Please avoid taking this class. Again, please avoid this class unless you want to be attacked when you ask questions on Piazza.
+For course materials, the videos cover most of the basic knowledge but it is not sufficient enough to let you get 90% score. You have to read the text book carefully and have to be able to rephrase every sentence so you will understand what the questions are talking about in the exam.
+The next part is a big part for TAs and the instructor. Since you guys help me a lot, we should help you improve your course.
+First of all, I think I am qualified for the position of TA for this course because I am able to set up an auto response of "Please read the spec/textbook carefully. " so every questions will be resolved.
+Secondly, if the students keep asking me to clarify the statements in spec, I am able to reply "Don't play the game with me. " and they will drop this class to avoid fail the course.
+Thirdly, if a question starts from "Can you please ...", then I am able to reply "No. " as soon as possible to avoid waste of resources.
+Fourthly, I am able to keep my rating at a high score and most of the reviews will be positive because I have a script to post reviews here saying something like "Nothing wrong with this. Shame on the students who don't take the time to go through things first and expect others to baby sit!" and "Alex is the best TA I have ever met. ".
+I think I met most of the TA qualifications of this course so please hire me so you will improve the course in this way! I need money!
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/17/2021
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: 1st OMSCS class. Took this class because I thought it is an easy class and wanted a smooth start. It's not. It is an "easy B" but for sure not an easy A. ​Eventually I got hard-earned high A (> 95) but the experience is horrible. Trust me, only 20/30% people got A.
+It is NOT an easy A.
+It is NOT an easy A.
+It is NOT an easy A. Check the rating of the class, it is currently the “TOP 3” for CS-coded classes. There is a reason for that. I regret I did not take the rating seriously when I made my choice. STAY AWAY STAY AWAY STAY AWAY from this class if you can. If you want to learn DB knowledge, there are happier ways to learn it. You are tested on a lot of concepts are not covered in lecture/textbook. For Exam 1, you are tested on your English and not your knowledge. Trust me, it is not because you do not know the content, it is because the words they use create a lot of confusion/ambiguity. AND they are NOT improving it. Your exam 1 will be a frustrated one. Some TAs are nice. I have to say the TAs’ reply come in very fast, in minutes or seconds, but sometimes RUDE and TOXIC. The head TA is a dictator (and the professor perhaps) as if there is only one answer to the project. It is not, or rather, the concepts are not clearly explained in the lecture/textbook, so many people have to ask in the forum to literally GUESS what he want. We are not learning much from this,  simply a waste of time. I am sorry the head TA. If it is a group decision to make the project/course exam like what it is currently, I am sorry you are blamed simply because you are the one replying the posts. But again, when I think of the tone/words you (and some other TAs) used, I do not feel sorry any more LOL. Even worse, if they think the textbook is not sharing the same ideas as theirs, the textbook is wrong. LOL. Write your own textbook and give notes. Very concise lecture videos, that however means you have to read the textbook very carefully. I read every single page and took my note (Exams are open notes). It took me huge amount of time reading the text and summarise it. Tiny portion of it is tested (they really test the tiny details), but you have to invest a lot of time for it. The professor is a nice old guy and I am sure he has good knowledge in this domain. However I have to say he has little or no incentive to further improve the course. In the reviews, you can see repeated feedback for many semesters. The team evaluation is a joke. Only 1/2 team members out of 5 worked on the project. The free riders will share the same mark as yours, with very insignificant punishment. Even worse, if they are not happy, they can rated you down. IT IS A JOKE. So, choose your team wisely, or pray hard. The project has 3 phases.
+Phase 2 is useful because it forces you to write a lot of SQL, if you contribute.
+Phase 3, 15% of the total grade, is just front-end coding. PHP code sample will be provided but you do have freedom to choose your stack. Good exposure to FE but really, this class is about DB and FE should NOT be the main focus. I had to spend huge amount of time to make sure the user experience is good, and make sure the selection, button, and the form work. Let me stress it again. You will not be happy when you take the class, and for sure you will be frustrated and doubt why you have to go through this. STAY AWAY please.
+Your life will be happier without this class.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/16/2021
+Workload: 16 hrs/week
+Difficulty: 3/5 Medium
+Overall: 2/5 Mixed
+Review: Well. This is my first OMSCS course and I don't have too many options so I took the Database. I got a hard-earned A. I didn't look through piazza frequently and preferred to ask questions in groups and slacks. Therefore, I didn't interact with TAs a lot. Most negative review complains about Alex but I'm sort of lucky that Alex didn't grade any of my projects.  Overall I feel OKAY with the team. The exams. The team will tell you which chapters and lectures are covered in the exam. HOWEVER, It doesn't mean that it will only test contents covered by lectures. Especially exam 1 and exam 4. It's about 4-5 questions that aren't fully covered in the lectures. But it's time-consuming to read the textbook thoroughly to just remember some concepts. People feel it's not worth it so they usually only watch the lectures. That's the main reason why the average score of exam 4 is pretty low. BCNF isn't well or fully explained by the lectures.  But it's avoidable if you find other resources as supplements. I don't like ambiguous question descriptions in exam 1 like may nor may not. It may not be a problem for a native speaker. But since a lot of students point it out in previous semesters again and again, isn't it better to fix it? This course is about the database not about wordplays. Why doesn't anyone complain about the team evaluation here?  Do you all get a good team? I'm jealous. Although TA said you can reflect a teammate who made no contribution in the team evaluation, IT DIDN'T WORK!  Freeriders still get the SAME PROJECT SCORE without any contribution. If the team evaluation is the way to report the free-rider issue, isn't their project scores proportion to their team evaluation score? Like if you get full points in team evaluation, then you get full points of your project score graded by TA. If the free-rider gets 20% in the team evaluation, then they should get 20% of the project score. However, the fact is that free-riders still get the same project score, but just one or two points penalty on their team evaluation. THAT'S NOT FAIR. The reason why I felt okay with TAs is simply because at least they did their job to answer and explain questions about projects and exams. And their drawbacks can be avoided to some contents. I felt it sucks because of the awful teammates in the group project and these free-riders are INEVITABLE SINCE THEY ARE IN YOUR TEAM. It's not the fault of this course but there is no effective way to get rid of them. They just did nothing and didn't quit. You have to tolerate them until the end of the semester or you quit. I had to write most of SQL and PHP on my own during the thanksgiving holiday and treated it as an independent project. I got a great score due to my efforts and so did my free-rider teammates. IF I GAVE UP, I WOULD GET NOTHING. IF I WORKED ON IT, THEY COULD GET EVERYTHING. BULLSHIT. Overall, the TAs are okay and their drawbacks are avoidable. The exams are acceptable. Project material is outdated but moderate. I did learn a lot from this course and made a project that can be put on my resume. My teammate sucks.
+
+---
+
+Course: CS-6400
+Course Name: Database Systems Concepts and Design
+Semester: FALL 2021
+Date: 12/16/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: I am a data engineer. I have spend 4+ years working with dbms and document based systems. For the most part this class is a nonsense. The material is outdated, the delivery is poor and the structure of the course does not make sense. The course covers only a very narrow range of rdbms concepts but it somehow manages to confuse and complicate things to the degree of disgust. This is due to poor organization and delivery of the material. Instead of creating a graduate level db class to broaden students' knowledge of db systems they took an undergrad class and filled it with unnecessary complexities to increase the error rate of the exams and artificially keep the class 'hard to pass'.  I feel this is the only motivation behind such a poorly designed class. Whoever created the class was just too lazy to create an interesting and engaging course of a graduate level material. The video lectures cover only a tiny part of the textbook concepts but they are pretty much useless because the questions in the exams (exams are a separate story and riddled with tong-twister questions) that are not covered in the video lectures. During office hours and in piazza the prof's and  tas' attitude is basically 'ask us what you don't understand', then when someone asks to give an example they amazingly are too often not able to come up with a clear answer and example.  They would spend 20 minutes on debating among each other about the interpretation of the question and the right answer. One would think with so many years in academia and education wouldn't it be easy to have some examples for students. Course also involves a project which only partially touches db design. Large part of the project is building a web application which in my opinion has little relevance to the course. Instead of spending so much effort on the web development the course could cover other concepts like partitioning, distributed dbs. Just avoid this class.

@@ -1,0 +1,226 @@
+# OMSHub Reviews: CS-6475 - Computational Photography
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SUMMER 2022
+Date: 3/4/2022
+Workload: 40 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: Once of the worst course I've done during my life. Super lazy TA's always mentioning they have life and other work to do. If you don't have a time and should constantly cry about it, just don't be TA. No recurring office hours. Very boring homework.
+Everything is super strict. Function names, arguments. If something is wrong by 10^-9, it's marked as wrong. Limited submissions, that don't increase even when it's a mistake on TA's side. I think, they do their best to hide their mistakes Can not import simple things Professor and lectures look fine. Though, I think, course would benefit from major refresh in TAs and homeworks
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: 
+Date: 2/10/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Overall great class, HWs are hard but doable and the class is more than JUST a coding class. I was able to get an A in it and my undergrad is NOT in CS so it is doable. Great course to take before taking Computer Vision. to see my full review on the course, check out my youtube channel: https://www.youtube.com/watch?v=ob1kSNGmv48
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: FALL 2021
+Date: 12/21/2021
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: The class overall was difficult but very rewarding. I thought each assignment did a good job of relating back to the lectures in the course. Overall 5 assignments which varied in difficulty. Some were much easier than others but each assignment came with detailed docstrings on the logic that needed to be implemented. The instructors were willing to help through ED as people reached out as well There were 2 projects which were the hardest portion of the class in my opinion. These provided no clear instructions other than implementing an algorithm directly from a published paper and asking questions through ED. There were about 2-3 weeks allotted for these projects and you definitely needed at least a full week of work to create something meaningful. The final exam as open everything and drew a lot of content directly from the lectures and the assigned reading that supplemented the lectures towards the end of the course. This has been my 6th class in the program and overall probably my favorite. I've also taken HCI, SAD, AI4T, AI and ML4T. This had a similar difficulty to AI in my opinion.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: FALL 2021
+Date: 12/10/2021
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: This course is less linear algebra intense than Computer Vision but has a lot of overlap both in code and lectures in the beginning. Prof. Bobicks lectures are more math heavy while Prof. Essa's are more conceptual, and since I've already taken Computer Vision, I did not find it necessary to watch the lectures for this course except for some later lessons when taking the final exam (2x speed). If you feel you are struggling during this course, I would recommend you watch Bobicks lectures, esp around Laplacian pyramids and homography. However, the course is more time consuming than Computer Vision because of the addition of reports and the fact that after the 2nd assignment, with the exception of an additional week for each project, you will have something big due every week. This contributes the majority of the stress of the class if you're trying to get an A, as assignments past the first 2 count 10% and projects count 15%. Similarly, peer feedback and the notebook quizzes are weighted heavily enough that they matter. Getting a B, however, is much more achievable and with less stress. Some overall positives: I do like the fact everything you do creates interesting results / outputs that you can then show off. I thought that this class was well run, esp thanks to Bob and Kimberly. I also really enjoyed both Projects where you implement algorithms from research papers. If you struggle here be sure to brush up on vectorization in order to debug much more quickly and definitely attend office hours. Overall though, I am neutral / liked just because of the early overlap with CV, and the amount of stress and time consumed. I think Essa's lectures really shine in the later lessons and wish there was more focus on this.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: FALL 2021
+Date: 10/24/2021
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: This course was much harder than it should be. Glad I dropped to preserve my emotional health; this course isn't worth the stress and work. But I'm sad because I actually enjoy the subject matter and wanted to learn more about it. Here are some specific criticisms. Note that I dropped after the second project, so things may have changed later on (although I can't imagine things got significantly better). The professor of record (Dr. Essa) was non-existent -- didn't even say hello to the class. The TAs run the show. Lectures were mostly surface-level discussions and oftentimes irrelevant. Sometimes interesting, but I didn't like the lecture style. Assignments were fair. Bits of coding in Jupyter notebooks. Projects were awful and the reason why I dropped. The TAs offered no help. Every TA answer to a question was a variation of this: Please reread the project instructions -- all the hints and help you need are there. Sounds fair, except that those "hints" were sometimes cryptic and were spread out in any of 10 different files/places: some were in the project announcement/"help" posts on Ed some were scattered throughout the project files several were random comments spread throughout the 5+ files of the LaTeX report template There are no office hours. Not even ones recorded from previous semesters were made available. You are penalized for checking code against the auto-grader -- points are deducted after X submissions. Other courses use velocity thresholds (X submissions allowed every Y hours), so not sure why that's not implemented here (should be a OMSCS standard at this point). They are very strict about no code sharing, yet they are extremely specific about what your functions need to return -- and because the projects are basically one long pipeline, simple errors in an early function are devastating. But you can't share any code, even the most simple test cases -- they are very strict about that. Yet the tests they provide are useless. So you are left to code your own, with no collaboration, no help from the TAs, no way to check against the auto-grader, no useful lectures.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 6/20/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 3/5 Liked it
+Review: Before I started this course, I read the reviews here and while reviewers said it becomes hard and you need to put more hours into it later, it's manageable. After I took the course, the best decision I had is I dropped out, seeing that the project's requirements can be unnecessarily ambigious and later on you realize the lectures will be useless apart from basic knowledge. The TAs don't help much with this nightmare and while I am all into pushing students into learning by themselves, I don't know why we should be going in circles when asking questions on Piazza. It's a shame because I was interested in the course material. But this doesn't mean I have to torture myself for 3 months.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 5/23/2021
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: bob is a good responsible man if you like bob marley you'll like bob not much to add to the negative reviews. quizzes are unreasonably difficult given the baisc nature of the lectures. final exam is mostly 'choose all that applies' did not bother studying at all ctrl + f will get you at least a 60 assignments were fair. projects were the main source of psychological torture. "here's a hammer and a blueprint build me a pyramid in 2 weeks." there were silly moments when i reread the papers in vain and regret taking this class. in hindsight it dont matter whether you could come up with a perfect implementation of the algorithms. what they really want to see is a genuine documentation of your efforts - the final result is somewhat irrelevant. explaining your failure thoroughly > talking about your success succinctly. my project2 results were garbage yet my report allowed me to escape with a B knowing linear programming is not a must. not sure things will change but they were lenient with my alternative method for p2. for p1 i worried too much about implementating the algo rather than writing a thoughtful report. in summary this class is focused on doing research, coding, and journalism if you enjoy perusing papers in search of the truth if you're confident in your algo skills then go for it otherwise avoid
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 5/17/2021
+Workload: 15 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: I loved this class, even with some of its weak qualities. Math Early on, I had some extreme math-phobia but it wasn't as heavy in the mathematics as it seemed. In particular, I freaked about not really understanding the Fourier Transform. It didn't matter & a high level understanding was enough. It did, however, do an exceptional job of demonstrating applied mathematics. If you understand a derivative you will be fine. Homework I found the assignments to be extremely easy to write the code for. They basically gave you a template with a ton of docstrings that spell the whole thing out for you. They were enjoyable to do since you got to see some outputs quickly, and I actually really enjoyed taking my own pictures. The first project (seam carving) was awesome. I wish my code was faster, but otherwise it was a super fun experience. It really made me feel like I accomplished something. The second project was brutal for me. I did not get the linear programming part right. I also ended up editing my test harness for the TAs incorrectly, and had to submit after the due date to avoid losing tons of points by having something that "didn't run" given the instructions in my readme. That 10% one day deduction cost me, but without it (and a poor LP solver) I still had an 89. I spent nearly 100 hours on this project beating my head against the LP solver. I'd probably estimate it as a weekend project if I just knew what I was doing in CVXPY. Exam There was no midterm exam and the final was cumulative (open notes/book/internet). I think it was actually easy given that format but I probably wouldn't have even passed without the notes/internet. Class Experience A few brave souls had no fear about posting questions to Piazza and they are probably the biggest reason why I didn't have many problems. Answers were prompt (though sometimes insultingly phrased). Dr. Essa hosted an office hours every week. This is my first class where that's happened. The TAs also held office hours as needed. This also made a huge difference to me. Instead of feeling completely alone, they helped me feel like they really were there to help. Truly, a great instructional team giving the best student experience they could. Workload I feel like 14-15 hours / week is accurate on this due to the many papers, lots of lecture material, and homework that didn't stop. During the last three weeks, I took multiple days off work, pulled all-nighters, and worked 12+ hour days on the weekends. I wouldn't pair this with anything else. Final Thoughts Implementing papers and writing reports both sound like they suck but they turn out to be huge strengths of the class. Writing the reports forces you to understand what you did. All you need to do is answer the questions posed in the latex templates without being lazy. The templates are provided, the questions to answer are there. You just type. The hardest part of the reports was editing my answer to be small enough to fit the amount of exposition they wanted. Implementing the papers was challenging because it forced me to really read them and deal with some confusing stuff I normally would gloss over. It was super rewarding in the end, though.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 5/13/2021
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 2/5 Mixed
+Review: Grade Earned : C Learned Cool Stuff : Yes The difficulty of this class was not set up to let you earn a decent letter grade but rather to get some exposure and experience to practical uses for OpenCV + Python. I work 50 hrs/wk as a SWE and was bothered the projects were not released early enough to have time to do properly. I put the same amount of effort into the Midterm and the Final Project and almost got a zero on the midterm while acing the final. A TA suggested I should drop out of OMSCS and instead join the on-campus Master's program. I failed the OMSCS Computer Vision course last semester and found it to be equal in difficulty when it comes to assignments. The only reason I passed this course this semester was because I now had more experience with the tools and course setup. All I could manage was to start projects as soon as they dropped and to understand the project whitepapers as much as possible. This course and CV gave me great exposure to concepts I would not encounter in my industry or in undergrad so I am very grateful for that. The difficulty of the course did not ruin my enjoyment of the subject but it did give me lots of stress and poor physical/mental health for the duration of the semester. Don't watch the lectures unless you have free time after doing the readings. They didn't help me except for on the final as a source for questions. I recommend you convert the lectures playlist from YouTube  into a searchable transcript since it's hundreds of short videos. If you have personal or career interest in computational photography as a subject, take this course. Otherwise, it is not worth it. Do not bundle it with other courses. To get an A, you have to focus on being perfect at coding for the midterm project and write extensive amounts for the reports on all other assignments.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 5/13/2021
+Workload: 40 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: As mentioned in the previous reviews, this is a gruelling course and ideally should not be paired with another. This course just introduces you to a topic at a high level and then you are thrown at the deep end trying to implement algorithms and understand the intuition behind it.
+The lectures are absolutely useless from my perspective and are just a basic intro.
+The TA's were more or less absent with the exception of Bob. The lab notebooks were extremely shallow to build any concepts and overall the whole course is just poorly structured and executed.
+I got a good grade by just writing absolutely redundant stuff in the reports to make it lengthy and was surprisingly rewarded for it. The final exams questions are all from the lectures so a basic review of a couple of hours will be enough to get a good score.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 5/9/2021
+Workload: 10 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: I am an MIT grad, Course 6-3 undergrad degree.  I had the opportunity to get my master’s at MIT, but I didn’t take it, because I didn’t want to do that.  I was hoping that Georgia Tech would offer a more reasonable level of challenge for me.  My first class in OMSCS did challenge me at the level I was comfortable with, but this, my second class, was more MIT-style.  In other words, this class offered me the chance once again to drink water from a firehose.  Another metaphor:  teach students to swim by tossing them in the pool and then refusing to help them out.  (Students don’t already know how to swim in that metaphor.) To be fair, the early assignments were pretty easy and hand-holdy.  However, the later assignments and especially the second project really tested me.  I was disappointed with my result in the second project, but I got an okay grade.  The second project literally had us trying to reproduce state-of-the-art results in a space of three weeks. If the instructors want to improve this class, or if you want to take my advice, learn linear programming before taking the class.  That was a significant component of the second project that they didn’t tell us we had to know.  All we had to do was do the tutorial (very easy) from CVXPY, but still, I think there should have been more signage that we had to do that. Also, I think they should have motivated pyramid blending some more.  It’s interesting to blend an image of an apple and an orange together, but why bother doing that? Bob is kind of weird but at least he’ll quickly respond to the students...one way or another. I liked the course but the irritation and stress I got over the second project and the fourth assignment downgrades my feeling to “neutral.” At one point we had to read a blurb about Marvin Minsky (famous AI guy from MIT) which cast him in a slightly negative light, which I greatly liked.  The blurb was in the course book, I believe. I put 10  hrs/week for my workload but I really didn't keep track of how much I was working on this. My strategy for the reports was just to make every report as long and as detailed as possible, and that strategy got me good grades.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 5/1/2021
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: The course is easy if your have the base knowledge about CV and Python. The assignments are easy if you read the docstring carefully. However, the projects are hard because some parts of the projects are irrelevant about what you have learned. The TAs work pretty well and give much helpful information, especially Bob. Some students may think TAs always give useless information because TAs want you to think and solve it by yourself. However, for the most of students who take this online course, they just need to be taught and they don't have much time to be creative. The most frustrating thing is the report. You need to write it as long as possible to get the high credit even though the answer is just 1-2 sentences. If you have enough time and would like to think deeply about what you have learned from the easy lectures, this course will be a good option. If you don't have much time and just want to learn without thinking deep, please avoid the course.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 4/28/2021
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: The avg workload of 15-16 hrs is inaccurate. I knew that reading the more recent reviews before I signed up. Abt me, 1st semester, no prior experience in Python. I have nothing more to add to what has already been highlighted in some recent feedback on how one needs to focus on assignments and projects as early as possible. You will learn a lot in this class and importantly you shall know there is so much more out there that is beyond this class course work. TAs care about students when we get stuck on some problem or issue, through hints. If one is expert in Python - numpy,CV etc, you can get away with less effort but again one can spend that saved time on optional reading materials. Every week, after first 2 weeks, got some deliverable or the other. There are regular office hours to go over open questions, which I believe is a must offering for every class in OMSCS (if it's not already)
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 4/12/2021
+Workload: 50 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: Learnt nothing in the course and just as a feedback point when everyone is looking at Piazza to solve doubts or to just make some progress on an assignment, it's an indicator that the course needs to be restructured. The lectures are just high level and seems the only teaching this course has is that you need to teach yourself.
+Hopefully people will stay away from this till the recent feedback is actioned.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 4/5/2021
+Workload: 80 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Taking this course now. It starts off easy enough, lots of reading and lectures though. Assignments are in the 20hr/week range. First quiz is super easy, free points. After the the first 3 assignments the project hits. Project is ambiguous, and the TA's are barely there to help. Hours sky rocket to 80hr/week. The help that is given is terrible. They ask for feedback to improve the next semester but what about this semester? Several of the students are suffering in this course right now, due to the ambiguousness of assignments. If students have to CONSTANTLY ask for help and are constantly lost, that means something is wrong. Project 2 is garbage busy work...its expected to be more lie real world work. But most of the course has been write an algorithm although the algorithm and libraries already except. Using those libraries would result in deductions or even complete failure. That is not real world. Lets touch on the tools, there is canvas, piazza, peer review, overleaf and gradescope. You do assignments and submit to gradescope. You write assignments in overleaf and submit to gradescope. Then canvas. Then peer review on peerfeedback...blah blah blah. Lots of sites and cognitive load. At the end of the day its meant to help TAs, except grades come back 4+ weeks later, and if you forget to submit somewhere or your a touch late, forget it, you lost a grade or two already. TA's want review: Make the assignments easier to execute. If thats not viable, remove the restrictions on the assignments. There is a desired output, let us achieve it however we can with all the tools we have available. I feel like I have struggled terribly and have been trying really hard to follow. People say this course is easy and that those that struggle are just whining, but that people that say that are the ones that understand what they are doing. The <10% of the class. I spend 80+hrs a week trying to understand and working hard, and that effort currently has me at a low B.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 4/4/2021
+Workload: 50 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: Background: I have decades of experience as SWE and BS in CS. This is my 4th course. This course is 50+ h/week. First 3 assignments are easy/medium. 2 Projects and 4th assignment are about reproducing results from scientific papers without any help. Extremely hard. TAs (Bob and Vicky) are not helpful. Often giving misleading clues. Don't belive everything they say. Grading was fair. Biggest takeaway: in the midterm project I was able to practice and implement dynamic programing solution. I think it will be useful for GA.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 4/1/2021
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: I'm taking the course now but in light of reading the recent reviews, just want to say that this course is not bad at all and some people just really love to complain. The reports are not bad and if it takes you 7 hours to learn how to use LaTeX to write up a report you should probably not be in the program. There are some minor issues here and there but I feel like I am learning a lot and the TAs are responsive. There are a LOT of readings and papers assigned but TBH I haven't looked at the textbook once and am still doing fine. If the material seems interesting I would say definitely take this class.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: SPRING 2021
+Date: 2/28/2021
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: First of all, the recent reviews here about the course are not incorrect. I read all of them and decided that it still seems like an interesting course where I could learn something new. Oh the folly !!
+I don't know how this course was a couple of years back but it is not worth taking in it's current format. Some context: Took this course with another one while working a full-time job (working as software dev for a while now). The video lectures are awful. Just high level content and introduction. No mathematical equations explained, no intuition of how the technique actually works, and neither any kind of code that demonstrates the code. Everything is look at the topic name in lectures and then Google the hell out of it. The TA's are very responsive but they try to slow walk you to an epiphany regarding every question. They are more intent on you stumbling upon the answer by reading over and over the cryptic clues they leave. As an online course with no human interaction endless thread are probably not conducive to engaged learning. On top of that we have the plagiarism comments, which seem a bit condescending and also since the whole course revolves around using OpenCV/numpy how many different ways are there to code what's required for assignments. Additionally sometimes the answers are exceedingly condescending/threatening although I am sure they did not mean it to sound that way. The assignments need to be designed in a better way. If everyone flocks to Piazza for clearing their doubts, it just means that the requirements were not explained properly. Then you have the tedious, mind-numbing reports. After running the code this exercise will try to eat away at 6-7 hours as you fight with LaTex and doing retrospective questions such as "What could have gone better". Open-ended and pointless. No learning comes from writing these reports and it takes the TA's an eternity to grade them (again they might be overworked but the structure of this course is the reason). The course doesn't help you learn any thing. If you are working full-time mostly you'll be scrambling to get the through the next assignment. No understanding as to how the whole thing works, because using libraries does not make you understand the subject or the maths. TL;DR: Would strongly suggest to not opt for this course unless you are willing to find the time to go through the core material and linear algebra in depth. From my perspective that's the only way to learning the building blocks of the image processing pipeline. Otherwise these projects are basically stringing together a bunch of methods from the open-source libraries and then trying to find what might work through trial and error. Do not expect too much support and prepare to waste a lot of time building reports.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: FALL 2020
+Date: 1/12/2021
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Background: BA in Computer Science and Astrophysics, minimal Python experience, tons of experience with the three Cs (C#, C++, and C), my first class in OMSCS I'm writing a review because I just took this course and in taking the course I found that a LOT of students came in believing this course would be a "breeze" course. There were lots of discussions at the end of the course about how this course didn't meet that expectation. I too was under the impression that this course would be easy and had planned on taking it with a second course - ultimately I took this course on it's own and managed to get an A (mostly from good grades on projects and assignments). As I am writing this review, the course is current marked for an average of 15.24 hrs/week work load. This, for me, was a pretty terrible estimate for how much work you'd need to put into this course to get something out of it (and for those who care, in order to get an A). A typical week in this course took me 25+ hours/week and I easily spent 30-35 hrs/week on the midterm/finals. In total, midterms and finals took a total of 60-80 hours for each one. I'm not positive why the average work load changed so much (perhaps old versions of the class were easier?) but it's reasonable to ask the question "15+/week to get what out of the course?" If I spent 15 hours/week on the course, in the end I wouldn't have gotten an A in the course, I would have maybe read 1 or 2 papers, and I wouldn't have spent nearly as much time on the open ended questions in the assignments nor would I have spent as much time as I did on the reports. IMHO, the meat of this course and where most of the learning happens is when you implement the papers and you do the research for the open ended questions. Papers and research take time. Lots of it. If you want anything less than what I described above, it's likely that you could get away with 15+ hrs/wk in this course (except perhaps the midterm and final) but don't expect to come out with an A or to have learned very much. Here's my thoughts on everything else: Assignments: The assignments are split into three parts: the first portion of the assignment requires that you implement some function that is heavily documented and is graded by an autograder, the second portion is usually some open ended research problem, and the last portion is the Latex/PowerPoint report. The first portion of the assignments very much turned into "let's fight with the autograder" to see what's up because there were often minor things that didn't make a huge difference in the output that the autograder would pick up on. I have a pretty big vendetta with the autograder at this point and I'm hoping future courses don't take advantage of autograders too much (I might not have any hair left otherwise). The open ended question was often the question that made the assignment fun for me - expect this question to be vague (things like create a "better" composite image, etc) and purposefully so. Be very careful how far down the research rabbit hole you go - the very first open ended question I worked on I ended up with 3 or 4 different solutions and I didn't like a single one of them but I had spent all my time trying to get 1 solution to work that I ultimately couldn't figure out. Make sure you leave ample time to work on the reports - they often took me 4-6 hours. Quizzes: The quizzes in this class were mostly easy. Generally you have ample time to do some research but I would heavily suggest not 'winging' it. The best way to do well on the quizzes is to do the optional labs. I unfortunately fell behind and never got the time to go back to one of the labs. Subsequently, I did very poorly on one quiz. Midterm Project: The midterm required you to take a research paper, replicate image results for the paper, and then write a thorough report. This was made additionally more difficult because we had to research our own similarity metrics (we couldn't use OpenCV libraries). Disclaimer: The report is a huge portion of the grade here. You need the code to create the report (and it does count for points) but lots of people took big hits on their report because they didn't follow the instructions to a T. If the midterm assignment says to explain results quantitatively and qualitatively for each image - do exactly that even if it means repeating yourself. There was a small video recording portion for this assignment that I thought was largely silly and should probably be removed. Final Project: The final project was similar to the midterm but required you "design your own pipeline" based on a paper. Picking a paper where you think you could achieve good results in the allotted time is a big part of the assignment. I ended up with a paper I didn't really enjoy but I did ultimately do well on the assignment. Many of the points that I made about the midterm apply here. Final Exam: The final exam was mostly easy. I didn't do great on the final but spent probably 3 days reviewing for it (not much 'hard studying'). Basically you have 1 attempt and 3 hours to complete all the questions which was super reasonable - I finished in about half that time and did well enough to get an A in the course. If you've done well on assignments and projects, I wouldn't sweat the final too much. The TAs in the course really want to be helpful and really seemed to care about students doing well although I think they tried to help students in ways that turned out not to be so helpful. The biggest problem was that most answers to questions were cryptic and didn't help students (and in some cases were left in the air with no response although that was pretty rare). I also found that Piazza being the only way to realistically communicate with TAs didn't work out very well. It's generally hard to look for posts, the tagging system was largely useless, please look into a better system! I'd also make two other amendments to this course. The first thing I'd do is I'd get rid of the quizzes and make the notebooks required and teach some of the material in them. They had a lot of interesting and useful information that could make for some interesting assignments. The second thing I'd say is to fix the abhorrent Gradescope system. Gradescope is, frankly, terrible - or at least the way they used it in this class it was terrible. Stop requiring students to turn in assignments to two places (Canvas and Gradescope) and lock old assignments on Gradescope after the due date (it should be impossible to accidently turn in current assignments into old assignments slots when the due date is past). The number of grading problems that came up after each and every assignment was borderline ridiculous. Claiming that we are in a masters program and masters students should be able to turn in assignments correctly isn't a real excuse for a poor system. In summary, this course was hard but I got a lot out of the course by putting some serious time into learning the material - although I have to admit that there are still topics in this course where I left not having a full grasp of the material. To be fair, this is an introduction course and the topic is a cross section of so many other fields that it's hard to grasp it all. I would definitely recommend this course for people just getting into their first semester but I'd recommend only taking this course (and not taking 2 courses). It's probably doable to take this course along side another course but expect to make some serious trade offs in what you take out of the course.
+
+---
+
+Course: CS-6475
+Course Name: Computational Photography
+Semester: FALL 2020
+Date: 12/16/2020
+Workload: 25 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: Background: BS in mechanical engineering, basic Python experience, and this was my first semester in OMSCS (took this along with AI4R) To preface anything negative I have to say, I ended up with almost a 97% in the class so it wasn't a bad grade that caused any dissatisfaction. "Medium" difficulty is purely because there is so much busy work involved with writing the reports, so the course is difficult in that it's a time suck. I found none of the assignments difficult with respect to the code - they practically write the code for you via the docstrings. If someone like me - with zero SWE experience - navigated NumPy and OpenCV without hiccups, I truly believe anyone with minimal experience will be fine. I didn't write what I would consider excessive reports (they were never one of the "exemplary" reports), but made sure to write enough to satisfy the TAs. I scored 100s on all except the first assignment, where I lost one point to image quality. The midterm project took me around 60-75hrs to complete - 10 of those hours (a full day) was purely dedicated to the LaTex report. The remaining ~60hrs were spread over the course of a week or so, so definitely start early. I took everything the TAs wrote in the instructions seriously - so if they said "one sentence to describe the visual differences between your results and the papers' results" I literally did it, even if it just meant stating the obvious. I somehow ended up with a 97 on the midterm despite the nightmare grading so many experienced. I'm suspicious that perhaps I slipped through the cracks simply because the TAs were dealing with such a large volume of work to grade, that they couldn't devote the same time to every paper. For the final project, I did video stabilization, which took me 5 days (~50hrs) to get working code. The subsequent days spent on the project were largely due to report writing (as usual). I think your success on the final project is really dependent on what paper you pick, so be sure to read through all the options carefully and decide on something that you think you are capable of pulling off. The quizzes increase in difficulty, and are worth just enough of your grade that you really do need to pay attention to them. The same goes for the final exam - it's worth 15% of your grade, so you can't just blow it off. Overall, the only reason why I gave this a "neutral" review is because I did learn quite a bit, and by the time I exited the course felt pretty happy with the amount of practice I'd gotten with NumPy and OpenCV. Otherwise, I highly disliked the way the class was run by the TAs and their grading scheme. Although I scored well on everything, I hate the "more is better" mentality, and felt that I walked away with a better grade than some people not necessarily because I did better or learned more, but simply because I happened to write enough to satisfy the TAs, or hit the right keywords they were looking for. Regarding the TAs - they should head over to AI4R and see what a really helpful teaching staff is like. I think my negativity is directed mostly at the head TA and a select few others, who seemed to want to make things tricky, or more difficult for students in a noble effort to "help you learn". Maybe I'm being naïve, but I'm pretty sure the vast majority of us are in this program because we want to learn. We don't need the TA to withhold answering questions clearly in an attempt to have us "discover" the answer ourselves. If anything, giving students clear information
+and direction might just invoke more useful, deep discussions. If any of the teaching staff is reading this and wants ways to improve the course: Make the assignments more challenging by toning down the handholding in the docstrings; simultaneously, the final project should have slightly more guidance from the instructors with respect to requirements/scope, or with questions students might have with the higher level math that is involved. In other words, distribute the difficulty across assignments more evenly. Then maybe you won't have so many people caught by surprise by the midterm/final. Get rid of the quizzes and final exam, or at the very least don't make these worth 20% of the grade. The notebooks are actually very nice learning tools, but the quizzes and exam (in my opinion) are not good evaluations for learning. The bulk of learning came from actually coding up the assignments, not from being asked about some detail from a research paper that you would just google and parse for quickly. Either get rid of the video requirement for the midterm, or at least give some structure to what is expected to be covered in it. I think it's ridiculous that people lost points on this when it was so open-ended. Have a grading rubric for the students to follow. I got off lucky, but the number of people complaining about this makes it VERY obvious that this is a problem. Especially with respect to the midterm. TAs: please stop with the cryptic answers. It's not helping anyone. There are times for ambiguity, but you guys almost never got that timing down right. To summarize, I have a love-hate relationship with this course. I thought the content was pretty good, and actually very interesting at times. The teaching staff really dragged down the experience. If they do an overhaul on how the TAs run the course, then I think this could be a good class.

@@ -1,0 +1,220 @@
+# OMSHub Reviews: CS-6035 - Introduction to Information Security
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2025
+Date: 4/17/2025
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Really enjoyable class. I've never done CTF-style problems before, and this course covers a LOT of many different vectors for attacks. I have never worked with C, Assembly, or machine learning in Python before, so I had to learn quickly, but it never felt truly overwhelming. I gotta agree with the other review here, Machine Learning being only one week seems like a mistake. It took me more time than any other assignment, mostly on the sheer amount of coding, and also the somewhat subjective parts of the assignment (can't go into specifics). That particular projects workload felt overly much, especially compared to Cryptography, for which we were given two weeks, but I was able to complete in 3-4 days. Some assignments were tough, but the EdStem discussion board provided a ton of great guidance. All that said, if you are the type of person that loves puzzles, cracking codes, and learning about new, complex systems, I highly recommend this course. This is a course for folks who love complex board games, video games like Portal or Baba is You, and are extremely curious and can think laterally.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2025
+Date: 3/30/2025
+Workload: 30 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: I just finished my 8th project in IIS, which was my final project. There were 9 projects this semester but if you get 100% on the first 8 projects, the 9th does not matter because you have an A in the class, even without a submission attempt for project 9. I took this class because I am working on a CS master's but I also plan on pursuing Georgia Tech's MS in Cybersecurity and this class satisfies a requirement for both programs. I felt that 9 projects, of the scope of these projects, in one semester was unreasonable. I loved every project in this course but there were too many of them. The machine learning project was 1 week long, which felt insane. The TAs are excellent, the projects are fun and interesting but they just crammed too much content into one course. I strongly recommend taking this course by itself. No individual task is too difficult but this class is an avalanche of projects.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: FALL 2024
+Date: 12/18/2024
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: I achieved an A in the class but it tested me with its fast paced week to week change in topic of projects. Some weeks we're a breeze given my background as a devops/ swe eng but some weeks we're a brutal slog. I wouldn't say its hard to get an A in this class but its no cakewalk like some reviews make it seem. The material is pretty interesting I liked the CTF style of the class. I think more so than anything else this class teaches you how to learn new concepts quickly. Overall I'm not sure I learned a ton about true information security but I definitely learned a lot of new tech. If you like puzzle solving and have any interest in cybersecurity I'd say take this class.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: FALL 2024
+Date: 12/9/2024
+Workload: 33 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: I kept track of all the hours I put in. I started the clock as soon as I sat down at my desk, the time is inclusive of everything (setting up VM's, reading project docs, research, office hours). I ended the course with an A and roughly 442 hours put in. For background, my undergrad is CS, I have a full time full stack coding bootcamp under my belt, and have been a full time SWE for several years. Everything you learn in this course is self taught, google is your friend, there is a lot of guesswork with most of the CTF's. I don't have a cyber background, I enjoyed the course. Project Dates Hours Man in the middle 08/23 - 09/01 47h Machine Learning 09/01 - 09/15 100h API security 09/15 - 09/22 17.5h Log4Shell 09/22 - 10/06 37h Malware Analysis 10/06 - 10/13 32h Cryptology 10/13 - 10/27 57h Database Security 10/27 - 11/06 51h Binary Exploitation 11/03 - 11/17 83h Web Security 11/17 - 11/24 17.5h
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: FALL 2024
+Date: 12/6/2024
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: Honestly there was nothing "Introductory" about this course. Every assignment was in a completely different field of study and the assignments did not build upon each other AT ALL. The lack of cohesion on this course made it very difficult to bring myself up to speed and actually learn the information in a way that would help me outside of this class. I definitely could see that a lot of effort was put by the professors into creating the CTF's within the projects, but 0 effort in teaching the information. Some of the assignments were easier than others where some weeks I would spend 10 hours and then the next I would spend 100+ hours trying to figure out what specific syntax the grader wanted (even though most times it would still solve the problem). The lectures BARELY covered the information in the course and didn't help with the technical implementation at all. Most of the time it would give a very high-level idea of what you needed and wouldn't help at all with the technical implementation. I come from a pure Computer science background and have never used tools such as GDB and malware analysis tools and was hoping this course would give me some insight. I think this course would much better be placed as a follow on of a basic cyber computing course. I enjoyed the Machine learning assignment (only real programming one) and the Wireshark assignment but otherwise was pretty disappointed with the lack of instruction. I think if there was better introductory information on each topic it would be much better. I could see how some people would like the CTF nature of the course, but it definitely put the burden heavily on the student to self-teach. If you have a lot of experience with pen-testing I would say that this course is for you. But if you are looking for an intro course, I would definitely not suggest this one at all (maybe as a follow on). I still secured the A however it was at the cost of my social life and life outside of my office this semester.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SUMMER 2023
+Date: 6/28/2024
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Video version: https://youtu.be/Fq9B3s6guIY This is a fun, project-based course. Your grade in this class is made up exclusively of the projects. I took the class in the summer—there were 7 projects (one was extra credit). In a normal semester (fall/spring), there are 8. For the most part, projects are in a fun "capture the flag" style that is common in security challenges. My favorite project was Log4shell and least favorite was Malware Analysis. Each project is run by a different TA, and they normally supplemental materials and video walkthroughs. That being said, some TAs are more helpful than others. For the most part, expect that you will be interacting with other students more than TAs in the forums. While lectures for this class are actually quite good--and the open source textbook has many great resources for students looking to dive deeper into particular topics, something all OMSCS courses should adopt--they are almost completely unrelated to the projects. The Cryptography project description recommended watching the RSA lecture, but other than that the lectures weren't mentioned at all. This was exacerbated due to the fact that there are no exams, so the lectures were completely unnecessary when it came to your grade. This class is a good introduction into the field of InfoSec and is easy-medium difficulty depending on your background. If you come into this class expecting a (mostly) fun set of security challenges with a solid collection of lectures and supplemental material, you won't be disappointed. Just don't expect too much support from the instructional staff.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SUMMER 2023
+Date: 8/16/2023
+Workload: 7 hrs/week
+Difficulty: 2/5 Easy
+Overall: 2/5 Mixed
+Review: Read my full review in a separate post. Thanks https://the11d.wordpress.com/2023/08/15/my-thoughts-on-iis-omscs-review-2/
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: FALL 2022
+Date: 5/5/2023
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 4/5 Loved it
+Review: My review doesn't have much to add - I'll double down on the person in Fall 2022 who reviewed each project. My experience was very similar. The C project took a lot of time but I enjoyed it a lot, I can see how folks get into CTF contests. It was interesting to learn about some of these topics, I don't plan to become a cybersecurity professional but I do feel it's good to have a decent understanding of each of the items covered. Agree my least favorite was the ML on CLaMP and that was the only one I didn't get an A, but I didn't try that hard for it. I got an A in the course and didn't spend much time. If you want a low effort class and want to get familiar with various cybersecurity topics I enjoyed the course.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2023
+Date: 4/10/2023
+Workload: 6 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: Wow. What a class. Took this alongside GIOS for my first semester in OMSCS and the quality of the courses couldn't be more different. This class has been a massive source of frustration and a waste of time, and I have not gained any meaningful knowledge out of it. My main griefs with the courses: 1. Two weeks per project, no information released beforehand. For some reason the TAs don't want to release information about projects ahead of time, even if students want to prepare (rightfully so) and gain background knowledge on the subject matter if they're missing it. This leads to possibly learning entire new skills and technologies all while trying to solve the projects. We all know cramming does not lead to any meaningful knowledge retention, and by the time the next project has released I've already forgetting everything I did. (TAs even threw out quotes like "this is basic ML this should be easy" when students were asked to fit and score models despite this being a cybersecurity course) 2. Extremely questionable quality of most of the projects. This has been the most disappointing for me. This is a top institution that is supposed to have rigorous courses, yet I have been served content of similar quality at online community colleges such as Oakton. This is not a compliment. Many projects had "resources" that consisted of a schizophrenic list of web page links (think medium blog posts) that were vaguely related to the subject but very rarely of any direct help. It truly feels like the TAs who make these projects rely on what they already know (usually being subject matter experts or people passionate about the subject), and then as an afterthought look for "acceptable" resources. 3. Threats of plagiarism and difficulty by obscurity TAs throughout the course loved reminding students that all code should be their own, one project even going so far as to forcing you to write your own code and only reference pseudo-code (even for basic algorithms like square-root or next prime number). It's obvious why this is the case, when most of the projects were solved by using boilerplate code with very little room for personal code style. While most of the TAs were very active, they were NOT very helpful. Since the projects are so surface level, the slightest bit of help could lead a student to an answer and this is apparently not wanted so all answers were given in the form of obscure riddles. A frequent occurrence in these projects was being mislead by vague instructions and being sent down a rabbit hole.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: FALL 2022
+Date: 1/11/2023
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 5/5 Loved it
+Review: Background I am a fresh graduate coming into IIS with no C experience (some Python, Java, JS which was helpful for some projects). It was my first semester and I paired it up with GIOS. Review It was the first semester when IIS transitioned to purely projects based, with 7 projects across different security topics. The first project had extra credit and it was the only project which I found to be challenging. The other projects were not straightforward, but were relatively easier and still felt rewarding when completed. IIS is a great survey module, and the responsive TAs helped with any queries on Slack and Ed. The content was interesting and informative about how some of the vulnerabilities work. Grade I ended the semester with a 99% and got an A. The extra credit helped, as I dropped some marks on the quizzes and submissions that were manually graded. Most of the submissions were sent to an auto-grader which lets you know your score and you can keep retrying if your answer is wrong.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: FALL 2022
+Date: 1/4/2023
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Background As of course start, I had around 1.5-going-on-2 years of experience working as a professional software engineer, specifically doing web applications (full-stack React + .NET & Node.js). My previous degree was in Engineering (non-CE/non-EE) from early 2010s. Prior to this course, I took CS 6200 (GIOS) in Fall 2021. I am in the computing systems track of OMSCS. Logistics As of Fall 2022, the course format was changed , such that 100% of the grade is comprised of 7 projects, with no formal quizzes or exams involved. Accordingly, there was no assigned course textbook, and the lectures were not required watching (i.e., de facto "deprecated," though still available for reference). Each project is completed in a two-week window, and are not released in advance. Regarding the subject matter and technologies involved, the projects can be summarized as follows: Project Directly used in assignment Interacted with via provided app, backend, etc. Submission Uses VM?* CTF Python via pwntools library C, x86 (disassembled compiled C programs) JSON file containing student-unique generated hashes Y log4shell Java, cURL (or equivalent, e.g., Postman) REST API endpoints JSON file containing student-unique generated hashes Y malware analysis ( part 1 ) reading Joe Sandbox logs; ( part 2 ) config file for malheur (Python-based malware library, but no Python programming involved here) training & testing sets, and corresponding malheur command-line interface ( part 1 ) quiz questions; ( part 2 ) config file Y ML on CLAMP Python via numpy and scikit-learn (Jupyter notebook provided as Google colab, or alternatively can download and use locally) training & testing sets ( part 1 ) Jupyter notebook; ( part 2 ) quiz questions on scikit-learn and ML concepts N RSA Python (boilerplate/starter files and local unit tests provided) N/A JSON file containing student-unique generated hashes N main-in-the-middle Wireshark for packets analysis static PCAP file provided for analysis N/A N Web security HTML & JS PHP (generates sites, and examined/analyzed for vulnerabilities) HTML source files Y * Note : If VM is required/ Y , you must have an x86 machine available. The underlying VM technology generally does not support Apple Silicon (M1) / ARM chips currently as of this writing. Slack and Ed are helpful for discussing and getting unblocked, and will likely be your main resources for this purpose. My final grade was around 94% (A). The course uses a 10-point scale / no curving (i.e., 90-100% A, 80-89.9999% B, etc.). Overall Pretty solid course overall. It's a useful introduction to a broad array of tools and skills which will be handy in other courses. Workload-wise, there was considerable variation in the requirements across the projects, which is heavily dependent on your particular background going into the course. In my case, I was relatively lacking in the ML area, so malware analysis part 2 (dealing with malheur ) and ML on CLAMP were particularly uninspiring to me, but I do still see the relevance here, in terms of using ML techniques to detect malware, so objectively speaking it is sensible to include these in the course (at least in my own opinion), despite both being relatively "critically panned" based on discussions, comments, and such. Workload-wise, I didn't track hours exactly, so an average of 10 hr/wk is a rough estimate for me. For an "average" student like me, most likely some projects will be easy, some will be medium, and some will be challenging. Accordingly, for a few I was done within the first few days of release and essentially "free" for the remaining 1-1.5 weeks, but for others it took me nearly the full 2 weeks to complete. I generally recommend to start early and often either way (i.e., better to finish early than late). With the caveat that my particular background is in web apps and also having familiarity with C and assembly from prior coursework, on a per-project basis, for me personally these worked out roughly as follows: CTF ( hard ) - this one took me the full two weeks, mostly from the various sub-parts involved, and getting familiar with using pwntools , but very interesting/rewarding project to complete log4shell ( easy ) - there were a few tricky parts, but since I was familiar with REST APIs going in, I finished this one relatively quickly within the first week malware analysis ( med ) - the reports analysis was a bit tedious, and the malheur config took some trial and error, but otherwise this one was more "busy" than "hard" per se, and took me about 1 week to wrap up ML on CLAMP ( med / hard ) - this one was my least favorite (but I'm biased here, being least familiar with ML of all of the prereq/background knowledge), and felt a bit tedious, especially the part 2 quiz component regarding scikit-learn & ML, but otherwise the boilerplate is set up pretty straightforwardly, and the project TA gave enough starting instructions to get up to at least 60% on the Jupyter notebook reasonably simply; I spent about 1.5 weeks on this, but ended up quitting after a certain point of progress, and this was my lowest project grade accordingly (the only one I scored below 80% on) RSA ( med ) - this one was fun for me, it was nice to get better acquainted with RSA and cryptography concepts, as well as doing implementations; this one took me about 1.5 weeks, as the later parts had some "trickiness" to figure out properly MITM ( easy ) - this one was very easy for me, I was able to finish it the same day as release; I had no prior experience with Wireshark but was familiar with the subject matter from my web background, so this mainly just involved filtering the packets to drill down to the specific answers buried in the PCAP file Web security ( easy / med ) - this one was pretty much my wheelhouse being a web app developer myself, so I was able to finish this one relatively quickly within the first 3-4 days of release, but the last couple of exploits/attacks were fairly tricky, and I can definitely see how someone who is less familiar with this subject matter could struggle with this project (as was evident in Slack and Ed accordingly) For reference, I generally worked around 2-3 hrs/day in the evenings on workdays, and around 5-10 hrs per weekend, for rough benchmarking relatively to the "full 2 weeks" completion period. Of all the projects, for me, CTF was the only one that required consistent work through the full two weeks and both weekends, otherwise for the others I averaged somewhere around 4-6 days worth of work at this pace. My main critique of the course is that I wish the lectures were still incorporated somehow. I watched a few of the first ones in the beginning, but stopped since they were not directly relevant to the projects. But the subject matter of the videos is still useful, and I even earmarked a few to review later when I have the time to go back and watch. I think adding a 5-10% grade component (e.g., mini-quizzes, or equivalent) to incentivize covering the lectures would still be sensible here from a pedagogical standpoint, in terms of learning the core subject matter of information security (i.e., terminology, concepts, etc.).
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 5/2/2022
+Workload: 4 hrs/week
+Difficulty: 1/5 Easy
+Overall: 4/5 Loved it
+Review: My background: 6 years working in tech, CS undergrad w/ math minor, lots of hobbyist experience with networking and Linux. This was my first OMSCS course and a good course overall. The projects were interesting even if some of the writeups were a bit unclear in their instructions. Some of the quizzes and exam questions were confusingly worded and seemed to be designed to confuse rather than evaluate but if you read the chapters for each assessment you shouldn't have a hard time scoring >80% on them. My previous experience certainly helped with the projects but the resources to figure them out are out there. The TAs were a huge help on Slack and on Ed. My advice if you're considering this course is to get started on each project as soon as it opens and attend or watch the recorded office hours. Keep an eye out on Ed and Slack for any clarifications from TAs and you should be able to get an A in this course.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 4/29/2022
+Workload: 10 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Decent course, learned a decent amount. I think that this course wasn't particularly hard, however some of the mathematical concepts are a bit hard compared to other "easy" courses. Also there's a lot of info in this course because it is a general introduction to information security. The projects are generally well thought out and I learned a lot from them. Project 3 was the most difficult in my opinion, but again I learned a lot. All of the projects take a bit of time, but none of them are crazy difficult. No major issues for this class, but I will say that the class covers a large breadth of information considering it's an intro class. That can make studying for exams a bit more difficult. Good experience all around, I would recommend it especially for people who know nothing about IS, like myself.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 4/24/2022
+Workload: 11 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: Took this class having prior work experience and classroom experience in cyber looking to ease my way into OMSCS. Felt like they did a really good job with the projects and covering multiple topics. TA's were great and active on Ed and Slack which was helpful. Overall I enjoyed the class. It seems there were a vocal group of individuals who felt certain changes/questions were confusing but if you just pay attention to the Ed board and leverage the textbook you should be good. I'd recommend this class!
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 4/23/2022
+Workload: 8 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Overall I enjoyed the course, which covers Computing Security issues from C stack overflows all the way up to website XSS and CSRF attacks. Textbook was published in 2017 and it shows; it talks about things like IoT and ECDSA cryptography as "new", and still talks about RC4 as a valid cipherset. Lectures were clear to understand and very visually oriented. The assignments were varied and challenging. The TAs and IAs that I engaged with were helpful, especially if you were asking something that wasn't actually in the syllabus (pro tip: it probably is in there..). I freaked myself out on learning Python before the course, and you do need that, but a good understanding of Javascript is a really good idea too. I set 8 hours of work/week, but as others have said it varies depending on the project going on at the time. I barely looked at the book or the lectures during Project 4, which was probably a mistake. You will need a way to run virtual machines somehow in order to complete this course. My windows based laptop was fine running virtual box; M1-based Mac users had a bad time, anecdotally.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 4/22/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: I thought the assignments were interesting. The text book could be quite dry, although it's worth reading. The lectures are pretty high-level and you won't understand things deeply (e.g., encryption) unless you read the textbook a couple of times. The material on cryptography and web security were the best parts. Although this course has a reputation for being pretty easy, I found it was a bit tougher than advertised. I had to put in a fair number of hours to complete the assignments, particularly #4 (note that I rated the workload at 10 hrs/week, but that's because I put in a lot of hours when an assignment was due, and did little work some other weeks). I think if you've done web development, you would find project #4 easy, but Javascript was new to me so I had to learn that on the fly. Note, also, that the assignments are sometimes puzzles that you need to solve. So while you may put in some hours to complete a SQL injection attack, it's possible that you won't figure it out. I got close to 100% on all assignments, so I'm not saying it's that difficult, but it took me a while to solve some of the tasks and I could imagine running out of time and just settling for a lower score.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 4/22/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: I lost major portion of my marks in reports and exams. Lectures and textbook are dry. Rote memorization is required for exams which I hate. There are projects where we have to do guesswork. I disliked this course because no matter how much effort you put in, it is not easy to get an A. For reports marks are reduced for little little things. Learned something about security but it wasn't worth it. I will not recommend this course.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 4/22/2022
+Workload: 9 hrs/week
+Difficulty: 3/5 Medium
+Overall: 2/5 Mixed
+Review: I took this class after GIOS and together with HPCA. Strategy when taking as a second course (minimal effort): Do great on the projects. It is doable but involves some frustration. Also, be detailed in the writeup + include some references to avoid losing easy points. I found project 1 well described and I consider this the most fun project. Project 2 is extremely wired. 90% of the grade are just grepping through some malware report files for keywords (took me like 2.5 hours total, but I heard others spent way more?). Tipp: do not overthink + read the posts in Ed. The frustrating part is that the 10% rest of the grade is 90% of the work. It's reading a fairly complicated machine learning paper (for someone without any machine learning background) and mindlessly tuning the parameters of a malware analysis tool until it gives you the right numbers. In addition, you have to write a lengthy report answering questions on the paper + how you tuned the tool's parameters. Again, do not overthink it, I did not give them a reason, but just in detail described the random parameters I tuned until it worked (idk why it worked at all). If you feel lazy, only do the first part. Project 3 was by far the hardest. For me with little math background, understanding the math behind RSA was not trivial. You really need to understand the math in order to come up with the programmatic solutions, as you need to implement mathematical algorithms to solve the tasks. Took 1 - 2 days for the math + > 15 hours for the programming part. Project 4 was not too bad, but you won't learn anything useful if you have seen JS, PHP + HTML before. Much easier for me than Project 3, but can be tricky. Do not study for the quizzes. I did that once and regretted it. You have an hour - all solutions are word for word in the textbook or you can use google. For the midterm, only use the lectures  + knowledge from the projects to study. Knowing the details from the book was a waste of time (that's why I did not touch it anymore). I read the papers in detail and that was also unnecessary. The final counts also just 5% and has again a ridiculous amount of theory (based on the book chapters) that makes it not justifiable to study for. I did not study any theory since the midterm and do not have to take the final exam as it does not change my grade (nice, so much time saved). Overall, the theory was extremely dry. It is so dry that I had a hard time motivating myself to study for it.
+The only useful theory for me was obtained from projects 1 and 3. I got an A due to scoring well on projects and knowing how to use CTRF+F and google during the quizzes.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: SPRING 2022
+Date: 4/20/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: My Background This was my first semester in the OMSCS program. I am a software engineer with ~2 years of experience. Pros Great to take as a first course in the program. The TAs are supportive and accommodating, especially for folks who are new to the program. The course content is quite diverse, with a range of topics being covered during the semester. You will get a good idea about a lot of topics, which are relevant in today's world. A huge positive is the emphasis on projects that make up nearly the entire grade (80%), whereas the exams contribute only 10% to the final grade. The quizzes are open book & open internet, and fair in terms of the questions asked. The projects are well structured by and large, and for the most part, completing a project successfully leaves you feeling like you've learned something cool. None of the projects are extremely difficult, and putting in a decent amount of effort can secure you a B at the minimum. Evaluations are fair and regrade requests are made available. Cons Lectures and the textbook can be a bit dry. Project 2 on Malware Analysis feels like it moves off on a tangent, and instead of potentially learning something cool about the topic, you are focusing on other aspects just to make sure the grade does not take a hit. Furthermore, there was a lot of confusion regarding some of the instructions that seemed to affect a fair share of students. Tips Stay ahead of the deadlines and start early on the projects, especially if you don't have the pre-requisite knowledge when it comes to basic computer science concepts (not a CS undergrad basically). As long as you put in some amount of work regularly, you can coast through the course and do well. (I was able to travel a couple of times during the semester). The office hours are recorded and are a good reference when stuck on something during a project. Questions are generally received positively on the Ed platform, and the TAs do their level best to help within their constraints.
+
+---
+
+Course: CS-6035
+Course Name: Introduction to Information Security
+Semester: FALL 2021
+Date: 4/17/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: This was my first class ever so I think it was hard adjusting which is why I am putting medium difficulty. This semester they decided to try accelerate the course and finish a month early to see if there was room for a 5th project. This made it very stressful. The projects were not very clear to me what was needed which made things difficult. The projects also kind of felt like I would either fail if I didn't totally get it or get 100 if I did. This makes things easy to grade but I was always really stressed out while trying to figure out what I needed to do. Overall I think the class was graded fairly. The TA's weren't the nicest. I got an A but writing this review a semester later I am not sure how much I actually ended up taking from the class.

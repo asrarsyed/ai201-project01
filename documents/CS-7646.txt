@@ -1,0 +1,237 @@
+# OMSHub Reviews: CS-7646 - Machine Learning for Trading
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2026
+Date: 5/19/2026
+Workload: 16 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Good class! Lectures were a bit outdated but very good! TAs and staff are very responsive! The exams were tricky; we had two midterms but definitively doable if you study. The class is composed of two midterms, 8 projects, quizzes and surverys. Majority of the grade came from the projects, and they were the most fun! Some projects had a writing component to them on top of code. The project were interesting, and they range from portfolio value simulation to reinforcement learning to decision trees to having project 8 combine all of this. Definitely recommend working ahead on the projects especially project 6 (technical indicators), project 3 where you had to implement decision tree from scratch, and project 8 that involved a lot of fine tuning! This was my first class in the program, I have a MS in biomedical engineering, no CS experience but very comfortable in Python and have taken ML courses in coursera before. Also, go to TA office hours; they were definitively worth it!
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: FALL 2023
+Date: 12/17/2024
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: The course covers the topic really well. And the lecture video is some of the best. The professor was an expert in the field and the textbook is authored by the professor himself. I enjoyed the course. The workload in moderate to easy. I took the course as my first course. The assignments might be a few hours of effort if you have prior knowledge of python. There was regular OH and round table discussion making this course very interactive.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SUMMER 2024
+Date: 8/21/2024
+Workload: 12 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: I was really looking forward to this class after all the positive reviews on Reddit and OMSHub but I have to say it fell slightly short of my expectations. I'll start with what I enjoyed about the class: The class is very well structured. Expectations are very clear for assignments, readings, finals, etc. There is no guesswork at all involved in this course, no unclear assignments with vague rubrics which is a breath of fresh air. You learn actual finance in this course as well although it is very basic. It provides a decent overview of ML. The cons: Sometimes assignments are so pedantic it can be very annoying. I'm talking when you write your reports you are sometimes told what color lines your charts need to be. I think that level of specificity is useless and just a waist of time. There is A LOT of reading. Way too much reading I think. We had like 5 different textbooks that we used throughout the class. All of them were free but it was a pain remembering where you read what and going through all of the readings for the exams which brings me to my next point. The exams are very disconnected from the assignments. I feel like you could do the entire class without doing the readings at all. The only time they really help are during exams. Also the exam questions are very specific and in the format where you need to select all that apply so I found it actually very hard to get a good grade. I studied for a while and did all the readings and only ended up with B's on the midterm and final. Feedback takes weeks if not months. You barely receive any feedback on your assignments until well into the semester. One last thing to note, a lot of old reviews talk about the format of the midterm being quick with 110 questions graded out of 100. Since summer semester that is no longer the case . This semester we had 90 minutes to complete the exam and we were scored out of 110 instead of 100. IMO I did not need the extra time (I finished in around 60 minutes) but I would've loved the extra 10 points of extra credit. Also if you do plan on taking this during summer there is no extra credit opportunity like in the other semesters. This double whammy seems very unfair to those who took the class this semester but that's life I guess. In summer you have a new assignment every week. It is all doable but you need to start assignment 8 early if you can. Overall I probably spent 10 - 15 hours a week including lectures, readings, coding and writing.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: FALL 2023
+Date: 12/15/2023
+Workload: 16 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: I took this my first semester along with GIOS. The course content is generally interesting, and I would consider this a good survey course. While I got an A in the class, I personally wasn’t a big fan of how it was run. I have python experience but no numPy, pandas or data analysis background. If you do all the work, I think you will likely get an A, but the projects are non-trivial. The reports also take a while to write. How to do well:
+• This is a rule following class, for the projects pay close attention to the details. Buy a ream of paper, print out the project requirements and read through them 2x with a highlighter.
+• When you write reports don’t worry about anything other than fulfilling requirements. Don’t make a ‘good’ report, make a report that checks all the boxes.
+• Look at student charts on Ed. I found some mistakes in how I formatted my charts through this (again rule following class). Also read through questions, I was able to figure out an edge case would have missed in final submission if not.
+• Exams are a wild card, questions reflect readings more than projects or lecture videos and too me were very nit-picky. I think the strategy to get an A with minimum effort is to do very well on the projects and YOLO the exams.
+• For the Q-Learner project, performance optimize like crazy, it will help for final project.
+• For MarketSim, also helps to have a reasonably fast implementation for final project. Things I didn’t like:
+• I though the TAs on Ed generally did a poor job answering questions and did not give straightforward answers to simple questions (like what file should produce x chart). They answer questions like politicians. My guess is they don’t know what the auto-grader checks and don’t want to be on the hook if they give the wrong answer, so you get an intentionally vague answer.
+• I thought the projects were over-specified, turning what would be fun projects into slogs. 20+ page specifications were common, that sometimes even dictated the color of lines in a graph. Also, for some portions there were more possible points to lose than gain.
+• The quality of the videos in the second half of the class really declined. I understand there were technical difficulties 8 years ago, bus surely new content could be produced.
+• You have something due every week. Whether it be a quiz on reading or an assignment.
+• It was always such a struggle to fit reports into the minimum page requirements of the template. I found myself having to write the minimum possible and still fighting to meet requirements. The required word template for this class is pretty bad IMO. If you have LATEX experience, I might recommend perusing that route. Closing Thoughts:
+I learned from this class while I’m interested in ML, it’s not something I’m interested in pursuing career-wise.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2023
+Date: 10/27/2023
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: interesting content lecture videos are not boring responsive teaching staff enthusiastic course mates
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: FALL 2021
+Date: 9/7/2023
+Workload: 5 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: This class was great, I go over every detail (in 5 mins or less) in this YouTube video! https://youtu.be/lFupZlo2pnw Enjoy!
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2023
+Date: 8/7/2023
+Workload: 5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: The general perception of this class is fairly accurate, but I think what is not mentioned is how much farther you can take the content if you want to. I didn’t do the readings and got an A. Exams are MC, straightforward, and weighted relatively lightly. I rate difficulty as easy when in reality the difficulty could be harder if you set yourself to a higher standard. The first week or two feels like an introduction to python/pandas/numpy, but after that the class is 50/50 between trading and introductory ML. the TAs (who predominantly run the class) are responsive in forums, provide clarity in office hours, and encourage discussion and deeper analysis whenever possible. As someone who does not want to pursue ML, I took this class because I thought it would be a nice introduction to it (in addition to being interested in investing). The content was really interesting. My biggest gripes were that I do not like writing reports (which is what I spent the most time on) and (and the reason for the lower overall rating) it took a while to get feedback on assignments (this improved after the middle of the semester, but we still waited on ~50% of our total grade until then). Follow up regrade requests also took a while to address.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2023
+Date: 6/9/2023
+Workload: 12.1 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: The full review can be found on this link .
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2023
+Date: 5/4/2023
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This was my second course after IIS and I enjoyed this course. As someone with no ML background entering the program with the hope of getting a solid ML foundation it was a nice introduction to ML concepts. I have not yet taken the ML courses with tougher reviews (ML / DL / AI etc), but I suspect this was a nice introduction to those concepts. I feel I have a pretty good understanding of decision trees and linear regression, and surface level understanding of supervised learning in general. It was also cool to learn about RL and Q learning. I will be getting an A and while I was never stressed about my grade, the course was far more time consuming than I anticipated based on the reviews. Coming out of this course I feel I: Gained a solid foundational understanding of some key ML concepts. I suspect it is not tremendously deep knowledge but I could sound intelligent in a conversation. Learned about stock indicators which was interesting but I don't feel will ever give me much value. I definitely plan to keep investing in index funds after this course. Went from medium to expert python ability. I thought the course was interesting overall, the con I would say is I feel like the ratio of time I put in to the amount I learned is a bit off kilter. I suppose maybe an additional benefit was getting back into the groove of writing reports, it's not my favorite but I feel probably mentally ready to take ML which I know is very report based. I would recommend this course to anyone who is in another specialization but wants to dabble in some ML knowledge without going for the more difficult ML courses, or anyone pursuing the ML specialty with no ML background. I also thought it was easy to get an A if you put the time in, but I would not recommend it as a "light load" course. As an aside I thought the teaching staff was exceptional and clearly passionate on the topics and course delivery.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 8/23/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Overall a very good course that will help improve your Python skills, teach basic concepts in machine learning (mostly tree-based methods and Q-learning) and stock trading. It does not go deep in anything in particular, but all the concepts presented are well explained and properly tested. The curated video lessons are some of the best I've experienced in the program so far: very clear, high quality and not unnecessarily long. (This is with the exception of a few "extra" videos that were recorded years ago from a laptop camera and can be good like the ones in class or awful like the one where Prof. Balch is sitting in the garden with a shitty connection and half the video is intelligible). The projects can look convoluted and a bit daunting at first, but they are actually made to test the concepts proposed in class and they walk well the line the makes them difficult enough to be rewarding but not impossible. It is very well organized, and the projects/exams are well spaced throughout the semester. The only downside of this course is the high reliance on excruciatingly precise written reports, with a few dozens of small tiny requirements, each of which can cut significantly into your grade. At times it felt like walking though a minefield, where forgetting to add one sentence or an axis legend in a plot could cost 10% of your grade, despite you having fully done the work and internalized the concepts, which should be the main purpose. I understand that writing clear reports is part of the required skills, and I also appreciate the need for a specific format to make things easier to grade, but some projects are quite large and with many many tiny details, I think attempting to be less anal about the reports could make for a better experience.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 5/8/2022
+Workload: 18 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: I have been working in the investment banking industry for the past 15 years as a quant and therefore I enrolled in the course with a lot of anticipation. While I liked the overall course and the breadth it offers, I was a bit underwhelmed with the learning outcome. Most of the course is dedicated to building the basics of data science and finance and only in the last few weeks do the things get serious. For a graduate level course too much time is spent on things which should be prerequisite. Having said that, I really liked Professor Balch's lecture videos and had more than a few 'aha' moments pertaining to building trading strategies (particularly pertaining to market microstructure/order book and HFT related sections). Advise for prospective students - Start on the final project early as it is worth 20% of the grade. They would dangle the extra credit project just before the final project but that's a bait. It is an addictive assignment where you are trying to beat a baseline trading strategy but coming up with profitable strategy is no joke and takes years of experience. If your strategy does not beat the benchmark in a number of scenarios you will get 0 while wasting valuable time which should have been spent on the final project.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 5/6/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: Pros:
+All projects are easy. Project 6 and 8 are tricky but you can finish them if you start early.
+Project report grading is not bad, better than KBAI.
+Lecture videos are engaging and TAs on Ed are actives.
+Exam is easy, similar to the sample questions. Cons:
+Lecture is too short. Learned something but not too much.
+Knowledge related to machine learning is too fundamental.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 5/3/2022
+Workload: 8 hrs/week
+Difficulty: 2/5 Easy
+Overall: 5/5 Loved it
+Review: I really enjoyed this course. This was my first OMSCS course, and I felt like it was fairly easy (for an MS CS course). I did have a fair amount of self-taught coding experience in Python, which made the projects less time-consuming. Learning NumPy and Pandas up front will really save you time. (I did not have experience with either, so things went slower at times). As someone from a non-finance background, I felt that the content was interesting as well. If you're looking for more challenging content, you know to take the other ML courses or distributed computing or AOP, so don't complain that the course is too easy. I get why people are annoyed about the minutiae in the project assignment descriptions. It is annoying for sure. That being said, the annoyingly detailed and lengthy instructions are, I believe, a decent way to make the course scalable, while keeping our tuition accessible. First, it is an attempt to force the hordes of ignorant students that don't ever read the instructions and ask ridiculous questions in the discussion forums to not do ridiculous things on their assignments. I'm sure that if they didn't put heavy penalties on certain requirements (e.g. not printing things to the console or not generating charts live), students would repeatedly ignore instructions and make things unnecessarily difficult for the TAs. It also makes the grading easier. TAs don't have to read our work as carefully- they basically just go through the rubric and check off things to make sure we've included them in our work. In an ideal world, the TAs would look over our work more carefully and give us feedback on the merits of our work rather than by a contrived rubric, but that would drive up the cost of tuition. On the upside, if you do spend the time to follow the instructions to a T, you're pretty much guaranteed a good grade. There's no guessing as to whether a TA will give you a good or bad grade based on a whim. Just follow the instructions/rubrics, make sure you've hit everything, and you should be good to go.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: 
+Date: 5/2/2022
+Workload: 100 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: I've seen things you people wouldn't believe. [laughs] Attack ships on fire off the shoulder of Orion. I watched c-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like [coughs] tears in rain. Time to die.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 12 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: Honestly this class took me more time than I was expecting. While I would not say that this is a difficult class, I would caution anyone taking it that it can be a time-consuming class. At the end of the semester, I have this nagging feeling that I really did not learn that much considering the time I put into the course. You could make the argument you get what you put into it.. but if that were the case I would say take a better organized class and you can gain all of the learning you would from this class from self study without the headache of parsing these assignments. Assignments can arbitrarily difficult and force you to spend hours understanding assignments and making sure you follow all criteria. In my experience the time spent on these assignments was not worth the actual knowledge I gained from completing them. In addition, the time each assignment takes can vary extensively. I finished the first two assignments in about 4-8 hours while I was blindsided on assignment 3 and spent around 15-20 hours. Then came assignment 4 and I finished it in 30 minutes. I would definitely recommend reviewing the assignment ahead of time to judge the time it will take you and not use the past assignments as a measure. This is a pain when assignment requirements are 20+ pages it feels like with requirements hidden throughout. My other complaint around assignments is that the grading is slow and so there is no real feedback loop to help you improve on future assignments. Conceptually I will say that I liked the flow of this class. You start with building some algorithms and a tool to simulate a trading environment. At the end of the semester, you take all of the pieces you have built throughout the semester and make them all work together. It was pretty satisfying at the end to test my different strategies and see the puzzle come together. I will most likely end the course with an A at this point unless I get blindsided by missing some requirement on the final project. I have decent python experience and did all of the assignments without attending a single office hour so I cannot speak to their value. I have seen several reviews speak to their quality so that is probably on me and could have influenced my overall score. Just keep that in mind that you budget yourself enough time when scheduling this course to attend those in addition to the assignments and any other coursework. The tests are fair for the most part and probably only require an evening of studying where you watch through the lecture videos. The questions were straightforward and similar to the practice problems they provide. The majority of the time in this class will be spent on the assignments which vary in length from 1-3 weeks. In the end, I am neutral on the quality of this course. The projects are fairly interesting after all the unnecessary fluff. I put 12 as the estimated hours it took me but in reality there were some weeks where I spent 20 hours and some weeks where I spent 1. Just give yourself some cushion on the assignments and you will probably make it through the course much more painlessly than I did.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 5/1/2022
+Workload: 15 hrs/week
+Difficulty: 2/5 Easy
+Overall: 1/5 Disliked
+Review: If this was a Udemy course, you would be asking for your money back. First of all, lectures are the same since 2017, videos are laptop camera videos. They don't even care to re-record this. I still don't know how Mr. Joyner related to this course, if you put your name on it please at least give an effort to make it yourself, so when you force absurd JDF format at least we would know you changed a thing or two. Although I respect Mr. Balch way before this course, let's be realistic, if you don't know what the heck is Numpy at the beginning, there is no way you can code Q-learner at the end in a dynamic fashion. This weird course thinks that during one single semester they can take you from Numpy illeterate -> Dynamic Programmer -> Decision Tree Coder -> Re-inforcement Learning Application Writer and apply this to the stock market. This is when the Bull market takes a break for #2. You don't need to watch lectures at all, check the names of the lectures, and watch the ones right before small in-class mini-quizzes. Make sure you read the project instructions really carefully and spend some time on reports, they try to butcher every single thing on the reports, like that means anything in applied coursework. Sometimes, the little bugs you will get are like, using random package instead of np.random, if you do you get a timeout. What a genius teaching example. Start the last project early, requirements are all over the place, lots of stuff is being asked and there is a report. Instead of lectures, you will be watching lots of Tucker Balch youtube videos explaining projects, where most of the learning happens. I spent 20 hours on Friday and Saturday doing the projects, didn't attend or watched any TA sessions, and watched the lectures only before exams. I'll probably get a B since I don't care about the reports.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 4/17/2022
+Workload: 3 hrs/week
+Difficulty: 3/5 Medium
+Overall: 2/5 Mixed
+Review: Pretty awful in terms of project requirements and the projects themselves. The lectures are actually one of the better lectures I've seen in OMSCS, because they are pretty short and to the point. The interactions on Ed Discussion with course management saves this class from being totally miserable. Where this class falls short the list of project requirements is absurdly long and complicated to parse. The instructors recommend you print out the requirements and highlight them . If you're recommending that, you know something as gone awry. grading feedback is close to useless. if you do poorly, you won't know why. if you do well...you won't know why either but you'll probably care less Reliance on TA interactions and other confused classmates on Ed Discussions to translate the mess of the project spec into readable language (though again, the TAs were helpful in my semester) Jumps around too quickly without any sort of real depth. Expect to be introduced to various terms, but don't expect to truly understand what they mean. Uses non-standard terms when referring to established concepts in ML having too many different places to receive information. why is there an external lucylabs.gatech.edu website?? Just roll it into Canvas. tldr of this course: believe the other reviews that this course is fairly straightforward and trivial, and that parsing projects is such an arduous and draining process. I thought the reviews were exaggerating, but they aren't. Even the reviews that say they liked the course admit they spend hours parsing project documentation, and I can't fathom how you can reconcile that with enjoying the course.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 4/8/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 2/5 Mixed
+Review: I really wanted the course to be better than it was. I have a finance/data modeling background and am a little newer to pure CS. I think the content covered is really great and provides a good intro into ML. The finance stuff is on the very basic side of things. The reason why I disliked/strongly disliked this course is the grading system is absolutely ridiculous. It is really like they are looking for pointless reasons to take points away which shifts the focus from learning how to implement a decision tree from scratch lets say, to spending an absurd amount of time looking through the project wiki to see if you are meeting all the arbitrary requirements. Oh the TA didn’t like your chart title? -10 points. Oh the TA for some reason felt your chart didn’t save as a .png even though it clearly does and is a clear simple oversight? -10 point and wait until the end of the semester for a regrade, where if we are generous enough to look at the project again we might credit you the points we decided to take away from you. Oh didn’t implement this function without solely using NumPy in under 20 lines. -20 points. For reference while I haven’t yet and don’t want to explicitly jinx myself here, I am very likely going to earn an A, there is however an inappropriate amount of points removed for mundane requirements that really have nothing to do with ML or Finance and the intersection thereof. Additionally for reference, the projects are worth 100 points so yes, if you don't use the appropriate title or your legend is wrong or your axis is wrong you will lose 10% of your total grade which is composed of a project that takes roughly 10-15 hours to code give or take your experience level and a 5 page paper for almost all of these projects. But you are right grading system, my axis label is 10% of that effort... One other thing to be stated is the TAs response in the discussion board is very hit or miss. I felt most really avoided answering a lot of questions directly and just referenced you to material in some snarky/"If you watched the material..." kinda way, when in fact the material that you watched was exactly what your question was about, just belittles the student asking the question and in the same time you wrote out some misplaced scolding response you could have just answered the question directly was a very common occurance. This personally never happened to me, but it was pretty clear to see the frustration from students asking questions in the discussion board on some topics and coming away almost being scolded for asking the question in the first place. Like dude, this is a learning environment, and as a TA is it a kinda sorta like your whole job to answer a question a student has asked explicity on learning material that, at this point is 7 years old, is posted online... Also writing papers are not ideal to me in a CS program but I do understand the minimal value there because this is grad school. That being said, I do actually recommend this class if you are REALLY interested in ML and Finance, I think it can spark a few really cool ideas, just be ready to deal with some pedantic grading which seems to way over penalize for arbitrary requirements
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 4/7/2022
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This is the first class I take in this program and it's a good class overall. My background is engineering and only have some previous experience with python. I think this class is a good start for student who did not have a formal background in CS and it will give you some basic idea in python and machine learning. Some finance knowledge will be taught but not in depth, people who is more interested in the trading part can get more expose by reading the recommended book list. work load is 15~20hr per week. some project took less time. one of the annoying thing is easy to forget the contend quiz because it did not show up until every week start. Overall a good class as the first class.
+
+---
+
+Course: CS-7646
+Course Name: Machine Learning for Trading
+Semester: SPRING 2022
+Date: 3/12/2022
+Workload: 20 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: This subject is something I have a strong interest in. I work at a financial company and read books about finance for fun. I write code at work and loved the Computing for Data Analytics course I took at the start of the program where I scored 100%. So this isn't a case where I'm someone who didn't understand the material or take the prerequisites. I did want a lighter course load this semester, so perhaps my mistake was trusting the relatively decent reviews and low reported workload when I signed up for ML4T for Spring 2022. Initially there was a lot to like. The instructional staff went to great lengths to communicate and help and encourage students to get their environments set up early. This is often a problem in an educational environment so I took that as a good sign that they took the problem seriously. The early lecture videos are a little goofier than I really want and a bit dated, as is the Python book that is recommended, but they got the job done and in spite of being a bit slow you can turn up the speed. But things started to go poorly from there. An overarching theme for this course is the instructions and written guidance for the course are spread out all over the place which makes for a really annoying experience of trying to figure out what you are supposed to do and when and how. In general this class feels much more adversarial than any other class I've taken in this program and I don't know why it is set up this way. A basic thing that caught me up early on was the "content quizzes". These are not listed on the weekly syllabus on the main class website. All other content is there or on the Ed platform. Canvas does get used to submit your code and written reports for projects (homework). The official policy is you won't get a grade for anything until the end of the course but they might release them earlier when they feel like it. So generally speaking you won't be looking at Canvas since there isn't really any reason to look at it most of the time. However, this was the only place where it seemed to mention these content quizzes and when they were due. So I kept not seeing that and missing points just because they weren't on the syllabus or anywhere else you are encouraged to look. One formerly required project is now marked as optional. Try not doing it however. You will need it in order to do one of the early projects. If you ask for help on the required project the first thing the TAs will ask is if you have done the optional project and continue to nudge you in that direction. Make the project required! You do actually have to do the project to get the results you need for the other actually required project, because the tests are absurdly fussy about how precise your result is and if you do the order of operations differently you will be "wrong". I'm trying to keep my workload light this semester so I was treating optional things as just that, optional, and instead had to go back and do this "optional" assignment in order to complete the required one. Project 3 "Assess Learners" is incredibly difficult and time consuming. You are given an extra week to do it at least. They do warn you and advise you to use all of your time for this project and it is a significant part of your grade, and yet, I am still going to complain about this. After the first two required projects and one "optional" project, I had the wrong idea about how easy this course was going to be and I did not allocate the full two weeks to Project 3 because I had been able to do the other ones easily. I started earlier than I had for the other ones and it still wasn't enough. The difficulty spike between this and everything you have done before this is massive and it should be broken up into different projects. The project requirements are poorly written and this gets mentioned a lot by other reviews. But yes, they are bad and one of the more significant challenges in the course. They do read as if they have been substantially edited in places at different times by different people so at least they have made some effort to improve them but someone probably needs to write the whole document from scratch instead to bring some sanity to the requirements. The point deductions are very large given the known problems with the requirements. They are extremely slow to return grades and when they do the feedback is cryptic. So in addition to instructions being a mess, when you get a grade you will get deductions which tell you very little if anything about what mistake you actually made. No solutions are posted, ever. Good luck learning! Do it correctly the first time or else because each project builds to the next one so any failures on your part are going to be magnified throughout the course with no guidance on how to correct the mistake. Also they will intentionally insert bugs in some projects and not tell you about them so you have to question whether you set up your environment incorrectly or any of a million other things. Thankfully they at least admitted they had done that when I searched for that error message in the Ed forums but there was no reason to add this hurdle in the first place and definitely no reason to hide that they had done it. Many of these problems are known and acknowledged by TAs. They will even "helpfully" tell you that you should PRINT the instructions and use a highlighter so as not to be hit with substantial point deductions. If everyone knows the instructions are this badly written, then the burden should be on the instructors and TAs to improve them rather than tell students to deal with it. This is "machine learning for trading", not "reading poorly written requirements docs for software development". The latter can be a useful skill in the real world but there is no reason for this pointless extra difficulty to be added. In addition, based on responses from instructors and TAs, it seems that most of this pointless added difficulty is intentional and added mainly for the sake of making it harder for students to cheat. I understand the motivation. No one wants anyone to cheat or to make it easy to do so. But making it harder to cheat also makes it significantly harder to learn. As with other elements of the course, the onus is on the student when the responsibility should lie with the instructor. Write clear instructions. Create tests and projects and homework such that a student won't be able to get a good grade by cheating (I say this having taken Computing for Data Analytics which manages this superbly) rather than opting for "security by obscurity" which is a poor model of security and in this case runs extremely counter to the primary goal of education. I don't understand why the class is run this way. There is good content here and it's something I really enjoy normally but all of this extra arbitrary and capricious difficulty inserted throughout the course makes it extremely unpleasant. Most of the materials are available for "free" via the class website so I would recommend people just look at in on their own rather than try running this cruel gauntlet. I don't see any reason to pay even the low costs of this program for this class when there doesn't seem to be much focus on actually teaching the material to the students.

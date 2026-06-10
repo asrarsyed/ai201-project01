@@ -1,0 +1,223 @@
+# OMSHub Reviews: CS-6476 - Computer Vision
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: SPRING 2022
+Date: 4/30/2022
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: worst experience yet in OMSCS. The course content is good, the professor is good, but the TAs are very irresponsive and you would never get timely help or suggestions from them. Only take the class if you are sure you have enough time to struggle with meaningless guess and trials (of the project questions). BTW, while the projects are not well described, TAs will never show mercy when taking off your scores.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: SPRING 2022
+Date: 3/24/2022
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I'm presently enrolled in Computer Vision in Spring 2022. We're now working on the last assignment, assignment 6.  I am tracking towards an A but in order to achieved that I've had to spend more than 30 hours a week and often take days off work to do homework--which is what I'm doing today as I write this review. This course is completely brutal in its workload, especially for those who work full-time. Someone posted on Slack the other day that this course is like having a second fulltime job. On February 13 I started keeping track of the enrollment numbers by counting the people's tab on Canvas. Between February 13 and the drop deadline of March 16, 20% of the students dropped the class. Given that some students had likely already dropped, the drop rate after the first week or two is likely at least 25%. The brutality of the course would be forgivable if it felt like it was rewarding, but it does not. A significant part of the workload is in trying to tweak already correct algorithm implementations so that they pass the autograder.  Autograding often has specific unspecified requirements that you have to discover on your own through trial an error. It is not unusual to make 25 autograder submissions in a single assignment as you employ trial and error. Another large part of the workload is in customizing weak algorithms to solve a particular instance of a hard problem (for example, tracking a particular object in a particular video with occlusion). This customization does not generalize, and so the hours you spend customizing an algorithm to the particular challenge is largely useless. The workload of this course is substantially disproportionate to its learning value. Unlike most other courses, as other reviewers have noted, the TAs provide nearly no help. They'll answer questions about technical requirements of an assignment, but provide almost no help to students who are having difficulty. They usually do not respond to student questions at all, but when they do I have not observed them being in any way rude or condescending as some other reviewers have suggested. However, though the TAs are not helpful, the course lecture videos from Prof. Bobick are very good. So students can resolve most conceptual issues on their own by reviewing the videos. So, it doesn't seem like having more responsive TA's is critical to improving the course. The main problem is just the tremendous workload that doesn't doesn't result a comparable level of learning. Like many other recent reviews, I recommend students avoid this course. Take note of the fact that considering the 20 most recent OMSCentral reviews, including this one, the mean and median hour requirements for this course are 28.7 and 30 hours. In retrospect, I expect I'll view this course like a long illness or trauma that substantially interfered with my life but with limited redeeming value.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: SPRING 2022
+Date: 2/21/2022
+Workload: 25 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: 08/05/2022 Update: I think PS2, PS3 and Final Project are the most difficult assignments in this course. Anyway, it is not hard to achieve a high A if you can spend 25-35 hours like a second full-time job. Pros Good lectures covering traditional CV methods. Fair Grading. TAs only focus on the requirements, especially for image results. They graded the final project generously. At least better than 21Fall DL TAs. Cons Some content overlapped with Computational Photography. Lack of new DL methods. TAs are less active and cannot reply questions in time. In most of time, they only provide the assignment criteria. Prof absent. 22/02/2022, 12:23:51 AM This course taught traditional CV. Good course content.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 2/21/2022
+Workload: 40 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I register this account to write this concise review. AVOID THIS CLASS AT ALL COST.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 2/4/2022
+Workload: 24 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Class rating has suffered due to lack of class management. This was my 3rd sem and compared to 4 sems(including the current), I have to say computer vision isn't well run. TAs run the office hrs at-most once a week and when fellow students asked for more frequent office hrs before assignments due date, they weren't too keen.  Assignments get a few updates even in the 2nd week. Assignment grading is fair and material(lecture videos) is top notch. I scored an A.
+The only way u get off the frustration of lack of clarity or updates to your questions in piazza/ED is through student slack group. AT one point even administrative questions took 2-3 days to get answers. Things improved a little after students started giving feedback when Prof asked for in the middle of course. All in all, class recordings of study material is very interesting and one learns a good deal. Prof and TAs need to dedicate more time as you can't hide behind the workload. If thats' the case other 3 classes I have taken so far should have similar issues but NO. Anyways for future students, Computational Photography helps you to prepare for this class and so does Artificial Intelligence Techniques for Robots. Computational Photography is also an interesting and challenging class with good support from TAs unlike what I got in Computer Vision. Only exception was 6th assignment -recognition when one of the TAs was active in actually giving hints and answering student questions. Pros- course work, assignments and learning curve. I did learn a lot.
+Cons- TAs and lack of Prof involvement.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/28/2021
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: Abandon all hope ye who enter here Easily the worst run course I have EVER taken. TAs and prof were MIA. Should've filed a missing persons report. Assignments are very difficult. Worse, they are mostly about insane amounts of parameter tuning. Not sure what's the educational value of creating an extremely fragile solution with parameter tuning for a particular situation. you have to watch around 40 hours of video before starting an assignment, which itself takes 40-60 hours, due in two weeks. So this is a nightmare for part time students who can max spare maybe 2 hours a day after their work schedule. there is no help from TAs at all, except bullying about plagiarizing and snarky comments. They likely had less than half a dozen live office hours (2-3 days before the deadlines of assignments). The TAs seemed mostly on the defensive and provided little help in office hours. Some answers from them suggested they did not understand the assignments, let alone provide expert level guidance. There  is no pseudo code provided (and if there is, it is not really pseudo, it is mostly wrong). They expect you to match the outputs of their code and they don't tell you what pseudo code they use to get to that code. So it is endless hit and miss, in a high stress course. Any attempt to get help is likely to be stonewalled as an attempt to prevent "giving away too much". So there is some expectation of telepathy. The TAs are prone to give misleading hints to make sure you do "real work", and "not to give too much away". I have specific examples. They told to use correlation for a homework, and i wasted days on getting that to work, only to realize later in the assignment that it was the wrong approach. The TAs were playing games with us. Unfortunately i only have so much time budgeted for this, and i had spent it all by then. From then on, i lost all respect for this course and its instructors. The only post from the prof was at the start, telling us not to contact the video instructor who has probably moved on. The TA from 5 years ago, in one of the youtube videos says (about a video he is demoing) - "we'll be very disappointed to see this (copied) video in your reports". This repeated insinuations to plagiarism is a lack of respect for the students. The OMS student is a person with a career and responsibility. They should really avoid these kind of patronizing comments as they lose the respect of someone who is honest (by  accusing an honest person of being otherwise, just because they can), and focus on being productive, educational and helpful. Again this TA from 5 years ago says about the project "we want to be impressed with research level work". In an intro type course, with 400 hours of videos, giving false hints for insanely difficult assignments, having less than half a dozen OH, providing no guidance except repeated threats to skin us alive for plagiarism, these folks expect research level output. I don't where these guys grew up, but the gulag is a possibility. Passing the unit test is meaningless, most them might still fail the gradescope. TAs won't answer anything. Too afraid to "give away too much". I could give many more examples, but I would suggest this course be a case study in a degree on education, on how a course should not be taught. I really think the TAs were trying to hide from this class. They would just dump half cooked and obscenely difficult assignments and disappear, only to appear a few days before the deadline to make all kinds of changes in the code, the rubric etc. You need sincere and dedicated TAs for a course of this .... degree of torture. My feeing is that the course is so stressful that even the TAs went MIA. (Added 6 months after the course - on reading new comments i remembered that some students had mentioned getting panic attacks from the assignments in this course and having their mental health negatively impacted. I personally had a sinus infection from decades ago recur due to the insane hours I put in for the project- I had to take antibiotics for this effing course's assignments and its TAs). This (and computer photography) are specialized courses for robotics for OMS. I would highly suggest that GAtech offer some other alternatives for these two courses for the robotics specialization. The expectation seems to be of research level and extremely stressful work here (and getting a B or higher seems not worth the damage to the health/mind). Robotics is really about engineering, not endless parameter tuning. At the end of the day,  haven't learnt much from this course, except Hough transforms and copious amounts of pedantic linear algebra for projective geometry. A highly avoidable course unless you have too much time at your disposal. Worse, this syllabus means the course is not useful if you are actually trying to do any CV work in robotics. Quite a few students in the course seemed to be repeating it. Take this as a warning. Waste your money on something else.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: The lectures are probably the most comprehensive out of the classes I've taken thus far. They don't shy away from the math and you get a you walk away with a pretty good sense of how to implement the subjects. The downside to this is there are a lot of them, and some weeks it was a struggle to keep up. The homework was challenging and gratifying. Most assignments provide you with a test framework that gives you feedback on ~50% of the assignment. Each assignment also includes a report. Sometimes those are just screenshots of the results of your homework, sometime they're actually essay style questions. The final exam was fine, easy enough to study for and it was open book. Nothing on it was a surprise. The final project was enjoyable, but sizable. I spent probably 50 hours on the Stereo project and got a B. Your milage may vary. I think where this class suffered most was from the administration standpoint. A few examples. Contradictions within communication - We had an EDU post stating the exam would be on X date. That date contradicted another EDU post which state the exam would be open a week earlier. Finally, about two weeks before the exam it was clarified that it would be the earlier date. Late Policy - I really enjoy this classes late policy. You essentially get 6 "late" days that for any assignments and it doesn't impact your grade. The TAs released a post about a month in clarifying it, and it stated that it's only applicable for assignments. I think lots of people (based on EDU posts and reviews) assumed that meant it was applicable to our final project but not our exam. I can see both sides on the interpretation, but that really should be explicitly called out so interpretation isn't necessary. I think quite a few people ended up not using their late days assuming they could use it for the project. Grades took quite a while to get back. Not a huge deal, but I recall being close to the withdrawal cutoff not having many grades back and thinking "well this could go either way". Overall I enjoyed the class. The content was good and I will probably end up using the knowledge I learned in a couple different facets of life and work. But I would encourage everyone who takes it to take it as your only class and stay on top of the lectures, assignments and EDU posts. While there are real things to address to make this class, don't let the negative reviews push you too far away. It's difficult and at times frustrating but enjoyable.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/17/2021
+Workload: 30 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: Kinda sucked but interesting subject matter. Agree with the others saying the projects were super unspecified and really half the description was to be found in obscure ed posts. (sidebar, why were we using ed but not piazza??) Some of the projects were really poorly designed. Like a lot of the points would come from results not produced though code you also had to run through gradescope. so you very well could have just coded up some bespoke bullshit that would never fly on GS but gets you the results they are expecting. Anyway, the AR project was interesting, sign detection project was interesting, motion detection project was interesting. DO NOT attempt to take this class without participating in ed or slack discussions cuz those clarifying conversations you have with your peers are critical to success in this class. Also, the parameter tuning was so damn annoying, and thankfully not necessary on every single project
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/15/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: WE ARE HERE TO LEARN, NOT HERE TO AMUSE THOSE IRRESPECTFUL IRRESPONSIBLE WORST DAMN TAS. This is by far the worst class of OMSCS in many reasons but mostly on TA's side which significantly brings down the quality. There are lots of misconducts from TAs while the instructor does not work for GT any more. For Final exam, you can find many many online resources, which means TAs plagiarized from other universities. Seriously, you can find many same problems from the website which are literally no change word by word from your final exam. TAs are very irresponsible. They will change your syllabus randomly during the course. They stated very clearly on syllabus that there is a 6 day late submission policy which could be used throughout the whole semester. But later they announced that these 6 days cannot be used on the Final project. They even did not make public announcement but just replied in an Ed discussion. A lot of us saved the late submission forgiving days for the final project but TAs ruined up everything simply because they are shortage of grading days for the final project. TAs made your assignment statements VERY VERY VERY unclear. Many students spent 20+ hours guessing the intention of TAs in the project. TAs are like the mindset of "I am covering the answer, you guys take a guess". It will be much easer if the assignment statements could be much more clear. In the extra credit of the last assignment, TAs were forced to admit (in the last day before deadline) that they give the wrong problem statements which wasted students tons of hours. And they never gave an extension because of their fault. In my second assignment, there is an instruction that some posts on stackoverflow are very important. I literally copied from there because of the instruction and cited the resource in my submission. The damned TA said that I plagiarized and gave me a zero because of these 8 damn lines of code. So you have to be very careful that even you are instructed to learn from somewhere, not to do literal copy, even if you cite the resource. I am not alone, many of my friends have the same experience. Update: My case was submitted to OSI and OSI dismissed TA's allegation of my misconduct. I am done with this course, no matter what. Hopefully my review along with many other reviews could save your life. From the course material perspective, this course is definitely out of date and needs a refresh. Unless you are doing/will do research on CVs, this course is quite useless. Probably (>95%) you will never use anything of the course in your whole life. Or I could be wrong depending on your career path. Do yourself a favor, keep away from this course.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/13/2021
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: First off, the TA and instructors of this semester were pretty bad. They constantly went MIA on the forum, released most projects late and had to fix various typos on their instructions, and missed every single deadline they communicated with regards to said corrections, release dates, and grading. Now, after that. It is very apparent why this class was so highly regarded in the past. Most of the projects are very straightforward (after deciphering the instructions) and honestly the fact that everything you do has a visual output is fun. It is very easy to show other people what you did in Computer Vision and at least pretend to be impressed by it. Also every project you do is directly related to lecture topics, this is a huge plus and makes figuring out the projects a bit easier when you are stuck. For the vast majority of the projects, I would say the hardest part was parameter tuning, which does kinda suck but is also a fact of life in Computer Vision and machine learning. If you have an interest in the topic and you generally get A's on coding in other project heavy classes I would still recommend this class. If you tend to struggle on the coding portion of projects in other classes be prepared to work hard.  I saw an earlier review that you had to be a coding/linear algebra god to pass and chuckled a bit, I did not think that was the case at all. Instead, just be willing to hit the stack/math overflow hard when needed, all the topic we hit are major ones and there are TONS of resources online. More then one time, the official docs for OpenCV showed you exactly how to do something you needed to do or explained the algorithm you need to implement well enough to follow for your own implementation of some OpenCV functionality. I also did not watch a single lecture for this class, surviving only off of online notes and provided lecture slides and earned an A on all projects and a solid B on the final I did not study for. Honestly, I felt like I still learned a lot though, since the project aligned a lot with the lectures and just becoming familiar with OpenCV alone was worth it.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/10/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Let's see.  How to put this...  don't.  Just... don't.  Walk away from this thing until the course is re-worked. This entire semester was both disorganized and on auto pilot at the same time. Entirely too much work for the topic. Way, WAY too many video lectures.  And, each of the 6 problem sets had 3 weeks of work in a 2 week assignment window. Stale curriculum
+As of today, the Canvas page still mentions the 2021 Spring semester in many places, and still mentions Piazza (we used Ed this semester).  Same for most (all) of the problem set instructions, which also had different report/code percentages than the syllabus.  Clearly, the material was copied from previous semesters, and untested questions / starter code was added to each.  Problem Set 3, specifically, was being changed until the day before it was due. The instructor of record (Essa) was a no-show, and the TAs were little help. I believe the instructor made one post in Ed this semester.  Although, it was literally impossible to find all relevant posts there, so he might have made more.  Regardless, he certainly was not front and center.  The TA's seemed to have little information about the topic, and were only there to answer questions about the syllabus. Grading was very, very slow.
+Even though we were required to use a specific Latex template for reports, ostensibly to make grading easier, they still took 4 weeks to return grades on many problem sets. Gradescope used random tests on some problem sets, with absolutely no guidance on what was being checked or how. If you have to guess how to pass a stochastic Gradescope test, or if you simply resubmit the code over and over until it passes, that ain't learning.  That's gambling.  This isn't a probabilities class. Conclusion:  While the material might be interesting, and the original video lectures are entertaining, the execution of this particular course was absolutely abysmal and completely overshadowed any learning.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/10/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 2/5 Mixed
+Review: The subject matter in this class is very interesting and the lecture modules are very well done; however, nearly all assignments had bugs and TAs were extremely unresponsive throughout the semester. I did end up getting a solid A in the course, but I was very disappointed in how this course was conducted. All other reviews from this past semester are spot on with my feelings towards the course. Without the support from other classmates through Ed Stem or Slack, this course would’ve been nearly impossible for many of us.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/9/2021
+Workload: 25 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I have never written a review before and created an account just to write this. This is the worst class I have ever taken. I read through the reviews before I took the class and thought, eh just a couple of bad reviews. This class is not worth it, terrible TAs, conflicting instructions, unclear requirements, constantly changing assignments, and if something goes wrong, the TA's take 5 days to respond. This class should be removed from OMSCS. In addition I'm bumping the review below stating this websites 1-5 rating scheme: https://omscentral.com/review/-Mq-5EBVdzlvYfox2tlZ
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/5/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Just finished the final project, which was the cherry on top of an awful class. As always, the requirements changed as the TA's started to figure out what they wanted us to do. This is not acceptable for a graduate level program designed for working professionals. The TA's are rude, unprofessional, possibly don't understand the material or just like ghosting their students, and have released buggy/incomplete/inordinately long problem sets without giving any extensions for the entire semester. They even refused to move back deadlines for assignments that they released late (maybe 1/3rd of the assignments). I could write much, much more about this class but I see most people have covered it in other negative reviews. I honestly cannot believe that people are rating this class above a 1 or 2 out of 5. Nobody in the class discussion board expressed anything but disappointment and anger with the useless instruction team. Avoid this class at all costs. It is horribly managed and the TA's need a lot of training (this is a vast understatement to abide by OMSCentral's review standards, my actual thoughts are much more severe). I don't say this as somebody who will probably be getting a poor grade or withdrawing. I am fully expecting an A. However, the work required was inordinate and the TA's were no help.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/5/2021
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: The content is interesting and the lectures are pretty good. The class is hard but feels very rewarding. If you are interested in the topic I highly recommend taking this class. Here are the downsides though: The few lectures that show code still use Matlab as examples but the homework are all using Python. Every single assignment had errors or outright misleading instructions. Starting the homework early seems like a waste of time since it's better to just wait until these issues get ironed out. Unfortunately the homeworks can get time consuming with adjusting parameters so expect to spend the entire weekend before the deadline working on it if you rollow this route. Tons of lecture material. Not a bad thing, but just a lot of information thrown at you, more than you can realistically process and really understand if you're part time. Final project is tough and takes a lot of time: we are expected to essentially learn some basic ML on our own. Again not a bad thing perse, but just time consuming. TAs at times are unresponsive and take several days to answer critical questions about assignments, combined with the point in #2 is frustrating. Getting an A is tough unless you really spend a lot of time on this class. This class would be a 5/5 if the assignments were actually proofread and the TAs were a bit more responsive.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/5/2021
+Workload: 35 hrs/week
+Difficulty: 5/5 Hard
+Overall: 4/5 Loved it
+Review: A worthwhile time sink if your primary goal is to learn about the foundation of CV. Not so much if you care about your GPA.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/4/2021
+Workload: 25 hrs/week
+Difficulty: 5/5 Hard
+Overall: 2/5 Mixed
+Review: What I can say about this class is that the material is extremely interesting and the lecture videos are without a doubt... world-class. However, TA's do not respond within a reasonable timeframe, and I was consistently running low on time to complete assignments. As a data analyst working full-time that also juggles other responsibilities, the allotted time I had throughout the week was not sufficient to adequately complete these assignments. Moreover, from what I understand, they recently tacked on extra sections to each of these assignments but only gave us the same amount of time they gave us in previous semesters. Because of this, many of my homeworks were left incomplete. Additionally, the report section of these assignments often required the last sections of the working code to be complete, so if you could not finish the coding portion, you would often receive nearly 0% on the report section. To add further insult to injury, the TA's gave us extra credit assignments this semester, but to get to the extra credit, you had to complete the coding portion of the assignment first; what is the point of the extra credit if I do not have the time to even work on it? This shows in the percentage of the class that was able to do the extra credit assignment: ~20%. I'm hoping to be able to manage a C in this class after the brutality I have experience this semester. Pros: Extremely interesting content World class lecture videos Cons: Simply too much work to get done in a short amount of time TA's are often unresponsive Assignments are buggy and in need of fixing. I'm convinced you either need to be a full-time student or a coding God/math genius to be able to get a surefire, solid-A in this class. Autograder feedback is simply not useful and leaves me guessing as to what is wrong. Often had to jump through hoops to get local tests working for the assignment.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/3/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Be mindful of how OMSCentral calculate the averages ! Between 2015-2019, the average rating was 4.46. Pretty darn good you think? In 2020, the average rating is 3.17. Okay, maybe it got abit tougher? In 2021, the average rating is 1.96 . That's too much? In Fall 2021, the average rating is ... you've guessed it! 1.00 . What sparked such a collapse in rating ? Public Complaint in Spring 2021 Public Complaint during Fall 2021 Public Complaint at the end of Fall 2021 So stop living in past glories, Computer Vision. Deep Learning has preceded you in so many ways.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 12/3/2021
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: The course has been extremely disorganized this semester. For Problem Set 1, 2, 3, 4, 5, and 6 (yes, all 6 assignments), the instructors released the projects only to release changes/fixes a few days later. Sometimes, they changed the code on GradeScope only a few days before assignments were due. For PS5, the instructions said the report was worth 25%; the code 75%. After the assignment was graded, the TA's clarified that it was a typo and the report was worth 30%. Another homework assignment contained a math equation where little sigma was used as a variable. Big sigma was used to represent summation. Later in the assignment, there was pseudo code with extra lines that didn't belong in the algorithm. Clearly no one checked over the assignment as it didn't make any sense. The whole semester, Canvas showed that the final project would be available October 29. By November 5, students were asking about the project. The TA team said it would be released in a few days. After students got angry, the final project was released November 5. Despite being released a week late, NO extra time for the final project was given. To add insult to injury, the final project was due on a Friday at 7pm the week after Thanksgiving. Monday before the final project was due, many students started to ask politely for an extension through the weekend. 4 days later (the night before it was due) TAs finally answered that NO extension would be given. Many students took PTO to finish working on the final project. Quite a few pulled all-nighters. We have individual assignment grades but overall grades have not been released (Note: This review was written the week before the final exam). This is my 9th course in OMS. I have NEVER complained about a course before. I have done so twice this semester. The saddest part about the class is that I absolutely do not care about learning or trying at all anymore. We are doing some really cool projects. It should be exciting. Instead, I cannot wait until is over. If someone told me I needed to retake the class to graduate, I'd quit the program. There are many other options available online for learning CV. Until the issues in this course are sorted out, avoid it at all costs.
+
+---
+
+Course: CS-6476
+Course Name: Computer Vision
+Semester: FALL 2021
+Date: 11/4/2021
+Workload: 25 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I would like to offer my perspective from failing this course last fall and retaking it this fall (I am aware it is not a wise financial decision). The reason I failed was my final project did not work and I had to give up in the last week for my health. Previously, I blamed myself for this failure, but I am witnessing what other students are saying this semester about the course being run poorly and having assignments reuploaded after they're released and can confirm this was not nearly as big of a problem last fall. This semester, I am only getting good grades because I am building on last year's ashes. The latest red flag has been the final project not releasing on time despite the date and topics being known the entire semester. The final project is open-ended and takes an entire month to complete so it's a big deal if the TA's mess this up. What I can tell you is every assignment is the same as last year except for 2-3 extra steps, making them more difficult to complete in the same 2 weeks worth of time. I noticed some of the grade weightings (code vs. report) were adjusted in a positive direction so bombing your report would not make you fail a code-heavy assignment. Every other recent negative review is telling the truth and it is easy to become emotionally frustrated in this environment making both TA's and students aggressive. OMSCS has much better classes that you should consider taking instead for a healthier balance. I did not take linear algebra during my undergrad so there was a knowledge gap, but ultimately I learned what I needed during the semester and applied it, so it won't prevent you from understanding the material completely. I enjoyed the material a lot and the quirky Professor Bobick but I am sad to learn the programming techniques we learned are now too disjointed and outdated to be applied in the industry. I have a lot of self-study ahead of me to prepare myself to break into the CV field so wish me luck :)

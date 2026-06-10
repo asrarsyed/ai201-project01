@@ -1,0 +1,224 @@
+# OMSHub Reviews: CS-7641 - Machine Learning
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2026
+Date: 5/8/2026
+Workload: 15 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: This course is one of the best designed graduate courses I’ve taken, but it’s also demanding and time consuming. It strikes a rare balance between theory, implementation, and experimental analysis. I didn't just learn ML algorithms you’ll learn how to think like a researcher when comparing models. In addition, reviewing others’ project milestones improves my work and exposes me to different experimental designs.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2025
+Date: 10/18/2025
+Workload: 50 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: The course is interesting. However, there are many challenges. The lectures are too long, filled with banters leaving the useful information limited to just a minute out of an average 10 minute long video. The reports are also huge. Part time students who have other priorities like work, family or a second course found it overwhelming. This is a heads up and caution. The primary medium of communication between students, with active participation of the instructors, is a Discord server and not slack. The admin of this server is a past student who is neither a TA nor currently enrolled but remains the most vocal individual, taking over the space. The same person has been allegedly bullying several students in unofficial groups which makes it difficult to participate for the current students.
+I decided to drop the course and work on getting a better understanding of the material so that it can be completed independently without much interaction with the student groups managed by this past student. It is unfair because we pay for the semester while they don't, but somehow remain in an authority which they shouldn't be. Usually, it is beneficial for past students to be involved in a course, however if the concerned student is a known bully and obnoxious, things get unnecessarily difficult. Unfortunately, not much can be done in such situations because despite the active involvement of TAs and instructors, there is no moderation on the discussions by the most vocal students(experts in the field or past students) that drown the actual course related discussions. It can get discouraging for newer students. The course is rigorous. Do not take it lightly. If you sail through, the experience can be amazing because it truly challenges you to be a better machine learning practitioner.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2025
+Date: 5/9/2025
+Workload: 40 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: Too much content for a single semester long course, some content doesn’t have relationship with each other at all. The lecture recordings aren’t really helpful. The office hours are helpful since the teaching staff make the assignment requirements ambiguous on purpose, which increases the course load.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2023
+Date: 12/17/2024
+Workload: 24 hrs/week
+Difficulty: 5/5 Hard
+Overall: 3/5 Liked it
+Review: The topic was highly interesting and rigorous. I enjoyed the course and learned a lot as well. But the course videos are not of much help. The conversation style between the professors were not tolerable to me. I personally prefer more structured material to learn from. The course is heavily curved at end. For us Mid-term was removed as well. Be prepared to slog long hours but the reward at the end was equally good.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2024
+Date: 5/5/2024
+Workload: 8 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: This class is certainly difficult, and this is coming from someone who has done stuff directly related to the material at their job for the past 5 years. The material/lectures/textbook is maybe a bit outdated (I didn't look at the textbook after about 2 modules), but I'd say it covers all of the core concepts of machine learning. The assignments are the real crux of the class, and the variance in student experience probably stems mostly from opinions about how fair the expectations/instructions/grading of the assignments are. My two cents: There is definitely a difference between the expectations for the assignments in this class vs others. They expect you to really dig into the techniques and discuss results in a way that directly links to the material in lectures/office hours. The TA's have made efforts to make what they want to see more explicit (they make an ed post for each assignment going into more detail), but there is still some ambiguity about when you have 'checked a box'. Make sure you include and meaningfully discuss everything they mention. If you spend like an hour just playing around with some hyperparameters and then briefly mentioned the results in the report (like I did a lot of the time) you are probably gonna get dinged. Use LaTeX (GaTech has free overleaf accounts) or a two column format, since it is sometimes near impossible to pack all the material into a standard google doc/word document. Use a ton of figures, every time there is an opportunity for a plot, include it. Overall I think the grading is fair and matched my level of effort (I really tried to wing it, ~8 hrs/week), however it is somewhat ambiguous/opaque (you will pry that rubric from their cold dead hands). I do think this ambiguity encourages learning by digging into the algorithms and matching the results to the material, and the curve makes things feel more fair. The TA's are also very active in office hours (don't be like me, go to them) and the discussion boards. The curve is harder than other classes, don't give up just because you got 50% on the first assignment. I was in a similar situation and ended up with an A after recovering a bit on other assignments and the final.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2023
+Date: 11/6/2023
+Workload: 30 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: The ML CS7641 course has been the worst class I have ever taken anymore. The lectures are genuinely interesting, and I've enjoyed gaining insights into topics previously unknown to me. However, the assignments, TAs, and the current teaching staff have made this course a nightmare for me.
+The assignments often feel like a guessing game with vague expectations, making it easy to lose points due to uncertainty. It's frustrating that some poorly written work can surprisingly earn good scores, which can be disheartening. Additionally, the inconsistency in grading when different TAs assess assignments adds to the problem and frustration.
+At times, there have been reports of hate post from students towards the TAs or teaching staff. Be honest, it is a frustrating as waste time copying code from sklearn and did not learn anything useful from the assignment. To be candid, it's been disheartening, especially when you feel like you're investing time copying code from existing libraries rather than truly learning. Occasionally, TAs have asked students to be more concise in their work. Perhaps it's a two-way street, and there could be a request for clearer subject instructions and grading metrics from the students.
+Just my 2 cents, I'd say this course is only useful for those seeking a specialization in machine learning.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2022
+Date: 1/8/2023
+Workload: 22 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: I thought this was a great class and it doesn't deserve the criticism it often gets. Lectures I would rate the lectures as good but not amazing. I personally liked the back and forth between the Prof Isbell and Prof Littman. They try and introduce the concepts from the ground up and provide the intuition behind different algorithms. However sometimes this is a little hard to follow and feels quite non-linear. I did find the Mitchell textbook fairly useful though so would recommend that to get a more straightforward introduction of the topics. Assignments The coursework is 4 written assignments describing the outcomes of some experiments you ran (typically applying some algorithms to some data). They are open ended which I personally liked, and really force you to use your brain and think about what you are doing, and why you get the results you do. The assignments directly follow from the lectures, so you are made to really understand the material, which also translates nicely to the exams. The assignments are a lot of work and probably why this class is considered one of the toughest in the program. They take a lot of time because you have to run lots of experiments. I did pretty well in them (96, 85, 94, 90). The key is pretty much exactly what the assignment descriptions say - look closely at your results and try and explain why they are happening. The 'why' is the crucial part. In many ways I see this as a class in data science. It is about creating hypotheses, running experiments and analysing results. I think lots of OMSCS students come from engineering backgrounds are used to building things (as opposed to analysing) and having their code auto-graded. This class is nothing like that and one reason I think some people tend to struggle. Another common complaint is about the 'hidden rubric'. I partially agree with this. The open-endedness of the assignments does generate a lot of Qs, which leads to a lot of discussion and clarifications from the Head TA on Ed about approaches. This can be useful to monitor, however doing so takes a lot of time. If you're working full time and don't have hours to dedicate to scanning the OH threads on Ed, this may get frustrating. However all that is actually required is i) read the assignment description and ii) watch the 15 mins overview at the beginning of the OH where all the requirements are outlined (take detailed notes!). If you only do these two things only, you should be okay and can probably block out the rest of the noise. For the most part I don't think the rubric is hidden and this is evidenced by students who do consistently well across all assignments. The key is to read the assignment description and listen to the OH carefully and do exactly what is described. Something I really liked is that the assignments are marked by TAs. In other 'analysis' type classes this is often done through peer review which often ends up being a bit meaningless. You get detailed feedback and can use this to improve over time. Exams While the assignments test your empirical skills, the exams test your understanding of the theory. I did a lot worse on these (52, 53.5) though these were still around average for the class. I think the key thing here is to make sure you understand the lectures and the answers to all the quizzes. I sometimes see people recommend that you brush up on maths (stats, linear algebra etc) before this class but the maths is fairly minimal. Sure there are some equations, but neither the exams or the assignments require you to remember or really understand these. Summary Overall in terms of learning this is easily the best course I've taken in OMSCS so far, and the course design I think is excellent. I would absolutely recommend it to anyone who wants to work in ML. Having said that, it is also a lot of work and quite stressful. If you're a computing systems person who just wants a peek into ML it's probably more stress than necessary and I would recommend ML4T or IAM instead. If you do take the class my advice would be to start the assignments early and engage on Ed / Slack. If you do this and follow the instructions from the professor and Head TA you should be fine (the curve is real after all!).
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2022
+Date: 12/19/2022
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 5/5 Loved it
+Review: This is a great course that focuses on both the theory and practical aspects of ML. Littman and Isbell do a great job covering the various topics in the lectures while clearly presenting the intuition behind algorithms. For assignments, you must at least watch the overview of each assignment presented in office hours even if you do not have time to watch all of it - it is hardly 15 minutes per assignment but will be make a big difference in the score you get for each assignment. I was able to get 100/100 on all four assignments and would suggest to structure your analysis as per what Dan (the TA) suggests in the OH - you will get high marks if you try to be inquisitive with the results and try to intuitively justify the observed behavior of algorithms, while also trying to compare and contrast the behavior of various algorithms across various problems (for example, for A1, why does K-NN have a low bias but high variance, but SVM has both low bias and low variance; why does NN perform best on 2nd dataset but all algorithms do well on 1st dataset for A1; etc.). A1 and A3 use sklearn; A2 uses mlrose-hiive and you will need to look at the source code on GitHub since it is not well documented and you will likely have to modify it to suit your plotting/graphing requirements; A4 uses mdptoolbox-hiive and will need to be looked at on GitHub because of similar reasons. I would suggest to definitely use Breast Cancer Wisconsin dataset as one of your datasets since it is very simple but provides great room for meaningful analysis across first three assignments; For second dataset, I chose Steel-Plates-Fault dataset since it has more than 2 classes and is slightly larger than 1st dataset; Be very careful and make sure what you will get yourself into if you choose a dataset with categorical attributes or some unstructured data like text or image - my advice would be to only choose tabular data with all continuous attributes. For MDP, you should likely choose Frozen-Lake - other choices are BlackJack, Forest Management, RiverSwim, etc. Kaggle is great for running assignments since it automatically allows to backup the code, create versions, not much installation issues, and also run the entire notebook in the background without keeping your laptop screen on - this is simply awesome and I would urge to definitely use Kaggle to sidestep a lot of issues that hamper productivity. I would suggest to use Latex IEEE template for reports since it allows to easily fit a lot into 10/12 page limit and looks very systematic, especially considering that you will have at least around 15-20 figures/tables per report. For the exams, I found lectures to be sufficient (i.e., readings and textbook were not very useful) - make good notes from the beginning, and you will feel easier during exam preparation since there are a lot of concepts involved for both exams. Mid-term is like a sprint and will require you to have the concepts on your fingertips to even stand a chance of doing some justice to all questions. Finals are like a marathon and have much more time, although the level of difficulty does not change at all. In all, do not fret too much about scores in this course since it is heavily curved at the end but instead focus on the learning outcomes and try to gather all you can from this excellent course (since you will probably not find another such course that is so much into "analysis" in your entire lifetime, let alone in OMSCS).
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2022
+Date: 8/26/2022
+Workload: 29 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: This is a really hard class. And I feel like it was mostly busy work. But the lectures are funny and really interesting I go over some tips and tricks to survive it (40% got me a B final grade) in this video https://youtu.be/Gv1bi24Kzn0
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2022
+Date: 5/5/2022
+Workload: 8 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: This really sucks to say because the learning material for this course is great and really really fun and really well done, but I strongly recommend not taking this course. Tons of mental strain trying to figure out awful instructions for the projects and insanely vague grading standards. Each project was ridiculously painful to complete, not only did they ask for like a thousand graphs of pointless stuff, but in addition would ask "now discuss your results" and  you're left with an insane amount of data and code and most of it totally inconclusive. Like try to discuss why running K means clustering on data reduced by ICA on some dataset you found online for which ICA is totally irrelevant has a different convergence pattern than K means run on the same data reduced by PCA... ???? The instructors seem to be completely obtusely aware of the fact that their course structure has massive downsides and do not care at all, and try to provide any range of justifications on the forums, despite the fact that this is the only class I've ever taken in undergrad or 9 masters courses where the students had absolutely no clue what their final grade would be, and had no clue the standards for any assignment. It's just silly. The professors seem to have really funny sarcastic personalities, and these are truly fantastic for the recorded lectures, but they somehow aren't able to turn it off for stressed out anxious students asking "please tell me if i'm going to fail this class" or something similar in the discussion forums. I talked to someone who took the in person section and apparently it's like an actual course with real assignments and a group project... why not just do that online? the lack of guidance and the grading standards left me zero motivation to try to have any insight at all on my assignments. I just pumped out garbage for the last two and since there was so much busy work (the third one specifically asked for like a thousand graphs to the point where I had to reduce margins as low as possible to fit within the required 10 page limit), I guess that drowned out the crappy work, and i got higher grades than the first 2, which were about 50%s, which was just about the median grade, which apparently corresponds to an A? I have no clue. It's just dumb
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2022
+Date: 4/26/2022
+Workload: 27 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: Just got done with this class although none of the meaningless grades have been returned. If you want to do well, just watch Josh Starmer's StatQuest videos. PROS Talks about ML which is cool I guess Can give you the baseline of what to research on your own Grades are tbd but from what I can reckon, if you submit all your work, you will get a B CONS Grades are all over the place. So far, i've gotten pretty good grades on everything so I expect an A but I have no idea. The Professors preach that grades don't matter but then turn around an require a B or A to pass courses in your specialization The schedule of the assignments is made just to mess with you. No reason there should be a week period with 3 items due, but start the the class with 4 weeks of nothing. The lectures. I know people say they are good but there is much better on youtube. StatQuest videos are the way to go. I'm only 1 of I think 3 people that got any points on a random test question just because I knew the answer from statquest while the real lectures never mentioned it The professors seem like great people but get lost in talking in riddles. Don't ever expect a direct answer from anyone. I took this class with IAM which I'm glad I did because IAM had much better lectures, so I was able to learn from those lectures and apply my knowledge to this class.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2022
+Date: 4/26/2022
+Workload: 15 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: This course has some very good things and some very bad things. I am into ML and have done a couple of MOOCs and work on NLP projects in my company. So I come from a very solid understanding of ML from an applied side but this course pushes you to think beyond applied ML and into the empirical side of it. Here are a few things Good and Bad things: Good: It's a fun way to learn about the subject through 2 people discussing it (Check why this is also bad) The topics are very well selected and cover a good spectrum of ML. However I think it should be broken into 2 courses (I and II), there are so many things that didn't get covered. Office Hour helps answer so many questions and Dan is awesome and tries very hard to answer all the questions. Bad: Projects are open-ended & excruciating and students spend the majority of their time chasing them. It hampers their learning. I didn't get any chance to go over Mitchel chapters. Let's be honest, most are chasing grades and GPA. The style of teaching is sometimes complex and often complex math is introduced without explaining the concepts well. It took me some time to get a grip on MDP's until I stumbled upon a Stanford Lecture on it. Check this and you will see how well it was articulated ->  ( https://www.youtube.com/watch?v=9g32v7bK3Co&t=563s ) Grading is a blackbox without a Rubric. Overall i am Ok with the course, learned a lot of new things but the experience was bitter. I might have thought multiple times to quit it. Today I gave my final exams and I look back and would say, its was OK, just hang onto this class. Lastly, come prepared by taking some ML MOOC classes and also refresh your linear algebra and predicate calculus concepts before taking this course otherwise you will be amongst 33% of dropouts.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2022
+Date: 4/20/2022
+Workload: 10 hrs/week
+Difficulty: 4/5 Hard
+Overall: 2/5 Mixed
+Review: Echoing what others have stated.  The lectures are great and I feel I learned a lot and had fun watching them.  The assignments are brutal. Office hours are a requirement if you want to remotely know what the TA's are looking for.
+A big part of the assignments that bothered me was their open ended nature.  I'm sure many students will learn by "exploring" the subject but for me it was just stressful and anxiety inducing.  I need hard requirements like it IHPC where if you want an A you are asked to get the program to run below x seconds.  Asked to "explore" does not work for my learning style and I feel i did not learn nearly as much as I would have had I been tasked a more focused assignment. Switching to Computing Systems after taking this class in fear that any other machine learning classes are remotely like this one (plus computing systems has a ton of classes i'm interested in)
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2022
+Date: 4/11/2022
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 3/5 Liked it
+Review: Previous assignment grades are released after submission deadline of next assignment. This is the case till now. So how do we use feedback from previous assignments? It’d be a miracle if we get grades for A3 before A4 due date Edit: we did not
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2022
+Date: 4/6/2022
+Workload: 20 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: The course videos are OK but the TAs are Terrible. I strongly suggest the TAs let go of their arrogance and clearly describe everything required in the assignments. Students do not have time to play such boring riddle games with you.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: SPRING 2022
+Date: 3/6/2022
+Workload: 40 hrs/week
+Difficulty: 3/5 Medium
+Overall: 1/5 Disliked
+Review: Positives: Open-ended. Keeps us on the edge. Can share own inputs Tests understanding instead of guessing Good Exam Structure Negatives: We haven't received any grade back at all. A1 - no grade so far ; Problem sets aren't looked and graded. Exams aren't graded yet (at least that's understandable). No way for a student to incorporate feedback from previous assignment to the next one. Harsh schedule. Having midterm and due date for A2 on the same week is not right.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2020
+Date: 2/10/2022
+Workload: 25 hrs/week
+Difficulty: 5/5 Hard
+Overall: 3/5 Liked it
+Review: This class could really do a lot better, the material is very interesting but the grading is not done right. The class has multiple HWs all through anaconda so get familiar with that quickly. To see my full review on the course, check out my youtube channel: https://www.youtube.com/watch?v=0ytgG1DeVco
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2021
+Date: 12/30/2021
+Workload: 18 hrs/week
+Difficulty: 4/5 Hard
+Overall: 5/5 Loved it
+Review: This was my 9th course in OMSCS and so far best where I learn most which I apply in real world example. The best part of course is its pragmatic approach on focusing on analysis instead of code. OMSCS is course primarily created for experienced working professionals. And we all know real production grade application use stable libraries and reuse code instead of creating from scratch. This course thankfully understand that and focuses more on analysis. My advise would be focus on assignment questions very well and make sure you address add justify all answers instead of just providing statement. Do not get alarmed if you score less on Mid Term or Final exams. The course is designed to make exam tough. However if you are persistent and improving consistently you can still get good grade. So do not give up. This is must have course for anyone in ML or Interactive Intelligence track.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 20 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Only take this class if you absolutely have to, and if you do, don't drop the class. This class is needlessly difficult and the grading is atrocious. The whole class is taking already implemented machine learning algorithms and running them on data you select and then writing a 10 page report on it. You are encourage and told NOT to implement the algorithms with your own code which takes away a a key way to truly understand how the algorithms work. Half the class is also reinforcement learning which is taught much better in CS7642 Reinforcement Learning where you actually implement your own code on some cool examples. Like I said above, the grading is horrible. Very little comments back on the reports. There is no rubric so the grading is subjective and varies quite a bit from TA to TA. With all grades in including the final I sat at a 42% and still got a B in the class. Summary, don't take the class unless you need to and don't worry about your grade if you do. As long as you put in a little effort you should get at least a B.
+
+---
+
+Course: CS-7641
+Course Name: Machine Learning
+Semester: FALL 2021
+Date: 12/22/2021
+Workload: 25 hrs/week
+Difficulty: 4/5 Hard
+Overall: 1/5 Disliked
+Review: If you need this class for the machine learning specialization then take it and don't drop it. There has been a lot said in previous reviews about the worthlessness of the course. I won't belabor that point. Instead, I'll give some numbers for anyone thinking about taking the class (and more importantly anyone planning to drop it). For context, I had a serious life event the week of assignment #2 and exam #1 that essentially made putting 20+ hours a week into the class impossible for the rest of the semester. I was going to drop it but decided to see it through. Anyway, the following is how the course progressed for me. Assignment 1: 86 Assignment 2: 10 Assignment 3: 36 Assignment 4: 48 Exam 1: 32/120 Exam 2: 27.5/110 Overall Grade: 37.5% Letter grade: B

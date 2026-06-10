@@ -1,0 +1,230 @@
+# OMSHub Reviews: CSE-6040 - Computing for Data Analysis: Methods and Tools
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2025
+Date: 12/16/2025
+Workload: 8 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Solid course, obviously you have to take it, but putting a review here for transparency - received an A with a 96% pre-curve and a 97.5% post curve after coming in with very limited and specific python knowledge. Did some of the edX pre-reqs, most of the codewars problems, but still ended up fine. Used some GPT when I got stuck but only asked it explicit questions and for comments to help me understand what was happening. Homework only weeks, the workload isn't that bad, but ramps up when prepping for exams. Homeworks: Overall Grade 99.9%
+Consistent schedule, able to work ahead a week, maybe two if you have a vacation coming up which is good, had significant variation in difficulty/time commitment, but part of that was definitely me just understanding some concepts earlier than others. Only missed one point on all homeworks because it was Sunday night, i couldn't get it to compile and just said screw it. Exams:
+Overall: Get easier after the first exam, no ability to get partial points can hurt, but they'll give more questions than points needed for an 100% (ex. 21 points possible, but only 16 needed for 100%) I usually just burned through the 1 point questions for some quick points, then hit what I thought was best. All were 4 hours of allotted time First exam - My Grade: 67% (Curved to an 80%), Avg: 52% (Curved to a 65%)
+Hardest exam by far, took me all the allotted time and still ended up with a 67%. Very conceptual focus which got me. Approached by doing some practice tests, consolidating homeworks, etc. Second Exam: Grade: 100%, Avg: 78.5%
+Really didn't change my approach, just did an extra practice test or two, shows how much more difficult the first exam was. This one was much more concepts in use and it was concepts I understood a lot more. Finished in 2-2.5 hours. Final Exam: Grade: 88%, Avg: 78.3%
+Kept the same approach, just did the math for what I needed to get an A beforehand, got another question I understood in case I did my math wrong, but finished in 2 hours. Again, much easier to focus on concepts in use. Really enjoyed how the questions in the latter two exams built on each other like how an individual would go through a project, first do this, then use that to do this, etc. Extra Credit: Grade: 100%, avg: 40%
+3 Points of extra credit was nice, I put together something quick that I would have been happy with 2 points on, but since it was EC, everyone seemed to be easy on the grades, unlike 6501. Overall great class, definitely feel I have a better Python base, now just gotta figure out where to apply it.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: SPRING 2024
+Date: 7/9/2024
+Workload: 5 hrs/week
+Difficulty: 5/5 Hard
+Overall: 2/5 Mixed
+Review: This was my first class I took in the program, and in general felt very unprepared. My background is basically having doing an honors math program in my undergrad, where I took 2 intro computer science classes (one in R, one in Python) my senior year. Then the last 3-5 years, I did a huge ton of python training on the DataCamp platform during covid when I was skill building for a job transition. I have build and used some python skills in my current job heading into this course (working with modifying some pre-build automation tools), but came into this class feeling very unprepared. This class for better or worse focuses on just doing practice, and less on the lectures. In fact, I think there aren't any mandatory recordings recommended at the first few weeks of the class except syllabus stuff. Although there are some short recordings, and a few saved full lectures from the in person course from a few years ago. To me, the videos felt not very useful, especially the ones that were based on in person lectures and were just tacked onto the course as supplemental materials. You learn by doing the assignments. I will say in general the workbooks are detailed, and do go into a lot of depth. You basically get good at the homeworks by learning to google random comp sci terms, and get good at learning new syntax, and what to do if you're struggling with syntax. If you go to the additional boot camp seasons, they really try to help you with resources to become a self reliant coder. In general, I feel very positive about the bootcamps. I never attended any of the ones live because of schedule except the first one, but they do put a lot of work in them. Unfortunately, it does feel like there is a huge skill difference in the kinda of basic things they help with review early in the course and jumping into the 2nd/3rd week plus of materials. I quickly felt very behind. I managed to get through the homeworks all semester, but the exams were brutal. First exam I wasn't sure how to study, I was doing past practice exams and barely getting anything correct. There is extra credit on each exam, basically they are worth up to 14-16 points and 10 points on each exam is passing. 2nd exam our semester was complete hell. I got sick the week of and literally got a 0% after trying at it for 90 minutes. I think our class average was like 30-40% after the extra credit. They were nice and decided to curve it after, which they said they never do at the top of the semester lol. Final was a lot more reasonable, but still some impossible parts. I scrapped by getting all 1 pointers and most 2 pointers, never getting one 3 point question right on all 3 exams, and scrapped by with a C. They give you some sample problems the 1st week and basically tell you if you can't solve enough of these problems, you might want to take some supplementary coding classes or self-study first. I would say if you're someone that thinks they have the time in their life to improve before taking the course, no shame in dropping first week to take an easier class first. I definitely plan on brushing up my skills a lot more before my next CSE course.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: SPRING 2023
+Date: 8/20/2023
+Workload: 30 hrs/week
+Difficulty: 5/5 Hard
+Overall: 3/5 Liked it
+Review: I was majoring in EE, and took Matlab, C, c++ during my undergrad, and took CS 1371 and Python BootCamp on Udemy prior to CSE 6040 and thought I prepare pretty well for the course but I was wrong. This class requires lots of prior experience and strong mental health. The first notebook aka homework and 3 out of 6 "prerequisite" problems were relatively easy and gave you a false sense of your knowledge. Notebook 2 crank it from 0 to 100 really fast. The videos aren't helpful for your notebooks and tests. You need to know how to google things; that's the one skill I learn from this class. To prepare for the first test, just focus on the 6 most recent tests as the old ones don't help you too much. I made the mistake of spending wayyy too much time on the older tests. The 1st test is definitely DIFFICULT sooo study 2 weeks beforehand. I did so badly on the first test. As for the 2nd test, I learned to study the 6 most recent tests. My grade did improve but still not good enough The final was as hard as the 2nd test I think. Barely passes the class with a C...maybe i was not as bright as other students in the class
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: SPRING 2023
+Date: 5/11/2023
+Workload: 8.5 hrs/week
+Difficulty: 3/5 Medium
+Overall: 4/5 Loved it
+Review: Overall I really enjoyed this class and thought it did a good job getting me more comfortable with python, and the different python packages associated with analytics as well as how to implement them. The difficulty of this class will depend a lot on prior experience with python and coding in general, if you have no prior coding experience and didn't take CS1301 or another python introduction class, you'll most likely struggle heavily. Otherwise, even though I didn't have much python experience besides CS1301, I was able to understand how to approach problems and just used google search to determine the best python syntax. For the homework, office hours, slack, and piazza are very helpful if you get stuck, and for the exams, studying prior exams is the best way to prepare.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 8/23/2022
+Workload: 6 hrs/week
+Difficulty: 2/5 Easy
+Overall: 3/5 Liked it
+Review: This is basically a self-thought Python course. If you know Python well already, you will find this very easy, if you are new to Python it will kick your ass, and the rest will be somewhere in between. The notebooks are exceptionally curated, they are pretty great tools for self-learning. The problem comes when the concept is maybe too hard for self-learning, or maybe you just need a little push. Well, don't expect to find it in the video "lessons" which are pretty much useless, especially the ones from the TAs (not necessarily because of the TAs but for the content). In certain videos there will be solutions to the notebook problems without even a hint of an explanation, so yeah, great, I can pass the autograder now and yet I still haven't learned anything. By banging your head on the wall you WILL improve your Python skills and confidence in them, which I guess it's part of the strategy here, but maybe it's being pushed a little too much. If you're not completely new to Python, I would consider this a relatively easy A, since 50% of your grade are notebooks for which you have plenty of time, and the rest are open book coding exams that last up to 4 hours.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: SPRING 2022
+Date: 5/7/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 3/5 Liked it
+Review: In this course you will not learn Python, you will learn how to survive, so if you have no experience in Python, you must prepare yourself before registering, otherwise you will fail all the exams.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: SPRING 2022
+Date: 5/2/2022
+Workload: 3 hrs/week
+Difficulty: 1/5 Easy
+Overall: 4/5 Loved it
+Review: This was my first class in the OMSA program. I'm a practicing analytics professional and a daily python user, so take my ratings and review with that context. Overall I enjoyed the class and thought it was a nice way to transition back into academic coursework. With that said, if you're a regular python user who's trying to get the most you possibly can out of the program, you're probably best served by opting out to take an extra elective. The class is roughly split into thirds, with the first third focused on learning base python, the second on data wrangling, and the third on implementing basic analytics algorithms. The math involved in the last third is not trivial, though you don't ever need to do it by hand. Understanding of intro-level linear algebra and calc 1 is definitely necessary for an intuitive grasp of what's happening. The homework notebooks are very well put together and engaging. The lecture videos are minimal, and often match text in the notebook cells verbatim. I didn't mind this, as I thought continuously looking at the notebooks provided a more consistent experience. I did need to check the lecture videos more thoroughly for some of the latter math-heavy topics though. Professor Vuduc's videos were clear and helpful. The TA's also seemed to be quite responsive. Ultimately this is very much an intro class, as described. If you are confident in your knowledge of python, and you're familiar with applying it to data analytics problems, then ~70% of the class will be review. I personally am happy to have an easy A and a smooth transition back into fitting coursework into my life. If you're in a similar situation and want to learn as much new material as possible, then you should feel secure in opting out. At the very least I wish I had taken ISYE 6501 at the same time.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 4/6/2022
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 5/5 Loved it
+Review: Good intro class for someone new to Python. If you're already familiar with it, this class will be a piece of cake. Even so, the material still felt engaging and the homework assignments were interesting.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 2/26/2022
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: A very good intro to Python and some foundational data manipulation and analytic methods. Course material is interesting, homework assignments are well structured and leave lots of room for self exploration while not leaving you high and dry without any guidance, and tests are challenging but fair if you've been keeping up with the homework. A great course.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/24/2021
+Workload: 6 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Healthcare worker over here, with a moderate background in data analytics. Certainly no CS degree bearing computer wiz! The first midterm is the hardest. Once you take that and learn what failure looks like, you should be able to slap together enough time to do ALL the practice problems you can. How to get an A:
+The notebooks are helpful but if you want an A: do whatever it takes to complete the notebook, and spend the remainder of the effort/time into studying the practice exam material. They include around 20 past midterms/finals to review and those are your best possible bet into nailing an exam for full points. Do all of them and try to start from the oldest before doing the most recent and current exams. Additionally, make sure to save at least one exam to time yourself per problem. My recommended time breakdown for a 3-4 hr exam: Do the 1 pointers first (15 mins each), then 2 pointers (25 mins), and THEN attempt a 3 pointer. The 3 pointers are downright mean problems. It's okay if you don't fully grasp the notebook concepts as long as you learn how to recognize and defeat the problem in an exam setting, and the practice problems will get you there. Warning: Several students didn't monitor their time per problem, hit a hard question, and ended up spending so much time into it that they outright failed the first exam. DON'T DO THIS! If it's hard, skip to the next. Don't get bogged down! May the Force be with you. Prepare to learn Python and have fun <3
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/20/2021
+Workload: 4 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: I came into this course with an engineering degree (non-CS/DS). The extent of math learned in the degree was multivariate calculus and linear algebra. I had also completed the three GTx edX courses in full (Intro to Python, Intro to OOP in Java, and Data Structures & Algorithms). I was comfortable with nested data structures in Python before starting the unit, that I had picked up through a few basic personal projects. I had never used NumPy or Pandas prior to this unit. I found CSE6040 challenging, but the difficulty depends on how much depth you apply to the material. Rote learning is subconsciously encouraged here, unfortunately. You can implement math via code without actually understanding what's going on, and still do well in the program. Though I think this is short sighted and will lead to long term pain in other units that I plan to do (DO/CDA/HDDA/DL). Overall the material was descriptive, useful and practical. The SQL/Pandas/NumPy/SciPy experience is very handy and can be directly applied in the industry. Self-learning is required in some instances as the lecture videos may not cover things in enough depth, but this is anticipated in CS related material. The internet is hands down the best resource, and it's beneficial to get into the hang of becoming a resourceful web-searcher. The exams were challenging, but I think OMSA suffers from grade inflation. Maybe I think this because "curves" are uncommon in my part of the world. I expected a graduate level course to be much more difficult... Some of the reviews below are either grossly over-estimating what they think they know, or have no prereq knowledge. Without trying to sound pretentious, toughen up. There are constant reminders of the importance of math and coding prerequisites. Overall, I scored 100%. I enjoyed the unit and have been applying what I've learned in personal projects. I hope later units in the program are more rigorous.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/19/2021
+Workload: 10 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: Background: Economics undergrad where we used R for statistics, self-taught in Python (pandas) for a work project. I thought the course was fair in outlining course expectations and meeting them when it came to exam time. I prepared for this class by auditing the recommended intro to computing class at GT and drilling in Codewars. I got up to 5 kyu - not because I'm a spectacular programmer, but I tried to do at least 2 6-8 kyu problems everyday. Building up the muscle memory allowed me to focus on the linear algebra throughout the course. In this sense, the programming is a PRE-requisite. Can you imagine trying to do a cross-country roadtrip and learning how to drive on day 1? To me, what made the class challenging was the format of the exams. This is a credit to Dr. Vuduc and the TAs - even though the notebooks almost spoon-feed the analytics to you, the exams make you slow down and think critically through a problem. Reading them from top to bottom is also an amazing example of how to build an analytics project from start to finish, it already does a lot of the hard work for you. Overall, great class. It's structured well, makes you think, and I'm a better analyst for it.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: SPRING 2021
+Date: 12/17/2021
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 4/5 Loved it
+Review: After seeing some of the recent reviews for the Fall 2021 version of this class, I am kind of saddened that these people are graduate students (though this is likely part of the admissions process problem that allows  many people in even if they do not meet the required prereqs...or they are lying on their applications, idk). Note I took this in Spring 2021 but I doubt much has changed. If you know how to program as expected for admittance to the program (once again RE: program prereqs) then this course is pretty simple. Understand that this is not a course that will teach you data structures or loops, if you do not know what an array is then you will likely find this course difficult. The course is essentially applying Python to a series of simple ML problems to get people comfortable with the thought process behind programming for ML or maybe to dust off some of the rust for people who know how to program but have not done so for some time, nothing more, nothing less. I think this course could be made more challenging/interesting but because of the mentioned complaints it probably errs on the easier side.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/17/2021
+Workload: 5 hrs/week
+Difficulty: 2/5 Easy
+Overall: 4/5 Loved it
+Review: It’s really frustrating to see some of the previous reviews because this is such as well structured class in how it approaches programmatic problem solving. The notebooks are also very well set up to give you a really nice way to tie the code and the underlying linear algebra together. I thought it was a great introduction to data analytics through the lens of computing. That said I really feel bad for my classmates who entered this course without thorough Python experience (or a CS degree, etc.). Please, please, please make sure you have done your linear algebra and Python pre-reqs (ideally, the ones offered by GT through edX) before taking this course. I think one of the biggest (and only) pitfalls of this class is that you don’t get much of a chance to try things out before implementing it in your HW notebooks. Constructing an algorithm is difficult for someone who is newer to programming because it’s difficult to “see” the full results of what you’re doing. The HWs are set up in a way that requires some really precise debugging skills, and I do agree that’s a little unfair to expect that from the get-go. But it is a graduate-level class (unlike ISYE 6501, in my opinion…), and you get free reign to browse the web during exams. I think, as long as you’ve done your due diligence with pre-reqs, this course is not asking for too much.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/16/2021
+Workload: 5 hrs/week
+Difficulty: 1/5 Easy
+Overall: 1/5 Disliked
+Review: Why this course is in a graduate program is beyond me. It held my hand more than my 9th grade English teacher did. Why students admitted to a prestigious university in an analytics program complain about the difficulty of this course is beyond me. If you can't handle this course then you're just not cut out for data science and analytics. Go back to Excel formulas. I must be the stupid one then I guess.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/15/2021
+Workload: 10 hrs/week
+Difficulty: 1/5 Easy
+Overall: 5/5 Loved it
+Review: Here are some hard truths to keep OMSA going. The class is focused 100% on people with a computational background. However, the program has three tracks. Well ISYE 6501 is focused on the Analytical track and MGT 6203/8803, while the A/C-trackers hate it, is focused on the Business track. We can't cherry pick so why would you be able to? This class does NOT belong to the list of CORE classes. It must be, at best, an ELECTIVE for the COMPUTATIONAL track. This is an interdisciplinary degree, deal with it. But how many classes do you see where drop out rate is that high - last semester 27% withdrawal rate, semester before that 22%. Because they think the pre-requisites given by the program advisors are a joke. Therefore, they think they could easily skive by in the Bussy track without putting in the hard work after reading them in Reddit. To me, it's better to get weeded out now than to get screwed with your group-mates at CSE 6242 and/or ISYE 6740. I work in Python for living. Every Tom, Dick and Harry could now easily claim in LinkedIn to work in Python for a living with import pandas as pd . This is obviously not sufficient for a class that brings you a Masters degree. Exams are created new for each semester, and the level, in my opinion varies too much. Erm, if it is the same exam, wouldn't it be just copy and paste? Then what is there learning on the examination? It's not pure regurgitation. TAs will not help you because of the "no debugging policy." There's a reason why employers look up to Georgia Tech for their graduates. Hopefully are able to work independently without being a nuisance to our line managers and bosses.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/15/2021
+Workload: 12 hrs/week
+Difficulty: 4/5 Hard
+Overall: 4/5 Loved it
+Review: Overall I enjoyed the class, but struggled with some of the concepts. My background: business undergrad 15 yrs ago, have worked in finance for >10 years. I program at work frequently, but not in python before this class. I took the Joyner python pre-req before taking this class (highly recommended). Pre-reqs: I had limited linear algebra knowledge going in, but had all other pre-reqs done. I found the material very well constructed in this class, and it was challenging to me. It was satisfying to complete all the material in the weekly notebooks and was overwhelming in the first few weeks. I found if you do research outside of the provided materials, and pay attention to the Piazza, the notebooks are all doable, and you should get >90% on each of them I really struggled in the first midterm, but the next 2 tests weren't as bad. I had to work hard to get my B. In the last few notebooks of the class, I didn't understand what they were getting at with all the complex linear algebra notes. Somehow I got full marks on the notebooks through looking on Piazza (I don't know how in the last few weeks). It wasn't very rewarding completing those last few notebooks, as I was just lost. I would recommend completing 1 or 2 linear algebra classes BEFORE starting this class (look for Gilbert Strand OCW from MIT for free stuff that is excellent). Due to family commitments, I was unable to do this beyond the first few weeks of a Linear Algebra class. The pandas/numpy/python material was excellent in the first 2/3 of the class, and this was the reason I enjoyed it. I honestly got nothing out of the class after midterm 2, and I doubt I'll ever apply that material in my job. It was very abstract and theoretical. Overall though, my python/pandas/numpy skills are light years ahead of where they were before the class. I am already applying it in my career and am able to do complex tasks I couldn't even attempt before. I gained very practical knowledge from this class.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/14/2021
+Workload: 35 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: I work in Python for living. I hated this class. The level of homework and exam expectations have far exceeded my Python knowledge and expectations. According to omsa.ga you need an average 10 hours per week, I ended up putting more closer to 35. I didn't get good exam grades and I was 4.0 student in this program so far (3 semesters including coding).  Most of what the course teaches is really not practical, i.e. how to code what's going on inside Python libraries. Yes, its good to know, but making this class a core in Analytics program and not even teaching more practical use of Python in Analytics didn't make sense to me. Most Jupiter Notebooks are full of math formulas and long winded theory. You on your own most of the time some extra tutoring offered by GT undergrads. Professor only showed up in the beginning, and after midterm to share grades distribution. Also, exams are created new for each semester, and the level, in my opinion varies too much, some I finished in 30 mins, but in our semester I kept running out of 4 hours limit. The issue, as I see it, there are 2 types of people attending this class - those who already know Python and those, like me, who thought they knew Python or didn't know well. The first group aces the course, thus pushing course averages to high As and Bs. But how many classes do you see where drop out rate is that high - last semester 27% withdrawal rate, semester before that 22%.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/14/2021
+Workload: 35 hrs/week
+Difficulty: 5/5 Hard
+Overall: 1/5 Disliked
+Review: Background: business background with some occasional Python experience. Good knowledge of SAP and other packaged solutions. Analytical track. Work full-time. Foundation: Education consists of three parts: instruction of a particular topic + practicing what you have been taught + being tested on what you have been taught and practiced. This class ultimately FAILED this definition and purpose. Why? Because it tests you on something that is not taught. Because you practice on something that you have not been taught. Finally, because there is no instruction for a student to succeed in this class. You are thrown into a strong current in an attempt that you learn to swim on your own and there is no safety or instruction. You are only told that the river consists of water with (in some cases) a strong current.  This is my OPINION. Good things about this class: Very good Notebooks with clear practical implications. Tutors (AI/ML undergrads) do a great job most of the time by EXPLAINING and TEACHING some Python coding. Bad things about this class: The effort was substantially more than expected. I had to spend 30 hours per week. I have some Python experience while it was more of an occasional hobby to me. I also took intro IDX and Coursera courses. From the syllabus: it "assumes some prior programming experience (does not have to be Python) but asks you to review and extend that experience..".
+It is a complete MISREPRESENTATION.
+The degree of difficulty is at least AVERAGE (if not higher). Indeed, it is not "some prior experience (does not have to be Python)". Even an intro class on EDX and having some prior experience are not even close to what this class needs. The existing coding gap could not be overcome by going through extra online resources. To be prepared for this class, one must have at least 3-6 months of daily Python coding experience. The class is focused 100% on people with a computational background. However, the program has three tracks. There are two other tracks with people not having extensive coding experience. This class does NOT belong to the list of CORE classes. It must be, at best, an ELECTIVE for the COMPUTATIONAL track. A new Python class with a lower degree of difficulty could be a good replacement. Exercise descriptions in mid-terms and final exams were extremely verbose and vague, with a lot of information that is not needed. The verbosity made understanding what is required substantially more difficult. Instead of simply stating tasks, providing input and output examples, and briefly describing the conditions, the exercises tried to tell some abstract story. Frequently it took me more time to understand what is requested than to write a code—a very unfriendly writing style. Looking at a typical Technical Requirement Document should give the right idea about writing style. Frequently, instructors read the notebooks (code) on videos. No explanations. However, that does not help a student to understand the code (multiple examples in lectures: e.g., Regex). The code must be explained.
+I saw only one good explanation in the practical problem videos where an instructor explained a "group_by" use. I often felt that as a student, I was a nuisance to TAs. Typical response: "go and figure out from the context." If I could, I would not have asked the question, would I? What is the point of education if there is no teaching? Vocareum environment is very poor. It must be replaced entirely or upgraded. The kernel keeps dying in 5 minutes or less. The final exam dev environment was unacceptable. Prerequisites: I solved all kuy6s exercises. Not in one minute but inside of 5 minutes. I looked at kuy5s, considered them too academic, and did not try them. As it turned out, I still had a large coding gap. The prerequisites should have been some tasks to extract the data from the list of lists into the list of dictionaries, dictionary of lists, or something similar. This is a comparable level of skills and complexity. I would have taken a boot camp if I had seen such a prerequisite. It is not the knowledge of the lists, dictionaries, dataframes, or arrays. It is an ability to use them using comprehensions for data extraction purposes. Recommendations to students: You need a non-beginner coding experience to get a C in this class. Unless Python coding is your daily job or you have a GOOD experience, postpone this class and take 1-2 boot camps.
+Think about this as if you have finished your Algebra class and jumped straight to Calculus BC. With no help: "you have to figure it out on your own from online resources." Complete Notebooks at a 100% rate. It will not get you a C grade. But at least you will have some room for an error. It is doable because you will have at least one week to complete a weekly notebook. No time pressure as opposed to the exams with time limits. Lectures are useless except for the ones where some code for Notebooks is provided. You will not be tested on the material in lectures. Unfortunately, there are no live resources to help you with coding. Go through all past exams and practical problems. It is helpful, while not sufficient, to get a passing grade unless you understand the coding. Count only on yourself. TAs will not help you because of the "no debugging policy." Use tutors. They are AI/ML undergrads. At least, they explain the code. Kudos to all Tutors! Manage inevitable frustration and stress if you are not a Python programmer already. Plan and prepare for both. Focus on data extraction methods to/from different data structures and comprehension (list, dataframe, list of lists, dictionaries, etc.). This will help but you must work hard on your own. Class only allows using Python libraries that are loaded into Vocareum. It is very different from working in other environments (e.g. Pycharm, Anaconda, Homebrew, etc.). The class is very focused on NOT using many already developed libraries (e.g. for KMeans) but rather developing them. Math foundation and some code will be provided. This is a COMPUTATIONAL class from a CS Department (CSE). I passed the class (barely). I learned a lot. I can take on practically any project now (I will still use StackOverflow in many cases and no time pressure:)). But I taught myself (with the help of some great Tutors-Undergrads). I could have taken the notebooks and have achieved the same result.
+
+---
+
+Course: CSE-6040
+Course Name: Computing for Data Analysis: Methods and Tools
+Semester: FALL 2021
+Date: 12/13/2021
+Workload: 5 hrs/week
+Difficulty: 3/5 Medium
+Overall: 5/5 Loved it
+Review: The notebooks for this course are world-class, and they're worth your $1000 or so. You will come out with a strong understanding of Python and a decent understanding of a range of data analysis tools. I came in with a lot of Python background and thus found the first 2/3 of the class quite easy. I had nearly 0 linear algebra background, though, and found the last 1/3 of the class very difficult as a result (despite that the code in the last set of notebooks is really simple... When in doubt, np.dot()). I would take both prereqs equally seriously, though the course is better positioned to teach you Python along the way than it is to teach you linear algebra concepts.
