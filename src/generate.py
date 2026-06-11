@@ -1,10 +1,33 @@
 import os
+import re
 import sys
 
 from groq import Groq
 
 sys.path.insert(0, os.path.dirname(__file__))
 from embed_and_store import query as retrieve
+
+# All course IDs in the corpus, sorted longest-first so e.g. "CS-7643"
+# matches before a hypothetical shorter prefix.
+_KNOWN_COURSES = sorted([
+    "CS-6035", "CS-6200", "CS-6210", "CS-6250", "CS-6262",
+    "CS-6300", "CS-6400", "CS-6475", "CS-6476", "CS-6515",
+    "CS-6601", "CS-6603", "CS-6750", "CS-7641", "CS-7642",
+    "CS-7643", "CS-7646", "CSE-6040", "ISYE-6501", "MGT-6203",
+], key=len, reverse=True)
+
+# Accepts both "CS-7641" and "CS7641" (no hyphen) written in queries.
+_COURSE_PATTERNS = [
+    (re.compile(re.sub(r"-", r"-?", cid), re.IGNORECASE), cid)
+    for cid in _KNOWN_COURSES
+]
+
+
+def _extract_course_filter(question: str) -> dict | None:
+    for pattern, canonical_id in _COURSE_PATTERNS:
+        if pattern.search(question):
+            return {"course_id": canonical_id}
+    return None
 
 _GROQ_MODEL = "llama-3.3-70b-versatile"
 
@@ -29,9 +52,13 @@ def _format_context(chunks: list[dict]) -> str:
     lines = []
     for i, chunk in enumerate(chunks, 1):
         m = chunk["metadata"]
+        workload = f"{m['workload_hrs']} hrs/week" if m.get("workload_hrs", -1) != -1 else "not reported"
+        difficulty = f"{m['difficulty']}/5" if m.get("difficulty", 0) != 0 else "not reported"
+        overall = f"{m['overall_rating']}/5" if m.get("overall_rating", 0) != 0 else "not reported"
         lines.append(
             f"[Chunk {i} | {m['course_id']} {m['course_name']} "
-            f"| {m['semester']} {m['year']} | review_id={m['review_id']}]\n"
+            f"| {m['semester']} {m['year']} | review_id={m['review_id']} "
+            f"| workload={workload} difficulty={difficulty} overall={overall}]\n"
             f"{chunk['text']}"
         )
     return "\n\n".join(lines)
@@ -56,11 +83,17 @@ def ask(question: str, filters: dict | None = None, top_k: int = 5) -> dict:
     """
     Retrieve relevant chunks, call Groq, return answer + sources.
 
+    If no filters are provided, auto-detects a course ID in the question
+    and applies a course_id filter to prevent cross-course semantic bleed.
+
     Returns: {"answer": str, "sources": str}
     """
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
         raise RuntimeError("GROQ_API_KEY not set in environment")
+
+    if filters is None:
+        filters = _extract_course_filter(question)
 
     chunks = retrieve(question, filters=filters, top_k=top_k)
     if not chunks:
