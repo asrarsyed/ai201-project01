@@ -1,3 +1,18 @@
+"""
+Stretch Feature — Semantic Chunker (alternative to ingest.py's recursive splitter)
+
+Used by embed_and_store_semantic.py, not by the main pipeline. Not imported by
+generate.py or app.py — the main app uses the recursive chunker via embed_and_store.py.
+
+Splits review text at the sentence level by embedding each sentence with
+all-MiniLM-L6-v2 and inserting a chunk boundary whenever cosine similarity
+between adjacent sentence embeddings drops below a threshold (default 0.5).
+Produces topically coherent chunks that naturally separate discussion of projects,
+exams, and workload — at the cost of 5.7x more chunks (5,489 vs 962) and slower
+ingestion due to per-sentence embedding. Returns the same chunk dict schema as
+ingest.load_and_chunk() for drop-in compatibility.
+"""
+
 import logging
 import re
 
@@ -10,7 +25,7 @@ _model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Sentence boundary: punctuation followed by whitespace and a capital letter,
 # or end of string. Keeps the delimiter attached to the preceding sentence.
-_SENT_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z])')
+_SENT_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z])")
 
 
 def _split_sentences(text: str) -> list[str]:

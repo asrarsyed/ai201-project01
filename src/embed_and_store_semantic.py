@@ -1,3 +1,16 @@
+"""
+Stretch Feature — Semantic Embedding and Vector Store (parallel to embed_and_store.py)
+
+Loaded after semantic_chunker.py and ingest.py. Not used by the main app pipeline;
+run standalone to build and query the semantic collection for comparison.
+
+Same interface as embed_and_store.py (build(), query()) but targets a separate
+ChromaDB collection named 'omshub_reviews_semantic'. Chunks are produced by
+semantic_chunker.semantic_chunk() instead of ingest._recursive_split(). Produces
+lower cosine distances (0.32–0.43 vs 0.43–0.52) and more precise single-sentence
+hits, but at the cost of 5.7x more chunks and fragmented context per chunk.
+"""
+
 import logging
 import sys
 import os
@@ -68,14 +81,27 @@ def _load_semantic_chunks(docs_dir: str, threshold: float) -> list[dict]:
                 threshold=threshold,
             )
             if not chunks:
-                chunks = [{
-                    "text": review["review_text"],
-                    "review_id": review_id,
-                    "chunk_index": 0,
-                    **{k: review[k] for k in ("course_id", "course_name", "semester",
-                                               "year", "date", "workload_hrs",
-                                               "difficulty", "overall_rating", "source_file")},
-                }]
+                chunks = [
+                    {
+                        "text": review["review_text"],
+                        "review_id": review_id,
+                        "chunk_index": 0,
+                        **{
+                            k: review[k]
+                            for k in (
+                                "course_id",
+                                "course_name",
+                                "semester",
+                                "year",
+                                "date",
+                                "workload_hrs",
+                                "difficulty",
+                                "overall_rating",
+                                "source_file",
+                            )
+                        },
+                    }
+                ]
             all_chunks.extend(chunks)
 
     return all_chunks
@@ -141,6 +167,7 @@ def query(text: str, filters: dict | None = None, top_k: int = 5) -> list[dict]:
 
 if __name__ == "__main__":
     import sys
+
     sys.path.insert(0, os.path.dirname(__file__))
     from embed_and_store import query as query_recursive
     from embed_and_store import build as build_recursive
@@ -174,7 +201,7 @@ if __name__ == "__main__":
                 if res is None:
                     return " " * 37
                 m = res["metadata"]
-                label = f"[{i+1}] {m['course_id']} {m['review_id'][-7:]} d={res['distance']:.3f}"
+                label = f"[{i + 1}] {m['course_id']} {m['review_id'][-7:]} d={res['distance']:.3f}"
                 return label[:37]
 
             print(f"{fmt(r):<38}| {fmt(s)}")

@@ -1,3 +1,17 @@
+"""
+Milestone 4 — Embedding and Vector Store (Stage 2 of 5)
+
+Loaded after ingest.py. generate.py imports query() from here; the semantic
+variant embed_and_store_semantic.py mirrors this interface for its own collection.
+
+Embeds chunk texts from ingest.load_and_chunk() using all-MiniLM-L6-v2
+(384-dim, normalize_embeddings=True) and stores vectors + metadata in a local
+ChromaDB persistent collection named 'omshub_reviews' (cosine similarity space).
+build() is idempotent — skips if the collection is already populated.
+query() accepts optional metadata filters (e.g. course_id) and returns the
+top-k closest chunks with text, metadata, and cosine distance.
+"""
+
 import logging
 from pathlib import Path
 
@@ -85,9 +99,7 @@ def query(text: str, filters: dict | None = None, top_k: int = 5) -> list[dict]:
     """
     collection = _get_collection()
 
-    query_embedding = _model.encode(
-        text, normalize_embeddings=True
-    ).tolist()
+    query_embedding = _model.encode(text, normalize_embeddings=True).tolist()
 
     kwargs = dict(
         query_embeddings=[query_embedding],
@@ -127,9 +139,13 @@ if __name__ == "__main__":
         results = query(q)
         for i, r in enumerate(results, 1):
             m = r["metadata"]
-            print(f"\n  [{i}] {m['course_id']} ({m['semester']} {m['year']}) "
-                  f"| review_id={m['review_id']} chunk={m['chunk_index']} "
-                  f"| dist={r['distance']:.4f}")
-            print(f"       workload={m['workload_hrs']}h  difficulty={m['difficulty']}/5  overall={m['overall_rating']}/5")
+            print(
+                f"\n  [{i}] {m['course_id']} ({m['semester']} {m['year']}) "
+                f"| review_id={m['review_id']} chunk={m['chunk_index']} "
+                f"| dist={r['distance']:.4f}"
+            )
+            print(
+                f"       workload={m['workload_hrs']}h  difficulty={m['difficulty']}/5  overall={m['overall_rating']}/5"
+            )
             preview = r["text"][:200].replace("\n", " ")
             print(f"       {preview}...")

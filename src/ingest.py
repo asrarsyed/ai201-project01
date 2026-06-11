@@ -1,3 +1,22 @@
+"""
+Milestone 3 — Ingestion and Chunking (Stage 1 of 5)
+
+Loaded first, before any other pipeline stage. embed_and_store.py imports
+load_and_chunk() from here; embed_and_store_semantic.py imports _parse_reviews()
+and _course_id_slug() directly.
+
+Reads all .txt files in documents/, parses structured review fields
+(Course, Semester, Workload, Difficulty, Overall, Review), normalises metadata
+to typed values (workload_hrs: float, difficulty/overall_rating: int), assigns
+a review_id in the format COURSEID_SEMESTER_YEAR_INDEX (e.g. CS6250_SPRING_2022_001),
+and splits each review's text into token-bounded chunks using a custom recursive
+splitter. Token counting uses all-MiniLM-L6-v2's own tokenizer so chunk boundaries
+match exactly what the embedding model sees.
+
+Returns a flat list of chunk dicts, each carrying the full review metadata plus
+chunk_index and source_file.
+"""
+
 import logging
 import re
 from pathlib import Path
@@ -9,8 +28,7 @@ _model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
 def token_len(text: str) -> int:
-    return len(_model.tokenizer.encode(text, add_special_tokens=False,
-                                       truncation=False))
+    return len(_model.tokenizer.encode(text, add_special_tokens=False, truncation=False))
 
 
 def _parse_workload(raw: str) -> float | None:
@@ -48,7 +66,10 @@ def _parse_reviews(text: str, source_file: str) -> list[dict]:
         current_val_lines = []
 
         for line in lines:
-            m = re.match(r"^(Course|Course Name|Semester|Date|Workload|Difficulty|Overall|Review):\s*(.*)", line)
+            m = re.match(
+                r"^(Course|Course Name|Semester|Date|Workload|Difficulty|Overall|Review):\s*(.*)",
+                line,
+            )
             if m:
                 if current_key:
                     fields[current_key] = " ".join(current_val_lines).strip()
@@ -60,25 +81,36 @@ def _parse_reviews(text: str, source_file: str) -> list[dict]:
         if current_key:
             fields[current_key] = " ".join(current_val_lines).strip()
 
-        required = {"Course", "Course Name", "Semester", "Date", "Workload", "Difficulty", "Overall", "Review"}
+        required = {
+            "Course",
+            "Course Name",
+            "Semester",
+            "Date",
+            "Workload",
+            "Difficulty",
+            "Overall",
+            "Review",
+        }
         if not required.issubset(fields):
             continue
 
         semester_str = fields["Semester"]
         semester, year = _parse_semester(semester_str)
 
-        reviews.append({
-            "course_id": fields["Course"].strip(),
-            "course_name": fields["Course Name"].strip(),
-            "semester": semester,
-            "year": year,
-            "date": fields["Date"].strip(),
-            "workload_hrs": _parse_workload(fields["Workload"]),
-            "difficulty": _parse_rating(fields["Difficulty"]),
-            "overall_rating": _parse_rating(fields["Overall"]),
-            "review_text": fields["Review"].strip(),
-            "source_file": source_file,
-        })
+        reviews.append(
+            {
+                "course_id": fields["Course"].strip(),
+                "course_name": fields["Course Name"].strip(),
+                "semester": semester,
+                "year": year,
+                "date": fields["Date"].strip(),
+                "workload_hrs": _parse_workload(fields["Workload"]),
+                "difficulty": _parse_rating(fields["Difficulty"]),
+                "overall_rating": _parse_rating(fields["Overall"]),
+                "review_text": fields["Review"].strip(),
+                "source_file": source_file,
+            }
+        )
 
     return reviews
 
@@ -92,7 +124,7 @@ def _recursive_split(text: str, separators: list[str], chunk_size: int, overlap:
     for i, s in enumerate(separators):
         if s in text:
             sep = s
-            remaining_seps = separators[i + 1:]
+            remaining_seps = separators[i + 1 :]
             break
 
     if sep is None:
@@ -178,20 +210,22 @@ def load_and_chunk(
                 chunks = [review["review_text"]]
 
             for chunk_index, chunk_text in enumerate(chunks):
-                all_chunks.append({
-                    "text": chunk_text,
-                    "review_id": review_id,
-                    "chunk_index": chunk_index,
-                    "course_id": review["course_id"],
-                    "course_name": review["course_name"],
-                    "semester": review["semester"],
-                    "year": review["year"],
-                    "date": review["date"],
-                    "workload_hrs": review["workload_hrs"],
-                    "difficulty": review["difficulty"],
-                    "overall_rating": review["overall_rating"],
-                    "source_file": review["source_file"],
-                })
+                all_chunks.append(
+                    {
+                        "text": chunk_text,
+                        "review_id": review_id,
+                        "chunk_index": chunk_index,
+                        "course_id": review["course_id"],
+                        "course_name": review["course_name"],
+                        "semester": review["semester"],
+                        "year": review["year"],
+                        "date": review["date"],
+                        "workload_hrs": review["workload_hrs"],
+                        "difficulty": review["difficulty"],
+                        "overall_rating": review["overall_rating"],
+                        "source_file": review["source_file"],
+                    }
+                )
 
     return all_chunks
 
@@ -224,20 +258,22 @@ if __name__ == "__main__":
                 chunks = [review["review_text"]]
 
             for chunk_index, chunk_text in enumerate(chunks):
-                all_chunks.append({
-                    "text": chunk_text,
-                    "review_id": review_id,
-                    "chunk_index": chunk_index,
-                    "course_id": review["course_id"],
-                    "course_name": review["course_name"],
-                    "semester": review["semester"],
-                    "year": review["year"],
-                    "date": review["date"],
-                    "workload_hrs": review["workload_hrs"],
-                    "difficulty": review["difficulty"],
-                    "overall_rating": review["overall_rating"],
-                    "source_file": review["source_file"],
-                })
+                all_chunks.append(
+                    {
+                        "text": chunk_text,
+                        "review_id": review_id,
+                        "chunk_index": chunk_index,
+                        "course_id": review["course_id"],
+                        "course_name": review["course_name"],
+                        "semester": review["semester"],
+                        "year": review["year"],
+                        "date": review["date"],
+                        "workload_hrs": review["workload_hrs"],
+                        "difficulty": review["difficulty"],
+                        "overall_rating": review["overall_rating"],
+                        "source_file": review["source_file"],
+                    }
+                )
 
     print(f"Total chunks from CS-6250 + CS-7641: {len(all_chunks)}\n")
     print("=" * 70)

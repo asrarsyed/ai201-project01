@@ -1,3 +1,15 @@
+"""
+Milestone 5 — Query Interface (Stage 4 of 5, final user-facing layer)
+
+Entry point for the application. Run directly: `python src/app.py`
+Imports ask() from generate.py, which in turn pulls from embed_and_store.py.
+The vector store (chroma_db/) must already be built before launching.
+
+Gradio Blocks UI with a freeform text input, an answer display, and a sources
+display. Both Enter-key and button submission are wired. Theme: gr.themes.Soft
+with indigo accent and Inter font. Serves on port 7860 by default.
+"""
+
 import os
 import sys
 

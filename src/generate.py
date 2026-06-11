@@ -1,3 +1,18 @@
+"""
+Milestone 5 — Grounded Generation (Stage 3 of 5)
+
+Loaded after embed_and_store.py. app.py imports ask() from here.
+
+Retrieves top-k chunks from the vector store, formats them as context with
+injected metadata headers (workload, difficulty, overall_rating), and calls the
+Groq API (llama-3.3-70b-versatile, temperature=0.2) with a 6-rule system prompt
+that enforces answer grounding, explicit refusal on unknown queries, and
+disagreement representation. Source attribution is programmatically assembled
+from chunk metadata after the LLM call — the model never generates citations.
+Auto-detects course IDs in the query via regex and applies a course_id metadata
+filter to prevent cross-course semantic bleed.
+"""
+
 import os
 import re
 import sys
@@ -9,17 +24,36 @@ from embed_and_store import query as retrieve
 
 # All course IDs in the corpus, sorted longest-first so e.g. "CS-7643"
 # matches before a hypothetical shorter prefix.
-_KNOWN_COURSES = sorted([
-    "CS-6035", "CS-6200", "CS-6210", "CS-6250", "CS-6262",
-    "CS-6300", "CS-6400", "CS-6475", "CS-6476", "CS-6515",
-    "CS-6601", "CS-6603", "CS-6750", "CS-7641", "CS-7642",
-    "CS-7643", "CS-7646", "CSE-6040", "ISYE-6501", "MGT-6203",
-], key=len, reverse=True)
+_KNOWN_COURSES = sorted(
+    [
+        "CS-6035",
+        "CS-6200",
+        "CS-6210",
+        "CS-6250",
+        "CS-6262",
+        "CS-6300",
+        "CS-6400",
+        "CS-6475",
+        "CS-6476",
+        "CS-6515",
+        "CS-6601",
+        "CS-6603",
+        "CS-6750",
+        "CS-7641",
+        "CS-7642",
+        "CS-7643",
+        "CS-7646",
+        "CSE-6040",
+        "ISYE-6501",
+        "MGT-6203",
+    ],
+    key=len,
+    reverse=True,
+)
 
 # Accepts both "CS-7641" and "CS7641" (no hyphen) written in queries.
 _COURSE_PATTERNS = [
-    (re.compile(re.sub(r"-", r"-?", cid), re.IGNORECASE), cid)
-    for cid in _KNOWN_COURSES
+    (re.compile(re.sub(r"-", r"-?", cid), re.IGNORECASE), cid) for cid in _KNOWN_COURSES
 ]
 
 
@@ -28,6 +62,7 @@ def _extract_course_filter(question: str) -> dict | None:
         if pattern.search(question):
             return {"course_id": canonical_id}
     return None
+
 
 _GROQ_MODEL = "llama-3.3-70b-versatile"
 
@@ -54,7 +89,9 @@ def _format_context(chunks: list[dict]) -> str:
     lines = []
     for i, chunk in enumerate(chunks, 1):
         m = chunk["metadata"]
-        workload = f"{m['workload_hrs']} hrs/week" if m.get("workload_hrs", -1) != -1 else "not reported"
+        workload = (
+            f"{m['workload_hrs']} hrs/week" if m.get("workload_hrs", -1) != -1 else "not reported"
+        )
         difficulty = f"{m['difficulty']}/5" if m.get("difficulty", 0) != 0 else "not reported"
         overall = f"{m['overall_rating']}/5" if m.get("overall_rating", 0) != 0 else "not reported"
         lines.append(
