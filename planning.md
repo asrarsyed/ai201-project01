@@ -11,7 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
-I chose student course reviews for Georgia Tech's Online Master of Science programs pulled from OMSHub, a student-run review platform. Official course descriptions explain what a course covers, but they don't reveal what the workload is actually like, how many hours students typically spend each week, or which aspects of a course are considered most challenging. Students often have to piece together this information from review sites, Reddit discussions, and word of mouth.
+I chose student reviews for Georgia Tech's Online Master of Science (OMS) programs, sourced from [OMSHub](https://www.omshub.org/), a student-run review platform. Official course descriptions explain what a course covers, but they don't reveal what the workload is actually like, how many hours students typically spend each week, or which aspects of a course are considered most challenging. Students often have to piece together this information from review sites, Reddit discussions, and word of mouth.
 
 To make this knowledge easier to access, I collected approximately 400 of the most recent reviews across 20 courses as the foundation for my system that allows users to ask questions and receive answers grounded in real student experiences. While this project focuses on 20 courses, the pipeline can easily be expanded in the future to include all OMSHub courses with available reviews.
 

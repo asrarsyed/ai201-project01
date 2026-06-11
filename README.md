@@ -4,34 +4,39 @@
 
 ## Domain
 
-Student course reviews for Georgia Tech's Online Master of Science (OMS) programs, sourced from [OMSHub](https://www.omshub.org/), a student-run review platform. Official course descriptions list topics and prerequisites but reveal nothing about actual workload, exam format, which assignments are hardest, or whether a course is a good fit to pair alongside a heavier one. Students typically piece this together from Reddit threads, Discord servers, and word of mouth. This system makes that collective knowledge searchable through natural language queries grounded entirely in real student reviews across 20 courses.
+I chose student reviews for Georgia Tech's Online Master of Science (OMS) programs, sourced from [OMSHub](https://www.omshub.org/), a student-run review platform. Official course descriptions explain what a course covers, but they don't reveal what the workload is actually like, how many hours students typically spend each week, or which aspects of a course are considered most challenging. Students often have to piece together this information from review sites, Reddit discussions, and word of mouth.
+
+To make this knowledge easier to access, I collected approximately 400 of the most recent reviews across 20 courses as the foundation for my system that allows users to ask questions and receive answers grounded in real student experiences. While this project focuses on 20 courses, the pipeline can easily be expanded in the future to include all OMSHub courses with available reviews.
+
+> [!NOTE]
+> TLDR: Student reviews of courses for OMS programs is my domain; [OMSHUB](https://www.omshub.org/) is the source for my documents!
 
 ---
 
 ## Document Sources
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | CS-6035 Introduction to Information Security | OMSHub Course Reviews | [omshub.org/course/CS-6035](https://www.omshub.org/course/CS-6035) |
-| 2 | CS-6200 Introduction to Operating Systems | OMSHub Course Reviews | [omshub.org/course/CS-6200](https://www.omshub.org/course/CS-6200) |
-| 3 | CS-6210 Advanced Operating Systems | OMSHub Course Reviews | [omshub.org/course/CS-6210](https://www.omshub.org/course/CS-6210) |
-| 4 | CS-6250 Computer Networks | OMSHub Course Reviews | [omshub.org/course/CS-6250](https://www.omshub.org/course/CS-6250) |
-| 5 | CS-6262 Network Security | OMSHub Course Reviews | [omshub.org/course/CS-6262](https://www.omshub.org/course/CS-6262) |
-| 6 | CS-6300 Software Development Process | OMSHub Course Reviews | [omshub.org/course/CS-6300](https://www.omshub.org/course/CS-6300) |
-| 7 | CS-6400 Database Systems Concepts and Design | OMSHub Course Reviews | [omshub.org/course/CS-6400](https://www.omshub.org/course/CS-6400) |
-| 8 | CS-6475 Computational Photography | OMSHub Course Reviews | [omshub.org/course/CS-6475](https://www.omshub.org/course/CS-6475) |
-| 9 | CS-6476 Computer Vision | OMSHub Course Reviews | [omshub.org/course/CS-6476](https://www.omshub.org/course/CS-6476) |
-| 10 | CS-6515 Intro to Graduate Algorithms | OMSHub Course Reviews | [omshub.org/course/CS-6515](https://www.omshub.org/course/CS-6515) |
-| 11 | CS-6601 Artificial Intelligence | OMSHub Course Reviews | [omshub.org/course/CS-6601](https://www.omshub.org/course/CS-6601) |
-| 12 | CS-6603 AI, Ethics, and Society | OMSHub Course Reviews | [omshub.org/course/CS-6603](https://www.omshub.org/course/CS-6603) |
-| 13 | CS-6750 Human-Computer Interaction | OMSHub Course Reviews | [omshub.org/course/CS-6750](https://www.omshub.org/course/CS-6750) |
-| 14 | CS-7641 Machine Learning | OMSHub Course Reviews | [omshub.org/course/CS-7641](https://www.omshub.org/course/CS-7641) |
-| 15 | CS-7642 Reinforcement Learning | OMSHub Course Reviews | [omshub.org/course/CS-7642](https://www.omshub.org/course/CS-7642) |
-| 16 | CS-7643 Deep Learning | OMSHub Course Reviews | [omshub.org/course/CS-7643](https://www.omshub.org/course/CS-7643) |
-| 17 | CS-7646 Machine Learning for Trading | OMSHub Course Reviews | [omshub.org/course/CS-7646](https://www.omshub.org/course/CS-7646) |
-| 18 | CSE-6040 Computing for Data Analysis | OMSHub Course Reviews | [omshub.org/course/CSE-6040](https://www.omshub.org/course/CSE-6040) |
-| 19 | ISYE-6501 Intro to Analytics Modeling | OMSHub Course Reviews | [omshub.org/course/ISYE-6501](https://www.omshub.org/course/ISYE-6501) |
-| 20 | MGT-6203 Data Analytics in Business | OMSHub Course Reviews | [omshub.org/course/MGT-6203](https://www.omshub.org/course/MGT-6203) |
+| # | Source | Type | Local file | Original URL |
+|---|--------|------|:----------:|:------------:|
+| 1 | CS-6035 Introduction to Information Security | OMSHub Course Reviews | [File](documents/CS-6035.txt) | [URL](https://www.omshub.org/course/CS-6035) |
+| 2 | CS-7646 Machine Learning for Trading | OMSHub Course Reviews | [File](documents/CS-7646.txt) | [URL](https://www.omshub.org/course/CS-7646) |
+| 3 | CS-7641 Machine Learning | OMSHub Course Reviews | [File](documents/CS-7641.txt) | [URL](https://www.omshub.org/course/CS-7641) |
+| 4 | CS-6515 Intro to Graduate Algorithms | OMSHub Course Reviews | [File](documents/CS-6515.txt) | [URL](https://www.omshub.org/course/CS-6515) |
+| 5 | CS-6200 Introduction to Operating Systems | OMSHub Course Reviews | [File](documents/CS-6200.txt) | [URL](https://www.omshub.org/course/CS-6200) |
+| 6 | CS-6601 Artificial Intelligence | OMSHub Course Reviews | [File](documents/CS-6601.txt) | [URL](https://www.omshub.org/course/CS-6601) |
+| 7 | CS-6750 Human-Computer Interaction | OMSHub Course Reviews | [File](documents/CS-6750.txt) | [URL](https://www.omshub.org/course/CS-6750) |
+| 8 | CS-7642 Reinforcement Learning | OMSHub Course Reviews | [File](documents/CS-7642.txt) | [URL](https://www.omshub.org/course/CS-7642) |
+| 9 | CS-6476 Computer Vision | OMSHub Course Reviews | [File](documents/CS-6476.txt) | [URL](https://www.omshub.org/course/CS-6476) |
+| 10 | ISYE-6501 Intro to Analytics Modeling | OMSHub Course Reviews | [File](documents/ISYE-6501.txt) | [URL](https://www.omshub.org/course/ISYE-6501) |
+| 11 | CSE-6040 Computing for Data Analysis | OMSHub Course Reviews | [File](documents/CSE-6040.txt) | [URL](https://www.omshub.org/course/CSE-6040) |
+| 12 | CS-7643 Deep Learning | OMSHub Course Reviews | [File](documents/CS-7643.txt) | [URL](https://www.omshub.org/course/CS-7643) |
+| 13 | CS-6210 Advanced Operating Systems | OMSHub Course Reviews | [File](documents/CS-6210.txt) | [URL](https://www.omshub.org/course/CS-6210) |
+| 14 | MGT-6203 Data Analytics in Business | OMSHub Course Reviews | [File](documents/MGT-6203.txt) | [URL](https://www.omshub.org/course/MGT-6203) |
+| 15 | CS-6603 AI, Ethics, and Society | OMSHub Course Reviews | [File](documents/CS-6603.txt) | [URL](https://www.omshub.org/course/CS-6603) |
+| 16 | CS-6250 Computer Networks | OMSHub Course Reviews | [File](documents/CS-6250.txt) | [URL](https://www.omshub.org/course/CS-6250) |
+| 17 | CS-6400 Database Systems Concepts and Design | OMSHub Course Reviews | [File](documents/CS-6400.txt) | [URL](https://www.omshub.org/course/CS-6400) |
+| 18 | CS-6300 Software Development Process | OMSHub Course Reviews | [File](documents/CS-6300.txt) | [URL](https://www.omshub.org/course/CS-6300) |
+| 19 | CS-6262 Network Security | OMSHub Course Reviews | [File](documents/CS-6262.txt) |[URL](https://www.omshub.org/course/CS-6262) |
+| 20 | CS-6475 Computational Photography | OMSHub Course Reviews | [File](documents/CS-6475.txt) | [URL](https://www.omshub.org/course/CS-6475) |
 
 ---
 
