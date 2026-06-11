@@ -1,12 +1,16 @@
+import logging
 import re
 from pathlib import Path
 from sentence_transformers import SentenceTransformer
+
+logging.getLogger("transformers.tokenization_utils_base").setLevel(logging.ERROR)
 
 _model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
 def token_len(text: str) -> int:
-    return len(_model.tokenizer.encode(text, add_special_tokens=False))
+    return len(_model.tokenizer.encode(text, add_special_tokens=False,
+                                       truncation=False))
 
 
 def _parse_workload(raw: str) -> float | None:
