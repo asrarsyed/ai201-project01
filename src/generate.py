@@ -44,7 +44,9 @@ explicitly. Use phrasing like "some students report... while others note..." —
 flatten conflicting opinions into a single claim.
 4. Do not fabricate citations, course names, or statistics. Every claim must be \
 traceable to the provided chunks.
-5. Do not add a sources or references section — that is handled separately.\
+5. Do not add a sources or references section — that is handled separately.
+6. Do not reference chunk numbers (e.g. "Chunk 1", "Chunk 2") in your answer. \
+Write in natural prose as if summarizing student opinions directly.\
 """
 
 
